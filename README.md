@@ -1,10 +1,10 @@
 # What is PostmanSG
 
-PostmanSG is a mass messaging tool for the Singapore Government, officially launched on 14 May 2020.
+PostmanSG is a mass messaging tool for the Singapore Government.
 
-We've since sent out more than 100 million messages from over 90 agencies. This includes quarantine orders, COVID test results and employer notices.
+We've since sent out more than 100 million messages from over 90 agencies. This includes quarantine orders, COVID-19 test results and employer notices.
 
-Start using PostmanSG by **logging** in with an `@agency.gov.sg` email address!
+Start using PostmanSG by logging in with an `@agency.gov.sg` email address!
 
 ## What can PostmanSG do?
 
@@ -13,7 +13,7 @@ Start using PostmanSG by **logging** in with an `@agency.gov.sg` email address!
 * **Mass send SMSes**: Enter your Twilio credentials under `Settings`, and PostmanSG will send those messages via SMS. No integration with Twilio is needed.
 * **Mass send Telegram messages through a bot**: Get your recipients to subscribe to your Telegram bot and use PostmanSG to send Telegram messages to the subscribers by uploading the subscriber's contact list.
 * **View stats**: Keep track of your campaign's progress as it is sending and check back when it is completed.
-* **Scheduled sending**: Create your campaign but send it out at a later time.
+* **Scheduled sending**: Create your campaign but send it out at a later **time**.
 
 ## Is PostmanSG secure?
 
@@ -29,7 +29,7 @@ We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligibl
 
 | Normal email/SMS/Telegram | Non-sensitive to sensitivity low-normal | <ul><li>Transaction</li><li>Notification</li><li>Information broadcast</li><li>Receipts</li><li>Reminders</li></ul> |
 | ------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Password-protected email  | Sensitivity high/restricted             | <ul><li>Covid-19 test result</li><li>Blood test result</li><li>Exam test result</li></ul>                           |
+| Password-protected email  | Sensitivity high/restricted             | <ul><li>COVID-19 test result</li><li>Blood test result</li><li>Exam test result</li></ul>                           |
 
 ## Difference between the Web App and Programmatic APIs
 
