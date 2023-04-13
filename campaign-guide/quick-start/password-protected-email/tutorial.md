@@ -11,22 +11,22 @@ description: >-
 ```
 Greetings,
 
-This is the general message that the recipient will receive in his or her email inbox. 
+This is the general message that the recipient will receive in his or her email inbox.
 
 -----
 
-Please click on the following link <a href="{{protectedlink}}">{{protectedlink}}</a> 
-to open your private content. 
+Please click on the following link <a href="{{protectedlink}}">{{protectedlink}}</a>
+to open your private content.
 
-<i>To open the password-protected email page, please enter the 
-last 4 characters of your NRIC, including the letter in uppercase, 
-followed by your date of birth in DDMMYYYY format. For example, 
-if your NRIC is "T1234567A" and your birthdate is "13 January 2020", 
+<i>To open the password-protected email page, please enter the
+last 4 characters of your NRIC, including the letter in uppercase,
+followed by your date of birth in DDMMYYYY format. For example,
+if your NRIC is "T1234567A" and your birthdate is "13 January 2020",
 the 12-character password will be "567A13012020". </i>
 
-<b>Why are you receiving an email from Postman.gov.sg?</b>
-Postman.gov.sg is a mass email and SMS service for the Singapore government. 
-We send password-protected emails on behalf of government agencies. 
+<b>Why are you receiving an email from PostmanSG?</b>
+PostmanSG is a mass email and SMS service for the Singapore government.
+We send password-protected emails on behalf of government agencies.
 
 -----
 This is a system-generated email. Please do not reply.
@@ -37,10 +37,10 @@ This is a system-generated email. Please do not reply.
 ```
 <img src="https://file.go.gov.sg/postman-telegram-header.png" width="500" />
 
-Customise the header image with your agency logo ⤴. 
+Customise the header image with your agency logo ⤴.
 
 This is a secret or private message that will be password-protected.
-You can customise this page by following the power users email formatting <a href="https://guide.postman.gov.sg/guide/power-users#email-formatting"> guide</a>. 
+You can customise this page by following the power users email formatting <a href="https://guide.postman.gov.sg/guide/power-users#email-formatting"> guide</a>.
 
 ---
 
@@ -48,7 +48,7 @@ Dear {{name}},
 
 Your secret pin is {{pin}}.
 
-Please keep your pin safe and not share it with others. 
+Please keep your pin safe and not share it with others.
 
 Sincerely,
 

@@ -23,6 +23,6 @@ The following steps described the process of setting up custom domain on Postman
 4. **Agency to verify if the configuration works.**\
    Postman uses Amazon SES, which may take up to 72 hours to complete the verification process in Step 2.\
    \
-   To check if you the domain configuration is done, you can either try sending an email using API or log into [Postman.gov.sg](http://postman.gov.sg/) portal and see if you are able to select your custom domain e.g ([do\_not\_reply@ica.gov.sg](mailto:do\_not\_reply@ica.gov.sg)) to send your campaign.
+   To check if you the domain configuration is done, you can either try sending an email using API or log into [PostmanSG](http://postman.gov.sg/) portal and see if you are able to select your custom domain e.g ([do\_not\_reply@ica.gov.sg](mailto:do\_not\_reply@ica.gov.sg)) to send your campaign.
 5. **If you require your emails to be receivable to .gov.sg emails**\
    Most agency domains would have been whitelisted on Postman but if you would like confirmation, you may reach the team separately on this.\
