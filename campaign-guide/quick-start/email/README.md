@@ -36,7 +36,7 @@ We understand that logo refreshes happen from time to time. Logos can only be up
 
 ## How can I format my email?
 
-Go to [Power User](https://postman-gov-sg.gitbook.io/guide/guide/power-users).
+Go to [Formatting and Images](https://guide.postman.gov.sg/campaign-guide/quick-start/email/format-bar).
 
 {% hint style="info" %}
 You can watch the video on Postman's [workplace group](https://onepublicservice.workplace.com/groups/postman.gov.sg/permalink/2722770121325355/) to go through the set-up.
