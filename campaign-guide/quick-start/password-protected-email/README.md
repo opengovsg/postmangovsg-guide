@@ -46,6 +46,3 @@ To open the link from the test message, you need to know the password for the fi
 
 Now you are done!
 
-## How can I format the password-protected page?
-
-Go to [Power User](https://postman-gov-sg.gitbook.io/guide/guide/power-users).
