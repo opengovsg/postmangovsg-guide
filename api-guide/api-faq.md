@@ -10,7 +10,7 @@ description: >-
 
 The following steps described the process of setting up custom domain on Postman.
 
-1. **Contact Postman team** that you intend to customise your domain with the following information:
+1. **Email or submit a** [**form**](https://go.gov.sg/postman-contact-us) **to Postman team,** let us know that you intend to customise your domain with the following information:
    * Your use case (if you have not shared with Postman team previously)
    * The email address that you intend to send your email out from (e.g no-reply@agency.gov.sg)
    * If you have a launch timeline, please also inform us ahead for us to prioritise your request
