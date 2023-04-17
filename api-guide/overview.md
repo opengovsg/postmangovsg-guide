@@ -6,7 +6,7 @@ description: This page is under construction
 
 ## Programmatic APIs
 
-\[This section is under construction]
+Our programmatic APIs allows you to send emails on demand programmatically. For example, when someone applies for a grant in your system, you can configure your system to call Postman Programmatic API to send out an acknowledgement email. Similar concept can be used for sending OTPs, appointment booking confirmation, status update emails and many more.&#x20;
 
 ## Campaign APIs
 
