@@ -155,15 +155,3 @@ Below is a list of statuses you might receive and what it means.
 By default, your emails will be sent from donotreply@mail.postman.gov.sg domain.
 
 If you would like to send through your own email domain, there are additional configurations you need to do on your DNS. You may refer to this [page](api-faq.md#how-to-set-up-custom-domain) for more details.
-
-### Programmatic SMS API
-
-_Twilio has_ [_really good API documentation_](https://www.twilio.com/docs/sms) _so we recommend that you integrate with Twilio directly._
-
-_If you prefer to use PostmanSG Programmatic SMS API, you may find the Programmatic SMS API endpoints on our_ [_Swagger Docs_](https://api.postman.gov.sg/docs/#/SMS/post\_transactional\_sms\_send)_._
-
-_If you have additional enquiries or potential use cases using the Campaigns API, please_ [_contact us_](https://go.gov.sg/postman-contact-us)_._
-
-###
-
-###

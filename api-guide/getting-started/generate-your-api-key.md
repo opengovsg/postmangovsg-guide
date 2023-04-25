@@ -1,8 +1,8 @@
 # Generate your API Key
 
-Before you start using our API, you have to generate a bearer token or API key. This API key will be used to authenticate you as a user and for PostmanSG to verify that you are authorised to make the API call. Think of this as a password to key in to enter room.
+Before you start using our API, you have to generate an API key. This API key can be used to make API calls and serve to authenticate you to our system. Keep this API key safe and do not share it with anyone.
 
-All PostmanSG users (government officers with .gov.sg emails) are able to generate this API key and use it to authenticate themselves or their system to call PostmanSG API.
+All users that can log into `postman.gov.sg` are able to generate this API key and use it call PostmanSG API.
 
 ## Bearer Token & API Key Generation
 
