@@ -35,7 +35,7 @@ PostmanSG allows you to control how much each message is personalised. Message t
 | `{{keyword}}`                                                                                           | Unique message for everyone. |
 
 {% hint style="warning" %}
-PostmanSG has implemented **a universal footer** for all email campaigns in order to comply with [Singapore's Spam Control Act ](https://sso.agc.gov.sg/Act/SCA2007)and align with international bulk email practices ([CAN-SPAM Act](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) or [EU’s ePrivacy Directive](https://ec.europa.eu/information\_society/doc/factsheets/024-privacy-and-spam-en.pdf)). Please go to our [unsubscribe page](https://guide.postman.gov.sg/guide/quick-start/email/weekly-digest-of-unsubscription) to learn more about this feature.
+PostmanSG has implemented **a universal footer** for all email campaigns in order to comply with [Singapore's Spam Control Act ](https://sso.agc.gov.sg/Act/SCA2007)and align with international bulk email practices ([CAN-SPAM Act](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) or [EU’s ePrivacy Directive](https://ec.europa.eu/information\_society/doc/factsheets/024-privacy-and-spam-en.pdf)). Please go to our [unsubscribe page](https://guide.postman.gov.sg/campaign-guide/quick-start/email/weekly-digest-of-unsubscription) to learn more about this feature.
 {% endhint %}
 
 ### Step 2: Set up a contact list in CSV format

@@ -24,7 +24,7 @@ Yes, you may have a few people who are sending things out from PostmanSG on a re
 
 ![](../../../.gitbook/assets/telegram-cred-token.png)
 
-Subscribe to your own bot first (see [below](https://guide.postman.gov.sg/guide/getting-started/telegram-bot/add-telegram-bot-token-in-postman#how-to-subscribe-to-your-bot)) and then you can enter your phone number here to validate the Telegram bot token.
+Subscribe to your own bot first (see [below](https://guide.postman.gov.sg/campaign-guide/getting-started/telegram-bot/add-telegram-bot-token-in-postman#how-to-subscribe-to-your-bot)) and then you can enter your phone number here to validate the Telegram bot token.
 
 ![](../../../.gitbook/assets/telegram-test-cred.png)
 

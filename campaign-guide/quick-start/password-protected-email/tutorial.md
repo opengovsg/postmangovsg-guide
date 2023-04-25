@@ -40,7 +40,7 @@ This is a system-generated email. Please do not reply.
 Customise the header image with your agency logo ⤴.
 
 This is a secret or private message that will be password-protected.
-You can customise this page by following the power users email formatting <a href="https://guide.postman.gov.sg/guide/power-users#email-formatting"> guide</a>.
+You can customise this page by following this <a href="https://guide.postman.gov.sg/campaign-guide/quick-start/password-protected-email/tutorial">**guide**</a>.
 
 ---
 

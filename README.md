@@ -37,13 +37,13 @@ We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligibl
 
 ## Difference between the Web App and Programmatic APIs
 
-**Web App:** Users can access PostmanSG by going to [https://postman.gov.sg](https://postman.gov.sg). The web app is a user interface that allows all users to send campaigns.
+**Web App:** Users can access PostmanSG by going to [https://postman.gov.sg](https://postman.gov.sg). The web app has a user interface that allows users to send templated messages via campaigns.
 
-**Programmatic APIs**: In addition to campaigns, we also allow technical users to call our APIs to send messages programmatically. This typically requires a system integration involving your engineers or IT support. In order to use this feature, you need to generate an API key from `Settings` in the PostmanSG web app. You can find more by going to our API Guide [here](https://guide.postman.gov.sg/api-guide/overview).
+**Programmatic APIs**: Users who manage their own systems could also call our APIs to send messages programmatically. In order to use this feature, you need to generate an API key from `Settings` in the PostmanSG web app. You can find more by going to our API Guide [here](https://guide.postman.gov.sg/api-guide/overview).
 
 | Access Type                                                                    | Channels                     | Type of Use Case             | Prerequisite                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------ | ---------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Web app](https://guide.postman.gov.sg/guide/getting-started)                  | Email, SMS, and Telegram Bot | Manual intervention required | <p><code>@agency.gov.sg</code> email access to log in</p><p><br>Fill out an access request <a href="https://go.gov.sg/postman-non-gov-sg-application">form</a> if you do not have an <code>@agency.gov.sg</code> email address.</p> |
+| [Web app](https://guide.postman.gov.sg/campaign-guide/quick-start)                  | Email, SMS, and Telegram Bot | Manual intervention required | <p><code>@agency.gov.sg</code> email access to log in</p><p><br>Fill out an access request <a href="https://go.gov.sg/postman-non-gov-sg-application">form</a> if you do not have an <code>@agency.gov.sg</code> email address.</p> |
 | [API](https://github.com/opengovsg/postmangovsg/blob/master/docs/api-usage.md) | Email & SMS                  | System-generated             | Engineering or IT team to send messaging info from the source system to PostmanSG.                                                                                                                                                  |
 
 ## Open-source contribution

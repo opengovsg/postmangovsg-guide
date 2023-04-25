@@ -16,7 +16,7 @@ description: >-
 
 ## No prerequisite
 
-PostmanSG will handle the email sending for you. **You do not need to do anything to start using our service**. Simply log in and start using PostmanSG. Go back to [Quick Start](https://guide.postman.gov.sg/guide/quick-start) to learn how to use PostmanSG.
+PostmanSG will handle the email sending for you. **You do not need to do anything to start using our service**. Simply log in and start using PostmanSG. Go back to [Quick Start](https://guide.postman.gov.sg/campaign-guide/quick-start) to learn how to use PostmanSG.
 
 ## Cost
 

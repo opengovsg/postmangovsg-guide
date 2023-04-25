@@ -24,7 +24,7 @@ Before you send an SMS or Telegram message to citizens, you will be asked to ent
 
 ### I don’t know how to find credentials in my Twilio console!
 
-Not to worry! Go to [Getting Started - SMS & Twilio](https://guide.postman.gov.sg/guide/getting-started/sms#find-twilio-credentials-on-twilio-console) for more information.
+Not to worry! Go to [Getting Started - SMS & Twilio](https://guide.postman.gov.sg/campaign-guide/getting-started/sms#find-twilio-credentials-on-twilio-console) for more information.
 
 ## Features
 

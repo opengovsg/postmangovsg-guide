@@ -33,7 +33,7 @@ Guide to set-up your Telegram Bot: [Quick Start > Telegram Bot](https://guide.po
 
 ## Regular Pricing for SMS & Telegram Bot Channels
 
-For information on regular pricing, please go to [FAQs > For Senders > Cost Breakdown](https://guide.postman.gov.sg/faqs/faq-sender/cost-breakdown).
+For information on regular pricing, please go to [FAQs > For Senders > Cost Breakdown](https://guide.postman.gov.sg/faq/faq-sender/cost-breakdown).
 
 ## What if I need additional demo campaigns?
 
