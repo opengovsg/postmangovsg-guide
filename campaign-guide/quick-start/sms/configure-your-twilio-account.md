@@ -29,7 +29,7 @@ Then, create a new **standard** API key by selecting `Create API key`.
 
 Create a `friendly name` for your API key so you can easily identify it in the future, and select `Standard` as the API key type.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM.png" alt=""><figcaption></figcaption></figure>
 
 We need your `Account SID` and `secret key` for PostmanSG. Please keep these safe.
 
@@ -152,7 +152,7 @@ Navigate back to the console and under **Try it out**, select **Send an SMS.** I
 
 Type your message and click send to check if you receive the SMS and if the SenderID is accurate.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.52.40 PM (1).png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.52.40 PM.png>)
 
 **If you don't receive your test SMS**, it is likely that this SenderID has been taken by another agency. You should use another Alphanumeric Sender ID. Otherwise, you may reach out to Twilio's support team for help.
 

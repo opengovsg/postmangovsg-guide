@@ -52,4 +52,4 @@ Do note that if a recipient unsubscribes some time after the campaign is sent, y
 
 3\. In the recipient unsubscription flow, they will be asked for the reason for their unsubscribe request (e.g. they no longer want to receive emails from this campaign, they never signed up, etc.). This helps you gather more information on your campaigns and why people unsubscribe.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-28 at 6.15.37 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-28 at 6.15.37 PM (1).png" alt=""><figcaption></figcaption></figure>

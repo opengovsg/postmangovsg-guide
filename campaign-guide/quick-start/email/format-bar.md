@@ -1,6 +1,6 @@
 # Formatting and Images
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-27 at 2.59.24 PM.png" alt=""><figcaption><p><em>PostmanSG campaign template</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-27 at 2.59.24 PM (1).png" alt=""><figcaption><p><em>PostmanSG campaign template</em></p></figcaption></figure>
 
 We support
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is PostmanSG](README.md)
+* [About PostmanSG](README.md)
 
 ## Campaign Guide
 
@@ -48,14 +48,14 @@
   * [API Documentation](api-guide/programmatic-email-api/api-documentation.md)
 * [Programmatic SMS API](api-guide/programmatic-sms-api.md)
 
-## FAQs
+## FAQ
 
-* [PostmanSG Uptime](faqs/postman-uptime.md)
-* [For Recipients](faqs/faq-recipients/README.md)
-  * [Check Email Authenticity](faqs/faq-recipients/check-email-authenticity.md)
-* [For Senders](faqs/faq-sender/README.md)
-  * [Messaging Channel Comparison](faqs/faq-sender/messaging-channel-comparison.md)
-  * [Cost Breakdown](faqs/faq-sender/cost-breakdown.md)
+* [PostmanSG Uptime](faq/postman-uptime.md)
+* [For Recipients](faq/faq-recipients/README.md)
+  * [Check Email Authenticity](faq/faq-recipients/check-email-authenticity.md)
+* [For Senders](faq/faq-sender/README.md)
+  * [Messaging Channel Comparison](faq/faq-sender/messaging-channel-comparison.md)
+  * [Cost Breakdown](faq/faq-sender/cost-breakdown.md)
 
 ## Legal
 
