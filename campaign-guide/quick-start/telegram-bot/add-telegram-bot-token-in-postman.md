@@ -10,7 +10,7 @@ Bot token is the way that PostmanSG recognizes your agency's bot. We need your b
 
 ### Can multiple people from my agency add the bot credential under settings?
 
-Yes, you may have a few people who are sending things out from Postman on a regular basis and you just need to save the same bot token under settings to share the bot.
+Yes, you may have a few people who are sending things out from PostmanSG on a regular basis and you just need to save the same bot token under settings to share the bot.
 
 ### **Step 1**: Select Add credentials
 
@@ -41,4 +41,4 @@ Go to the telegram link for your bot `https://t.me/[your bot name]`
 Do not type your phone number. PostmanSG will only receive the subscriber's phone number in our system when the button is clicked.
 {% endhint %}
 
-![This is an example bot set up by the Postman team.](../../../.gitbook/assets/telegram-bot-recipient-onboarding.png)
+![This is an example bot set up by the PostmanSG team.](../../../.gitbook/assets/telegram-bot-recipient-onboarding.png)

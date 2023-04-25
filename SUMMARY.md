@@ -24,7 +24,7 @@
     * [The Basics](campaign-guide/quick-start/sms/rationale-for-choosing-twilio.md)
     * [Onboard onto Twilio](campaign-guide/quick-start/sms/onboard-onto-twilio.md)
     * [Configure your Twilio Account](campaign-guide/quick-start/sms/configure-your-twilio-account.md)
-    * [Add Twilio Credentials in Postman](campaign-guide/quick-start/sms/credentials.md)
+    * [Add Twilio Credentials in PostmanSG](campaign-guide/quick-start/sms/credentials.md)
     * [Use your Saved SMS Credentials](campaign-guide/quick-start/sms/use-saved-sms-credential-in-the-campaign.md)
     * [Sending an SMS to a Foreign Number](campaign-guide/quick-start/sms/send-sms-to-a-foreign-number.md)
     * [SMS Statistics](campaign-guide/quick-start/sms/sms-statistics.md)
@@ -50,7 +50,7 @@
 
 ## FAQs
 
-* [Postman Uptime](faqs/postman-uptime.md)
+* [PostmanSG Uptime](faqs/postman-uptime.md)
 * [For Recipients](faqs/faq-recipients/README.md)
   * [Check Email Authenticity](faqs/faq-recipients/check-email-authenticity.md)
 * [For Senders](faqs/faq-sender/README.md)

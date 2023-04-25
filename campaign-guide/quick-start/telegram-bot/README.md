@@ -7,7 +7,7 @@
 
 ### What is Telegram?
 
-Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows, macOS and Linux. Users can send messages and image links to recipients using Postman's service.
+Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows, macOS and Linux. Users can send messages and image links to recipients using PostmanSG's service.
 
 ## Prerequisite
 
@@ -19,7 +19,7 @@ Go to [Cost Breakdown](https://guide.postman.gov.sg/faqs/faq-sender/cost-breakdo
 
 ## Does PostmanSG send messages to everyone who subscribes to the bot?
 
-You can control who you contact through your Telegram bot by uploading the mobile number of the recipients. Postman converts the phone number you uploaded to Telegram user IDs and sends your message to Telegram bot subscribers.
+You can control who you contact through your Telegram bot by uploading the mobile number of the recipients. PostmanSG converts the phone number you uploaded to Telegram user IDs and sends your message to Telegram bot subscribers.
 
 ## Create a Telegram Bot in Telegram
 

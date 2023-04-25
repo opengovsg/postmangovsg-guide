@@ -10,7 +10,7 @@ Make sure that you have generated the [bearer token](https://github.com/opengovs
 
 ### Response Codes
 
-Postman uses conventional API Responses Codes to indicate the success or failure of an API request.
+PostmanSG uses conventional API Responses Codes to indicate the success or failure of an API request.
 
 {% hint style="info" %}
 Response codes do not tell you the delivery status or if your emails are sent. You should be calling the [status](https://api.postman.gov.sg/docs/#/Email/get\_transactional\_email) endpoint.
@@ -47,7 +47,7 @@ This is configurable so if you think we require higher rate limit, feel free to 
 
 #### Sending attachment through programmatic email API
 
-Postman API allows the sending of attachment. Here are a few things to note:
+PostmanSG API allows the sending of attachment. Here are a few things to note:
 
 * Attachment should not exceed 2MB in size
 * You can only attach a maximum of 5 attachments per email
@@ -160,7 +160,7 @@ If you would like to send through your own email domain, there are additional co
 
 _Twilio has_ [_really good API documentation_](https://www.twilio.com/docs/sms) _so we recommend that you integrate with Twilio directly._
 
-_If you prefer to use Postman Programmatic SMS API, you may find the Programmatic SMS API endpoints on our_ [_Swagger Docs_](https://api.postman.gov.sg/docs/#/SMS/post\_transactional\_sms\_send)_._
+_If you prefer to use PostmanSG Programmatic SMS API, you may find the Programmatic SMS API endpoints on our_ [_Swagger Docs_](https://api.postman.gov.sg/docs/#/SMS/post\_transactional\_sms\_send)_._
 
 _If you have additional enquiries or potential use cases using the Campaigns API, please_ [_contact us_](https://go.gov.sg/postman-contact-us)_._
 

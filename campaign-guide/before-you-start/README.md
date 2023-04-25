@@ -1,6 +1,6 @@
 ---
 description: >-
-  If you are an agency user, please read this before you use Postman to send
+  If you are an agency user, please read this before you use PostmanSG to send
   your messages.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Create a common email
 
-Although you can login with your primary email account, we recommend one email account per agency as Postman does not manage users for an agency.
+Although you can login with your primary email account, we recommend one email account per agency as PostmanSG does not manage users for an agency.
 
 Twilio credentials will be tied to an agency email account. You might have to contact your IT administrator to create a common email account that allows multiple subscribers. The primary advantage of such a set-up is that past campaigns can be seen under one account for audit purposes.
 
@@ -18,7 +18,7 @@ If you think having multiple collaborators on a campaign is important, let us kn
 
 Sharing is caring! All users from the same agency should share one account. The rationale behind our set-up is that communications out to the public should be vetted before you press send. Each agency has its own communication guidelines & policy.
 
-We leave it up to each agency to govern its usage of Postman. If you are sending a message broadcast to the entire country, please make sure your use case has been vetted by the [Ministry of Communications and Information](https://www.mci.gov.sg/).
+We leave it up to each agency to govern its usage of PostmanSG. If you are sending a message broadcast to the entire country, please make sure your use case has been vetted by the [Ministry of Communications and Information](https://www.mci.gov.sg/).
 
 ## Sign in
 

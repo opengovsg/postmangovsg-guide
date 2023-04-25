@@ -1,12 +1,12 @@
 # Generate your API Key
 
-Before you start using our API, you have to generate a bearer token or API key. This API key will be used to authenticate you as a user and for Postman to verify that you are authorised to make the API call. Think of this as a password to key in to enter room.
+Before you start using our API, you have to generate a bearer token or API key. This API key will be used to authenticate you as a user and for PostmanSG to verify that you are authorised to make the API call. Think of this as a password to key in to enter room.
 
-All Postman users (government officers with .gov.sg emails) are able to generate this API key and use it to authenticate themselves or their system to call Postman API.
+All PostmanSG users (government officers with .gov.sg emails) are able to generate this API key and use it to authenticate themselves or their system to call PostmanSG API.
 
 ## Bearer Token & API Key Generation
 
-**Bearer authentication** (also called **token authentication**) is an HTTP **authentication** scheme that involves security **tokens** called **bearer tokens**. Postman uses bearer authentication.
+**Bearer authentication** (also called **token authentication**) is an HTTP **authentication** scheme that involves security **tokens** called **bearer tokens**. PostmanSG uses bearer authentication.
 
 To generate the token, navigate to `Settings` and click on `Generate API key` and copy the key.
 
@@ -24,7 +24,7 @@ Copy the newly created API key
 
 ## \[NEW] Multi API Key Support <a href="#new-multi-api-key-support" id="new-multi-api-key-support"></a>
 
-If multiple teams in your agency is sharing the same email account (e.g \[email protected]), you can now create multiple API keys on Postman for multiple teams.
+If multiple teams in your agency is sharing the same email account (e.g \[email protected]), you can now create multiple API keys on PostmanSG for multiple teams.
 
 Simply navigate to Settings and generate another API key.
 
@@ -32,9 +32,9 @@ Simply navigate to Settings and generate another API key.
 
 ## \[New] API Key Expiry and Rotation <a href="#coming-soon-api-key-expiry" id="coming-soon-api-key-expiry"></a>
 
-Since API keys need to be stored, passed around, and leveraged in the development of solutions that interact with our Postman system, there are opportunities for these API keys to be compromised. API keys should be rotated to ensure that data cannot be accessed with an old key that might have been lost, cracked, or stolen. Rotating API keys will reduce the window of opportunity for an access key that is associated with a compromised or terminated account to be used.&#x20;
+Since API keys need to be stored, passed around, and leveraged in the development of solutions that interact with our PostmanSG system, there are opportunities for these API keys to be compromised. API keys should be rotated to ensure that data cannot be accessed with an old key that might have been lost, cracked, or stolen. Rotating API keys will reduce the window of opportunity for an access key that is associated with a compromised or terminated account to be used.&#x20;
 
-At Postman, we have a hard-limit of 6 months for API key expiration, which means that any API keys that have been created more than 6 months from the current date is not usable anymore. We encourage users to rotate API keys even more frequently if you can afford to.
+At PostmanSG, we have a hard-limit of 6 months for API key expiration, which means that any API keys that have been created more than 6 months from the current date is not usable anymore. We encourage users to rotate API keys even more frequently if you can afford to.
 
 ### How to rotate an API key
 
@@ -44,7 +44,7 @@ In the event you have found that your current API key has been leaked, or your c
 * Update the API key used in your system to the new one and restart your system to load the new value if needed.
 * Remove the old API key from your account by clicking the delete button in the table in settings page. Please ensure that you are deleting the correct API key.
 
-**Note:** Make sure that the above steps are followed in chronological order that they're written in, otherwise your system might not be able to request to Postman for the update time period
+**Note:** Make sure that the above steps are followed in chronological order that they're written in, otherwise your system might not be able to request to PostmanSG for the update time period
 
 ### Notification Schedule
 

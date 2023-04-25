@@ -1,7 +1,7 @@
 ---
 description: >-
   Created your campaign, but want to send it at a future date and time*?
-  Postman's scheduled sending feature now allows you to do so, so you no longer
+  PostmanSG's scheduled sending feature now allows you to do so, so you no longer
   have to log in to send campaigns after work hours!
 ---
 

@@ -6,11 +6,11 @@ description: >-
 
 # Manage your Unsubscriptions
 
-## What is an unsubscription, and where can recipients find it in Postman emails?
+## What is an unsubscription, and where can recipients find it in PostmanSG emails?
 
-Postman allows for recipients of email campaigns to indicate their wish to unsubscribe from future emails sent by your agency.
+PostmanSG allows for recipients of email campaigns to indicate their wish to unsubscribe from future emails sent by your agency.
 
-This feature is present at the header of Postman emails, beside the sender domain:
+This feature is present at the header of PostmanSG emails, beside the sender domain:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-26 at 11.32.37 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ If your email is **promotional** in nature, please remove these recipients from 
 
 However, if you believe that your emails are **essential and/or compulsory** in nature e.g. emails informing of medical test results, appointment details, other regulatory/administrative content, it will be your discretion on whether to remove the recipient from the mailing list.
 
-## What do I need to know as a campaign owner in Postman?
+## What do I need to know as a campaign owner in PostmanSG?
 
 1. On your campaign dashboard, you will be able to see how many unsubscribe requests have been made after your campaign is sent.
 

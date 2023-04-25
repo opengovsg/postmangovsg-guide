@@ -4,7 +4,7 @@ description: Follow step by step for a successful set-up.
 
 # Configure your Twilio Account
 
-Information you will need to keep at the end of the set-up, to key into your Postman dashboard:
+Information you will need to keep at the end of the set-up, to key into your PostmanSG dashboard:
 
 * account SID
 * API key SID
@@ -19,7 +19,7 @@ Your **account SID** is on the dashboard when you log in to your agency's accoun
 
 ### a) Set up a Standard API Key
 
-To set up your API key for Postman, select **`API keys & tokens`** on the side dashboard under **Accounts**.
+To set up your API key for PostmanSG, select **`API keys & tokens`** on the side dashboard under **Accounts**.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-11-02 at 4.03.20 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@ Create a `friendly name` for your API key so you can easily identify it in the f
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-We need your `Account SID` and `secret key` for Postman. Please keep these safe.
+We need your `Account SID` and `secret key` for PostmanSG. Please keep these safe.
 
 <mark style="color:red;">**Remember to save the secret key somewhere, as you will not be able to retrieve it again after moving on to the next step**</mark>**.**
 
@@ -42,10 +42,10 @@ Once you have it stored somewhere safe, check the box and click “Done”.
 ### b) Buy a phone number
 
 {% hint style="info" %}
-**You need to purchase a phone number to start using Postman.** If you are using a trial account on Twilio and did not put a corporate credit card on file then this is as far as you can go.
+**You need to purchase a phone number to start using PostmanSG.** If you are using a trial account on Twilio and did not put a corporate credit card on file then this is as far as you can go.
 {% endhint %}
 
-A Singapore phone number is USD$80 per month. We recommend that you buy a US phone number which is USD$1.15 per month. Aside from cost savings, the US phone number is sufficient for Postman's current capabilities in sending 1-way messages (from you to recipient).
+A Singapore phone number is USD$80 per month. We recommend that you buy a US phone number which is USD$1.15 per month. Aside from cost savings, the US phone number is sufficient for PostmanSG's current capabilities in sending 1-way messages (from you to recipient).
 
 If you have use cases for 2-way SMS (in which case a Singapore number will be necessary), please reach out to us [here](http://localhost:5000/s/-MAQH3DF49Lq0AJudrbF/).
 
@@ -132,7 +132,7 @@ After clicking "Skip setup" in the step above, you should be brought to the Prop
 
 ### Copy Messaging Service ID
 
-On this page, you should be able to find the **Messaging Service ID** that we require you to key into Postman.
+On this page, you should be able to find the **Messaging Service ID** that we require you to key into PostmanSG.
 
 ![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.09.17 PM.png>)
 

@@ -28,7 +28,7 @@ Unlike emails, you generally would not have any **INVALID** status. To see the e
 | [**Sending**](https://support.twilio.com/hc/en-us/articles/223134347-What-are-the-Possible-SMS-and-MMS-Message-Statuses-and-What-do-They-Mean-) | <p>Twilio is in the process of sending the message. This status is usually only present for a very short time.</p><p><strong>Action</strong>: Wait</p>                                                                                                                                                                                                |
 | [**Sent**](https://support.twilio.com/hc/en-us/articles/223134347-What-are-the-Possible-SMS-and-MMS-Message-Statuses-and-What-do-They-Mean-)    | <p>Twilio has received a confirmation from our Super Network partner advising they have accepted the message.</p><p><strong>Action:</strong> Nothing, the SMS has been sent.</p>                                                                                                                                                                      |
 
-### Error Codes Interpretation in Postman
+### Error Codes Interpretation in PostmanSG
 
 | Error Codes                                                      | Description & Follow-up Action                                                                                                                                                          |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

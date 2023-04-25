@@ -1,6 +1,6 @@
 # Formatting and Images
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-27 at 2.59.24 PM.png" alt=""><figcaption><p><em>Postman campaign template</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-27 at 2.59.24 PM.png" alt=""><figcaption><p><em>PostmanSG campaign template</em></p></figcaption></figure>
 
 We support
 
@@ -22,13 +22,13 @@ You can use [GoGovSG](https://go.gov.sg/#/) or [ForEduSG](https://for.edu.sg/#/)
 
 ## Embedding an Image in Email
 
-You can use [GoGovSG](https://go.gov.sg/#/) (for all public service officers except for those from healthcare institutions and schools) or [ForEduSG](https://for.edu.sg/#/) (for officers from schools) or [ForSG](https://for.sg/#/) (for officers from healthcare institutions) to embed an image in Postman's template.
+You can use [GoGovSG](https://go.gov.sg/#/) (for all public service officers except for those from healthcare institutions and schools) or [ForEduSG](https://for.edu.sg/#/) (for officers from schools) or [ForSG](https://for.sg/#/) (for officers from healthcare institutions) to embed an image in PostmanSG's template.
 
 Go to [GoGovSG](https://go.gov.sg/#/) or [ForEduSG](https://for.edu.sg/#/) or [ForSG](https://for.sg/#/) and log in using your official institution email address. Select `create new link` from file and upload your image.
 
 ![](<../../../.gitbook/assets/Screenshot 2020-07-07 at 12.49.03 PM (1).png>)
 
-Copy the shortened link into a new browser window. Copy the `file.go.gov.sg` link or `file.for.edu.sg` or`file.for.sg` into your Postman template by using the html tag shown below. The link that you paste into your Postman template should begin with _https://_...
+Copy the shortened link into a new browser window. Copy the `file.go.gov.sg` link or `file.for.edu.sg` or`file.for.sg` into your PostmanSG template by using the html tag shown below. The link that you paste into your PostmanSG template should begin with _https://_...
 
 ![](<../../../.gitbook/assets/Screenshot 2020-07-07 at 12.49.52 PM.png>)
 

@@ -166,7 +166,7 @@ These Terms of Use are updated on 6th of May, 2020 .
 
 **SCHEDULE**
 
-### 1. Name of Service: Postman
+### 1. Name of Service: PostmanSG
 
 ### 2. Nature of Service
 

@@ -23,11 +23,11 @@ We need your help as a user to ensure that your mailing list is clean before you
 
 ## Why is my campaign halted?
 
-A campaign will be halted when there are too many hard bounces (due to invalid email addresses, which are addresses that do not exist), and will affect Postman's reputation score.
+A campaign will be halted when there are too many hard bounces (due to invalid email addresses, which are addresses that do not exist), and will affect PostmanSG's reputation score.
 
-Postman encourages all users to maintain clean contact lists as a best practice, which means that email addresses should be valid and subscribed to the mailing list.
+PostmanSG encourages all users to maintain clean contact lists as a best practice, which means that email addresses should be valid and subscribed to the mailing list.
 
-To ensure that your campaign will not be halted, especially campaigns of high time sensitivity and urgency, please check that your mailing lists are clean before uploading them in CSV format to your Postman campaign:
+To ensure that your campaign will not be halted, especially campaigns of high time sensitivity and urgency, please check that your mailing lists are clean before uploading them in CSV format to your PostmanSG campaign:
 
 1. check with your source system to ensure that no invalid addresses are included in the list e.g. non-existent email addresses, misspelled email addresses.
 2. unsubscribe requests are adhered to - it is also good practice to remove unsubscribers when the request is received, though discretion of doing so is left to the agency in case of critical content.
