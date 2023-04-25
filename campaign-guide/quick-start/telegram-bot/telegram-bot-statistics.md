@@ -19,13 +19,13 @@ Telegram Bot campaigns would generate two types of status:
 
 You would not have any **INVALID** status (invalid status is for only for email). To see the entire list of errors you need to click on the `Export` button.
 
-![](<../../../.gitbook/assets/postman-telegram-stat-2 (2) (2).jpg>)
+![](<../../../.gitbook/assets/postman-telegram-stat-2.jpg>)
 
 Once you click on the `Export` button, you will get a CSV file with the following columns.
 
 ![](../../../.gitbook/assets/postman-telegram-stat.jpg)
 
-| Error Codes                       | Description & Follow-up Action                                                                                                                                                                                                                                                                                                                                                                |
-| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Error Codes                       | Description & Follow-up Action                                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1: Telegram ID not found**      | <p>Your recipient has not subscribed to your bot.<br><br><strong>Action</strong>: You need to ask your recipient to follow the <a href="https://guide.postman.gov.sg/campaign-guide/quick-start/telegram-bot/instructions-recipient-telegram">Instructions for Recipient Onboarding</a> to subscribe to your bot.</p>                                                                                  |
 | **2: Bot subscription not found** | <p>Your recipient has subscribed to one of our many agency bots on PostmanSG but he or she is not subscribed to your agency's bot.<br><br><strong>Action</strong>: You need to ask your recipient to follow the <a href="https://guide.postman.gov.sg/campaign-guide/quick-start/telegram-bot/instructions-recipient-telegram">Instructions for Recipient Onboarding</a> to subscribe to your bot.</p> |

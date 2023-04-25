@@ -59,6 +59,7 @@
       * [Internet Images](api-guide/programmatic-email-api/email-sending-api/images/internet-images.md)
       * [Content-ID Images](api-guide/programmatic-email-api/email-sending-api/images/content-id-images.md)
     * [Rate Limit](api-guide/programmatic-email-api/email-sending-api/rate-limit.md)
+    * [Email Tagging and Classification](api-guide/programmatic-email-api/email-sending-api/email-tagging-and-classification.md)
     * [How We Send Emails](api-guide/programmatic-email-api/email-sending-api/how-we-send-emails.md)
   * [Email Status API](api-guide/programmatic-email-api/email-status-api.md)
   * [Email List API](api-guide/programmatic-email-api/email-list-api.md)

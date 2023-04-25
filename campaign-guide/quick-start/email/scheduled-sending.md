@@ -59,4 +59,4 @@ On this page, you can also click on the drop-down button beside the `Duplicate` 
 
 Aside from viewing the status of your campaign on your dashboard, you will also receive an email from PostmanSG informing you that your campaign has been sent.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.42.42 AM (1).png" alt=""><figcaption><p>An email with your scheduled campaign name will be sent to you as confirmation.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.42.42 AM.png" alt=""><figcaption><p>An email with your scheduled campaign name will be sent to you as confirmation.</p></figcaption></figure>
