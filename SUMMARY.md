@@ -41,10 +41,12 @@
 ## API Guide
 
 * [Overview](api-guide/overview.md)
-* [API Documentation](api-guide/api-documentation.md)
-* [Generate your API Key](api-guide/generate-your-api-key.md)
-* [API FAQ](api-guide/api-faq.md)
-* [Swagger](https://api.postman.gov.sg/docs/#/)
+* [Getting Started](api-guide/getting-started/README.md)
+  * [Generate your API Key](api-guide/getting-started/generate-your-api-key.md)
+* [Programmatic Email API](api-guide/programmatic-email-api/README.md)
+  * [API FAQ](api-guide/programmatic-email-api/api-faq.md)
+  * [API Documentation](api-guide/programmatic-email-api/api-documentation.md)
+* [Programmatic SMS API](api-guide/programmatic-sms-api.md)
 
 ## FAQs
 
