@@ -40,12 +40,30 @@
 
 ## API Guide
 
-* [Overview](api-guide/overview.md)
+* [Overview](api-guide/overview/README.md)
+  * [IM8 Policies](api-guide/overview/im8-policies.md)
+  * [Connecting your Intranet Application](api-guide/overview/connecting-your-intranet-application.md)
+  * [API Response Format](api-guide/overview/api-response-format.md)
 * [Getting Started](api-guide/getting-started/README.md)
   * [Generate your API Key](api-guide/getting-started/generate-your-api-key.md)
+  * [Sending your first API message](api-guide/getting-started/sending-your-first-api-message.md)
+* [Manage your API Keys](api-guide/manage-your-api-keys.md)
 * [Programmatic Email API](api-guide/programmatic-email-api/README.md)
-  * [API FAQ](api-guide/programmatic-email-api/api-faq.md)
+  * [SG-Mail Whitelisting](api-guide/programmatic-email-api/sg-mail-whitelisting.md)
+  * [Comparison with AMR](api-guide/programmatic-email-api/comparison-with-amr.md)
+  * [Custom Domain Setup](api-guide/programmatic-email-api/custom-domain-setup.md)
+  * [Email Sending API](api-guide/programmatic-email-api/email-sending-api/README.md)
+    * [HTML Sanitisation](api-guide/programmatic-email-api/email-sending-api/html-sanitisation.md)
+    * [Attachments](api-guide/programmatic-email-api/email-sending-api/attachments.md)
+    * [Images](api-guide/programmatic-email-api/email-sending-api/images/README.md)
+      * [Internet Images](api-guide/programmatic-email-api/email-sending-api/images/internet-images.md)
+      * [Content-ID Images](api-guide/programmatic-email-api/email-sending-api/images/content-id-images.md)
+    * [Rate Limit](api-guide/programmatic-email-api/email-sending-api/rate-limit.md)
+    * [How We Send Emails](api-guide/programmatic-email-api/email-sending-api/how-we-send-emails.md)
+  * [Email Status API](api-guide/programmatic-email-api/email-status-api.md)
+  * [Email List API](api-guide/programmatic-email-api/email-list-api.md)
   * [API Documentation](api-guide/programmatic-email-api/api-documentation.md)
+  * [API FAQ](api-guide/programmatic-email-api/api-faq.md)
 * [Programmatic SMS API](api-guide/programmatic-sms-api.md)
 
 ## FAQ
