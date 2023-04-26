@@ -8,7 +8,7 @@ Our programmatic APIs allow you to send messages programmatically.&#x20;
 
 We provide a **modern, cost-effective, and compliant PaaS** for to send programmatic emails.&#x20;
 
-We will launch our programmatic email API officially in Q3 2023. Interested users can reach out to us via [this form](https://form.gov.sg/62b19812ff209e00126f2c47).
+We will launch our programmatic email API officially in Q3 2023. Interested users can reach out to us via [this form](https://go.gov.sg/postmanp-api-wogict).
 
 {% hint style="info" %}
 To illustrate an agency might use our programmatic email API, consider an agency that receives grant applications from members of the public. When an applicant submits a grant on your website, instead of configuring your own email sending system, you could configure your system to call our API to send out an acknowledgement email.  The same could be done for sending one-time-passwords (OTPs), appointment booking confirmations, status updates emails, and so on.
