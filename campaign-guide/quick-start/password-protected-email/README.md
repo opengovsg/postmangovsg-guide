@@ -30,7 +30,7 @@ This is the template for the private or secret message, which will be password-p
 
 Add in a new column in your CSV file call password and include passwords that the recipients would know. For example, the password can be the last four characters of NRIC and last four digits of the phone number (212A8888).
 
-![](<../../../.gitbook/assets/Screenshot 2020-07-28 at 6.03.16 PM.png>)
+![](<../../../.gitbook/assets/Screenshot 2020-07-28 at 6.03.16 PM (1).png>)
 
 Once you have uploaded your CSV file, you will see the preview of the first recipient in your excel.
 
@@ -45,4 +45,3 @@ To open the link from the test message, you need to know the password for the fi
 ### Step 4. Once you are happy with the generic and private message, click send campaign
 
 Now you are done!
-

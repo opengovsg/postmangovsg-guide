@@ -29,7 +29,7 @@ Then, create a new **standard** API key by selecting `Create API key`.
 
 Create a `friendly name` for your API key so you can easily identify it in the future, and select `Standard` as the API key type.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 We need your `Account SID` and `secret key` for Postman. Please keep these safe.
 
