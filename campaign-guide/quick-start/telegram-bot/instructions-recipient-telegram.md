@@ -1,12 +1,12 @@
 ---
 description: >-
   This is what you need to ask your recipients to do in order to receive
-  messages from PostmanSG's Telegram bot service.
+  messages from Postman's Telegram bot service.
 ---
 
 # Instructions for Recipient Onboarding
 
-In order for PostmanSG to send messages to your subscribers, we need the subscribers to add the bot and send their mobile number to us. This is like adding a friend to your contacts list. The link to add the bot should be `https://t.me/[your bot name]` .
+In order for Postman to send messages to your subscribers, we need the subscribers to add the bot and send their mobile number to us. This is like adding a friend to your contacts list. The link to add the bot should be `https://t.me/[your bot name]` .
 
 ## Steps for Subscribers for Telegram Bot Onboarding
 
@@ -17,12 +17,12 @@ Tell your subscriber to go to
 3. Send the bot his or her phone number by clicking on the **button**
 
 {% hint style="info" %}
-Do not type your phone number. PostmanSG will receive only the subscriber's phone number when the button is clicked.
+Do not type your phone number. Postman will receive only the subscriber's phone number when the button is clicked.
 {% endhint %}
 
-Once the subscribers have subscribed to your bot, you can upload their phone number as a contact list in PostmanSG in order to send messages to them.
+Once the subscribers have subscribed to your bot, you can upload their phone number as a contact list in Postman in order to send messages to them.
 
-![This is an example bot set up by the PostmanSG team.](../../../.gitbook/assets/telegram-bot-recipient-onboarding.png)
+![This is an example bot set up by the Postman team.](../../../.gitbook/assets/telegram-bot-recipient-onboarding.png)
 
 ## How do I send the Telegram bot link out to the recipient?
 

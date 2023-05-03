@@ -1,5 +1,5 @@
 ---
-description: This page will teach you how to use PostmanSG.
+description: This page will teach you how to use Postman.
 ---
 
 # 🚀 How to send a campaign?
@@ -8,7 +8,7 @@ description: This page will teach you how to use PostmanSG.
 
 Once you are logged in, click on **Create new campaign** button, and you will be prompted with the following screen to choose your channel and fill in a campaign name.
 
-PostmanSG is a multi-channel messaging service that allows you to send messages through 3 channels:
+Postman is a multi-channel messaging service that allows you to send messages through 3 channels:
 
 * [Email](email/)
 * [SMS](sms/)
@@ -26,7 +26,7 @@ Once you've chosen your channel, please follow the following steps:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-11 at 11.57.17 AM.png" alt=""><figcaption></figcaption></figure>
 
-PostmanSG allows you to control how much each message is personalised. Message templates can be used in a few ways:
+Postman allows you to control how much each message is personalised. Message templates can be used in a few ways:
 
 | **Message Template**                                                                                    | **Use Cases**                |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -35,7 +35,7 @@ PostmanSG allows you to control how much each message is personalised. Message t
 | `{{keyword}}`                                                                                           | Unique message for everyone. |
 
 {% hint style="warning" %}
-PostmanSG has implemented **a universal footer** for all email campaigns in order to comply with [Singapore's Spam Control Act ](https://sso.agc.gov.sg/Act/SCA2007)and align with international bulk email practices ([CAN-SPAM Act](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) or [EU’s ePrivacy Directive](https://ec.europa.eu/information\_society/doc/factsheets/024-privacy-and-spam-en.pdf)). Please go to our [unsubscribe page](https://guide.postman.gov.sg/campaign-guide/quick-start/email/weekly-digest-of-unsubscription) to learn more about this feature.
+Postman has implemented **a universal footer** for all email campaigns in order to comply with [Singapore's Spam Control Act ](https://sso.agc.gov.sg/Act/SCA2007)and align with international bulk email practices ([CAN-SPAM Act](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) or [EU’s ePrivacy Directive](https://ec.europa.eu/information\_society/doc/factsheets/024-privacy-and-spam-en.pdf)). Please go to our [unsubscribe page](https://guide.postman.gov.sg/campaign-guide/quick-start/email/weekly-digest-of-unsubscription) to learn more about this feature.
 {% endhint %}
 
 ### Step 2: Set up a contact list in CSV format
@@ -64,7 +64,7 @@ You can test the message by sending it to yourself. When you are satisfied with 
 ## Remove Duplicates in Excel
 
 {% hint style="info" %}
-PostmanSG does not remove duplicates for recipients in view of some use cases that require sending unique messages to the same individual multiple times. **Scroll down** to the [**Remove Duplicates in Excel** ](https://guide.postman.gov.sg/quick-start#remove-duplicates-in-excel)section to find out how to remove duplicates in excel\*\*.\*\*
+Postman does not remove duplicates for recipients in view of some use cases that require sending unique messages to the same individual multiple times. **Scroll down** to the [**Remove Duplicates in Excel** ](https://guide.postman.gov.sg/quick-start#remove-duplicates-in-excel)section to find out how to remove duplicates in excel\*\*.\*\*
 {% endhint %}
 
 Select your data > go to **Data** > **Remove duplicates** > **select all columns** > click **OK.**

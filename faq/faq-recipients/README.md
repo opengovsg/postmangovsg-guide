@@ -1,6 +1,6 @@
 ---
 description: >-
-  You might be receiving emails from PostmanSG from various government agencies.
+  You might be receiving emails from Postman from various government agencies.
   Our email address is donotreply@mail.postman.gov.sg.
 ---
 
@@ -10,9 +10,9 @@ description: >-
 We will not ask you to transfer money through SMS and email. Please ignore the messages if any government agency asks you to provide your bank details or transfer money to an account. Payment should be done via the government agency's portal. When in doubt, you should check with the agency that sent you the message to confirm the authenticity before any action.
 {% endhint %}
 
-## What is PostmanSG?
+## What is Postman?
 
-PostmanSG is a multichannel mass messaging service for the Singapore government.
+Postman is a multichannel mass messaging service for the Singapore government.
 
 These channels are available:\
 1\. SMS\
@@ -20,17 +20,17 @@ These channels are available:\
 3\. Password protected email (for sensitive info)\
 4\. Telegram bot
 
-## Why am I receiving messages from PostmanSG?
+## Why am I receiving messages from Postman?
 
-Government agencies use PostmanSG's service to send broadcast or personalised messages to the citizens. SMS/Emails/Telegram bot messages coming from PostmanSG are legitimate. When in doubt, you can always reach out to the agency that sent these messages to confirm the authenticity.
+Government agencies use Postman's service to send broadcast or personalised messages to the citizens. SMS/Emails/Telegram bot messages coming from Postman are legitimate. When in doubt, you can always reach out to the agency that sent these messages to confirm the authenticity.
 
-## How do I check that the email is really from PostmanSG and not a spoofed email address?
+## How do I check that the email is really from Postman and not a spoofed email address?
 
 Please go to the section on [Check Email Authenticity](https://guide.postman.gov.sg/faqs/faq-recipients/check-email-authenticity) for additional info.
 
 ## What should I do if I have questions regarding the email or SMS that I received?
 
-**Emails**: Agencies have a reply-to email address set-up with PostmanSG when they send their emails through PostmanSG. You can click on `reply to` in your email client to write directly to the agency of interest if you have additional questions.
+**Emails**: Agencies have a reply-to email address set-up with Postman when they send their emails through Postman. You can click on `reply to` in your email client to write directly to the agency of interest if you have additional questions.
 
 **SMS**: Agencies are advised to include a hotline to address queries. If no phone number is included in the SMS, you can reach out to their contact centre by searching for their hotline online.
 

@@ -2,11 +2,11 @@
 
 Before you start using our API, you have to generate an API key. This API key can be used to make API calls and serve to authenticate you to our system. Keep this API key safe and do not share it with anyone.
 
-All users that can log into `postman.gov.sg` are able to generate this API key and use it call PostmanSG API.
+All users that can log into `postman.gov.sg` are able to generate this API key and use it call Postman API.
 
 ## Bearer Token & API Key Generation
 
-**Bearer authentication** (also called **token authentication**) is an HTTP **authentication** scheme that involves security **tokens** called **bearer tokens**. PostmanSG uses bearer authentication.
+**Bearer authentication** (also called **token authentication**) is an HTTP **authentication** scheme that involves security **tokens** called **bearer tokens**. Postman uses bearer authentication.
 
 To generate the token, navigate to `Settings` and click on `Generate API key` and copy the key.
 
@@ -24,7 +24,7 @@ Copy the newly created API key
 
 ## Multi API Key Support <a href="#new-multi-api-key-support" id="new-multi-api-key-support"></a>
 
-If multiple teams in your agency is sharing the same email account (e.g \[email protected]), you can now create multiple API keys on PostmanSG for multiple teams.
+If multiple teams in your agency is sharing the same email account (e.g \[email protected]), you can now create multiple API keys on Postman for multiple teams.
 
 Simply navigate to Settings and generate another API key.
 
@@ -32,9 +32,9 @@ Simply navigate to Settings and generate another API key.
 
 ## API Key Expiry and Rotation <a href="#coming-soon-api-key-expiry" id="coming-soon-api-key-expiry"></a>
 
-Since API keys need to be stored, passed around, and leveraged in the development of solutions that interact with our PostmanSG system, there are opportunities for these API keys to be compromised. API keys should be rotated to ensure that data cannot be accessed with an old key that might have been lost, cracked, or stolen. Rotating API keys will reduce the window of opportunity for an access key that is associated with a compromised or terminated account to be used.
+Since API keys need to be stored, passed around, and leveraged in the development of solutions that interact with our Postman system, there are opportunities for these API keys to be compromised. API keys should be rotated to ensure that data cannot be accessed with an old key that might have been lost, cracked, or stolen. Rotating API keys will reduce the window of opportunity for an access key that is associated with a compromised or terminated account to be used.
 
-At PostmanSG, we have a hard-limit of 6 months for API key expiration, which means that any API keys that have been created more than 6 months from the current date is not usable anymore. We encourage users to rotate API keys even more frequently if you can afford to.
+At Postman, we have a hard-limit of 6 months for API key expiration, which means that any API keys that have been created more than 6 months from the current date is not usable anymore. We encourage users to rotate API keys even more frequently if you can afford to.
 
 ### How to rotate an API key
 
@@ -44,7 +44,7 @@ In the event you have found that your current API key has been leaked, or your c
 * Update the API key used in your system to the new one and restart your system to load the new value if needed.
 * Remove the old API key from your account by clicking the delete button in the table in settings page. Please ensure that you are deleting the correct API key.
 
-**Note:** Make sure that the above steps are followed in chronological order that they're written in, otherwise your system might not be able to request to PostmanSG for the update time period
+**Note:** Make sure that the above steps are followed in chronological order that they're written in, otherwise your system might not be able to request to Postman for the update time period
 
 ### Notification Schedule
 

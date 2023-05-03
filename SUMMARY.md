@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About PostmanSG](README.md)
+* [About Postman](README.md)
 
 ## Campaign Guide
 
@@ -24,14 +24,14 @@
     * [The Basics](campaign-guide/quick-start/sms/rationale-for-choosing-twilio.md)
     * [Onboard onto Twilio](campaign-guide/quick-start/sms/onboard-onto-twilio.md)
     * [Configure your Twilio Account](campaign-guide/quick-start/sms/configure-your-twilio-account.md)
-    * [Add Twilio Credentials in PostmanSG](campaign-guide/quick-start/sms/credentials.md)
+    * [Add Twilio Credentials in Postman](campaign-guide/quick-start/sms/credentials.md)
     * [Use your Saved SMS Credentials](campaign-guide/quick-start/sms/use-saved-sms-credential-in-the-campaign.md)
     * [Sending an SMS to a Foreign Number](campaign-guide/quick-start/sms/send-sms-to-a-foreign-number.md)
     * [SMS Statistics](campaign-guide/quick-start/sms/sms-statistics.md)
     * [SMS Send Rate](campaign-guide/quick-start/sms/sms-send-rate.md)
     * [SMS Best Practices](campaign-guide/quick-start/sms/sms-best-practices.md)
   * [🤖 Telegram Bot](campaign-guide/quick-start/telegram-bot/README.md)
-    * [Add Telegram Bot Token in PostmanSG](campaign-guide/quick-start/telegram-bot/add-telegram-bot-token-in-postman.md)
+    * [Add Telegram Bot Token in Postman](campaign-guide/quick-start/telegram-bot/add-telegram-bot-token-in-postman.md)
     * [Instructions for Recipient Onboarding](campaign-guide/quick-start/telegram-bot/instructions-recipient-telegram.md)
     * [Use the Bot in the Campaign](campaign-guide/quick-start/telegram-bot/use-the-bot-in-the-campaign.md)
     * [Telegram Formatting](campaign-guide/quick-start/telegram-bot/telegram-formatting.md)
@@ -69,7 +69,7 @@
 
 ## FAQ
 
-* [PostmanSG Uptime](faq/postman-uptime.md)
+* [Postman Uptime](faq/postman-uptime.md)
 * [For Recipients](faq/faq-recipients/README.md)
   * [Check Email Authenticity](faq/faq-recipients/check-email-authenticity.md)
 * [For Senders](faq/faq-sender/README.md)

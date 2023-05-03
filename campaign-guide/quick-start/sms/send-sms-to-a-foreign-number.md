@@ -1,6 +1,6 @@
 # Sending an SMS to a Foreign Number
 
-PostmanSG will add the +65 for you automatically when you enter the eight-digit phone number for a Singapore phone number. If you wish to send SMS to an overseas number, you need to change your excel column type to `Text` and add +country code in front of the number to send the SMS internationally. Once you have added the +, press `save` and you will be able to upload the file to send SMS to foreign numbers.
+Postman will add the +65 for you automatically when you enter the eight-digit phone number for a Singapore phone number. If you wish to send SMS to an overseas number, you need to change your excel column type to `Text` and add +country code in front of the number to send the SMS internationally. Once you have added the +, press `save` and you will be able to upload the file to send SMS to foreign numbers.
 
 ![](../../../.gitbook/assets/postman-foreign-number.png)
 

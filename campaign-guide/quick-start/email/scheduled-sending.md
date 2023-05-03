@@ -1,7 +1,7 @@
 ---
 description: >-
   Created your campaign, but want to send it at a future date and time*?
-  PostmanSG's scheduled sending feature now allows you to do so, so you no
+  Postman's scheduled sending feature now allows you to do so, so you no
   longer have to log in to send campaigns after work hours
 ---
 
@@ -57,6 +57,6 @@ On this page, you can also click on the drop-down button beside the `Duplicate` 
 
 ### How will I know when my campaign has been sent?
 
-Aside from viewing the status of your campaign on your dashboard, you will also receive an email from PostmanSG informing you that your campaign has been sent.
+Aside from viewing the status of your campaign on your dashboard, you will also receive an email from Postman informing you that your campaign has been sent.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.42.42 AM.png" alt=""><figcaption><p>An email with your scheduled campaign name will be sent to you as confirmation.</p></figcaption></figure>

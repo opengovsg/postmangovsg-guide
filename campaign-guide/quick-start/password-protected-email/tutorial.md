@@ -24,8 +24,8 @@ followed by your date of birth in DDMMYYYY format. For example,
 if your NRIC is "T1234567A" and your birthdate is "13 January 2020",
 the 12-character password will be "567A13012020". </i>
 
-<b>Why are you receiving an email from PostmanSG?</b>
-PostmanSG is a mass email and SMS service for the Singapore government.
+<b>Why are you receiving an email from Postman?</b>
+Postman is a mass email and SMS service for the Singapore government.
 We send password-protected emails on behalf of government agencies.
 
 -----

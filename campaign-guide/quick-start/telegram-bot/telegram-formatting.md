@@ -7,22 +7,22 @@ description: Refer to this page for formatting your messages in Telegram.
 **Bold**
 
 ```
-<b>PostmanSG</b>
+<b>Postman</b>
 ```
 
 Underline
 
 ```
-<u>PostmanSG</u>
+<u>Postman</u>
 ```
 
 _Italic_
 
 ```
-<i>PostmanSG</i>
+<i>Postman</i>
 ```
 
-Hyperlink ([PostmanSG](https://postman.gov.sg/))
+Hyperlink ([Postman](https://postman.gov.sg/))
 
 ```
 <a href="https://postman.gov.sg">postman</a>

@@ -8,26 +8,26 @@ description: >-
 
 ## What are the different kinds of bounce?
 
-Emails like abc@gmail.com may look like a well-formatted email address, but if it is not managed by a real human being, services like Google will send a bounce message when the email is sent out. This is considered a hard bounce, which increases PostmanSG's bounce rate and negatively affects PostmanSG's reputation score.
+Emails like abc@gmail.com may look like a well-formatted email address, but if it is not managed by a real human being, services like Google will send a bounce message when the email is sent out. This is considered a hard bounce, which increases Postman's bounce rate and negatively affects Postman's reputation score.
 
 1. **Hard bounce:** Invalid email addresses.
 2. **Soft bounce:** Out-of-office messages or message notifications that the recipient's email inbox is full.
 
 ## What is the impact of a hard bounce?
 
-Hard bounce affects PostmanSG's reputation score. A reputation score is a measure of the email service reputation. **PostmanSG needs to maintain a low bounce rate in order to have a good reputation score.** Think of this as having good credit from the bank. Banks need you to have a good credit score in order to provide a credit card for transactions. Similarly, PostmanSG needs a good reputation score to send emails to Internet Service Providers (ISPs) in order to deliver emails to recipients.
+Hard bounce affects Postman's reputation score. A reputation score is a measure of the email service reputation. **Postman needs to maintain a low bounce rate in order to have a good reputation score.** Think of this as having good credit from the bank. Banks need you to have a good credit score in order to provide a credit card for transactions. Similarly, Postman needs a good reputation score to send emails to Internet Service Providers (ISPs) in order to deliver emails to recipients.
 
-## What do you need to do as a user to help PostmanSG retain a good reputation score?
+## What do you need to do as a user to help Postman retain a good reputation score?
 
 We need your help as a user to ensure that your mailing list is clean before you send an email campaign through our service. We understand that the first email campaign that you send out might contain a lot of invalid email addresses, but we ask you to use the bounce list once your campaign is over to clean and maintain your contact list.
 
 ## Why is my campaign halted?
 
-A campaign will be halted when there are too many hard bounces (due to invalid email addresses, which are addresses that do not exist), and will affect PostmanSG's reputation score.
+A campaign will be halted when there are too many hard bounces (due to invalid email addresses, which are addresses that do not exist), and will affect Postman's reputation score.
 
-PostmanSG encourages all users to maintain clean contact lists as a best practice, which means that email addresses should be valid and subscribed to the mailing list.
+Postman encourages all users to maintain clean contact lists as a best practice, which means that email addresses should be valid and subscribed to the mailing list.
 
-To ensure that your campaign will not be halted, especially campaigns of high time sensitivity and urgency, please check that your mailing lists are clean before uploading them in CSV format to your PostmanSG campaign:
+To ensure that your campaign will not be halted, especially campaigns of high time sensitivity and urgency, please check that your mailing lists are clean before uploading them in CSV format to your Postman campaign:
 
 1. check with your source system to ensure that no invalid addresses are included in the list e.g. non-existent email addresses, misspelled email addresses.
 2. unsubscribe requests are adhered to - it is also good practice to remove unsubscribers when the request is received, though discretion of doing so is left to the agency in case of critical content.

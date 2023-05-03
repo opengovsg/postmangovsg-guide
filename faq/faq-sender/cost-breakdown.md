@@ -1,6 +1,6 @@
 ---
 description: >-
-  PostmanSG does not charge the user. Sending emails are free. Sending SMS
+  Postman does not charge the user. Sending emails are free. Sending SMS
   depends on Twilio's SMS pricing and the recipient's country code. Sending
   Telegram bot messages are free.
 ---
@@ -18,7 +18,7 @@ description: >-
 
 **Prerequisite**: Twilio account
 
-Twilio provides simple and flexible [pricing plans](https://www.twilio.com/pricing) for different tiers of users. Please click [here](https://www.twilio.com/sms/pricing/sg) for the latest information on SMS cost. A U.S. phone number costs $1.15 USD per month. This is sufficient for PostmanSG's current functionality of 1-way SMS from you to your recipients, as 2-way SMS communications are not currently supported by PostmanSG.
+Twilio provides simple and flexible [pricing plans](https://www.twilio.com/pricing) for different tiers of users. Please click [here](https://www.twilio.com/sms/pricing/sg) for the latest information on SMS cost. A U.S. phone number costs $1.15 USD per month. This is sufficient for Postman's current functionality of 1-way SMS from you to your recipients, as 2-way SMS communications are not currently supported by Postman.
 
 | Twilio Payment Schemes  | What do you need?                  |
 | ----------------------- | ---------------------------------- |

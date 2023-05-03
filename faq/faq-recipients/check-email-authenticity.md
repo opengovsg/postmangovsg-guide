@@ -1,10 +1,10 @@
 ---
-description: This is what you could to do see if the email is coming from PostmanSG.
+description: This is what you could to do see if the email is coming from Postman.
 ---
 
 # Check Email Authenticity
 
-If you are not sure about the authenticity of the email you received from PostmanSG, you can check your email header.
+If you are not sure about the authenticity of the email you received from Postman, you can check your email header.
 
 ## Outlook
 

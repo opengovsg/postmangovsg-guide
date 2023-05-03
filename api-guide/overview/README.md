@@ -24,7 +24,7 @@ This section is under construction
 
 ## Campaign API
 
-Our Campaign APIs are meant to support our users who access us via the frontend on PostmanSG and are not designed to be accessed programmatically and thus might be modified without prior notice. You may find their endpoints in our [Swagger Docs](https://api.postman.gov.sg/docs/). As such, we recommend that you <mark style="background-color:yellow;">speak with us</mark> regarding your use case before using these APIs.
+Our Campaign APIs are meant to support our users who access us via the frontend on Postman and are not designed to be accessed programmatically and thus might be modified without prior notice. You may find their endpoints in our [Swagger Docs](https://api.postman.gov.sg/docs/). As such, we recommend that you <mark style="background-color:yellow;">speak with us</mark> regarding your use case before using these APIs.
 
 {% hint style="danger" %}
 Please note the following limitations with our campaign API endpoints:

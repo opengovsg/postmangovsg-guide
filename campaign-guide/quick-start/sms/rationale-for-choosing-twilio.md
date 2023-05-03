@@ -1,6 +1,6 @@
 ---
 description: >-
-  What else do I need to know about Twilio via PostmanSG, before I start using the
+  What else do I need to know about Twilio via Postman, before I start using the
   service?
 ---
 
@@ -9,9 +9,9 @@ description: >-
 ## Things to note:
 
 * [**Send rate**](https://support.twilio.com/hc/en-us/articles/115002943027-Understanding-Twilio-Rate-Limits-and-Message-Queues): 10 SMSes per second by default, though for specific use cases this may be configured on Twilio.
-* **Agency's own resource:** Each agency will need its own Twilio account to be able to send SMSes using PostmanSG.
+* **Agency's own resource:** Each agency will need its own Twilio account to be able to send SMSes using Postman.
 * **Record**: 144,000 SMSes in 1 batch
-* **Maximum number of recipients through PostmanSG**: No limit
+* **Maximum number of recipients through Postman**: No limit
 * [**SMS character limit**](https://www.twilio.com/docs/glossary/what-sms-character-limit): 160 characters per message segment.
 
 ## Billing & Cost
@@ -38,15 +38,15 @@ You may refer to Twilio's [page](https://www.twilio.com/sms/pricing/sg) for the 
 
 Similar to how you purchase phone line and prepaid cards, you have to purchase a phone number in order to send SMSes.
 
-A new phone number costs USD $1.15 per phone line for a US number. This is sufficient for PostmanSG's current functionality of 1-way SMS from you to your recipients, as 2-way SMS communications are not currently supported by PostmanSG.
+A new phone number costs USD $1.15 per phone line for a US number. This is sufficient for Postman's current functionality of 1-way SMS from you to your recipients, as 2-way SMS communications are not currently supported by Postman.
 
 Comparatively, purchasing a Singapore number (which will allow 2-way SMS communications) will cost USD $80 per phone line.
 
 For more details, go to [Cost Breakdown](https://guide.postman.gov.sg/faqs/faq-sender/cost-breakdown).
 
-## Twilio Credentials Required on PostmanSG
+## Twilio Credentials Required on Postman
 
-In order to send SMSes using PostmanSG, we need the following Twilio Credentials, which will be available once your Twilio account is set up. You will need to add these into your PostmanSG dashboard to start using the SMS service on PostmanSG.
+In order to send SMSes using Postman, we need the following Twilio Credentials, which will be available once your Twilio account is set up. You will need to add these into your Postman dashboard to start using the SMS service on Postman.
 
 * Account SID
 * API Key

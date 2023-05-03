@@ -10,7 +10,7 @@ Make sure that you have generated the [bearer token](https://github.com/opengovs
 
 ### Response Codes
 
-PostmanSG uses conventional API Responses Codes to indicate the success or failure of an API request.
+Postman uses conventional API Responses Codes to indicate the success or failure of an API request.
 
 {% hint style="info" %}
 Response codes do not tell you the delivery status or if your emails are sent. You should be calling the [status](https://api.postman.gov.sg/docs/#/Email/get\_transactional\_email) endpoint.
@@ -47,7 +47,7 @@ This is configurable so if you think we require higher rate limit, feel free to 
 
 #### Sending attachment through programmatic email API
 
-PostmanSG API allows the sending of attachment. Here are a few things to note:
+Postman API allows the sending of attachment. Here are a few things to note:
 
 * Attachment should not exceed 2MB in size
 * You can only attach a maximum of 5 attachments per email

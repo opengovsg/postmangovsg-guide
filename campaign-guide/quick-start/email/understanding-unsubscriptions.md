@@ -10,9 +10,9 @@ description: >-
 
 Aside from regulatory compliance, healthy communication with your recipient base is important. This means respecting their preferences in managing their inboxes, which has knock-on impacts on their attitudes towards interacting with your agency, and their openness to receiving future communications from you.
 
-Furthermore, if recipients are unable to locate the unsubscribe link in emails, they may resort to marking your emails as spam. This will not only restrict your emails from getting to them in the future, but will also hurt PostmanSG’s reputation score and future email deliverability.
+Furthermore, if recipients are unable to locate the unsubscribe link in emails, they may resort to marking your emails as spam. This will not only restrict your emails from getting to them in the future, but will also hurt Postman’s reputation score and future email deliverability.
 
-Since PostmanSG is the communications channel through which they receive these mailers, it is also good governance on our end to help both users like you, and your recipients, get the best experience out of using PostmanSG.
+Since Postman is the communications channel through which they receive these mailers, it is also good governance on our end to help both users like you, and your recipients, get the best experience out of using Postman.
 
 ## **What is a good unsubscribe rate?**
 

@@ -1,18 +1,18 @@
 ---
 description: >-
-  Watch this video to learn how to add your Twilio credentials in PostmanSG and
-  start using PostmanSG to send SMSes, or follow the steps in the guide below.
+  Watch this video to learn how to add your Twilio credentials in Postman and
+  start using Postman to send SMSes, or follow the steps in the guide below.
 ---
 
-# Add Twilio Credentials in PostmanSG
+# Add Twilio Credentials in Postman
 
 {% embed url="https://youtu.be/rXeWRJhq0AE" %}
 
-## Save your Twilio credentials under Settings in PostmanSG
+## Save your Twilio credentials under Settings in Postman
 
 Think of credentials as a passcode that you need to enter into a keypad in order to get into a door. We need your credentials to contact Telegram's API. If you want to be able to reuse your credentials, you need to save them under settings.
 
-### Step 1: Go to Settings on your PostmanSG dashboard
+### Step 1: Go to Settings on your Postman dashboard
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-11-15 at 3.17.36 PM.png" alt=""><figcaption></figcaption></figure>
 

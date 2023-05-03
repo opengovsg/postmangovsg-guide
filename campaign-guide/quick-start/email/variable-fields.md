@@ -1,6 +1,6 @@
 # Variable Fields
 
-You may wish to personalise your emails with variable fields whose content will change depending on recipient information. PostmanSG allows you to do this by the following steps:
+You may wish to personalise your emails with variable fields whose content will change depending on recipient information. Postman allows you to do this by the following steps:
 
 1. Use double curly brackets **\{{ \}}** in the message template to indicate a variable field (see the screenshot below for an example). The field will be populated with the recipient's unique test result as reflected in your CSV file (see step 2).
 

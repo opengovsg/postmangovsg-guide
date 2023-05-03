@@ -42,7 +42,7 @@ This version of the Privacy Policy is dated 21 May 2020.
 
 ## Annex
 
-**Name of Service**: PostmanSG
+**Name of Service**: Postman
 
 Types of data collected/requested
 
