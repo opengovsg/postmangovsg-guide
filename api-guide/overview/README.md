@@ -20,7 +20,12 @@ Example use case: Consider an agency that receives grant applications from membe
 
 ### Programmatic SMS API
 
-{% hint style="warning" %}
-This section is under construction
-{% endhint %}
+{% content-ref url="../programmatic-sms-api.md" %}
+[programmatic-sms-api.md](../programmatic-sms-api.md)
+{% endcontent-ref %}
 
+## Links
+
+* [IM8 Policies](im8-policies.md)
+* [Connecting your Intranet Application](connecting-your-intranet-application.md)
+* [API Reesponse Format](api-response-format.md)
