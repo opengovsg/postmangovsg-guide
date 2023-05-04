@@ -64,8 +64,6 @@
     * [How We Send Emails](api-guide/programmatic-email-api/email-sending-api/how-we-send-emails.md)
   * [Email Status API](api-guide/programmatic-email-api/email-status-api.md)
   * [Email List API](api-guide/programmatic-email-api/email-list-api.md)
-  * [API Documentation](api-guide/programmatic-email-api/api-documentation.md)
-  * [API FAQ](api-guide/programmatic-email-api/api-faq.md)
 * [Programmatic SMS API](api-guide/programmatic-sms-api.md)
 
 ## FAQ
