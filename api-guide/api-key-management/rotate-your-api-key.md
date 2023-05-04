@@ -1,32 +1,41 @@
 # Rotate your API Key
 
-## Multi API Key Support <a href="#new-multi-api-key-support" id="new-multi-api-key-support"></a>
+## Why is API key rotation necessary?
 
-If multiple teams in your agency is sharing the same email account (e.g \[email protected]), you can now create multiple API keys on Postman for multiple teams.
+There are two scenarios where API key rotation is necessary.
 
-Simply navigate to Settings and generate another API key.
+First, the longer the validity period of an API key, the more vulnerable it is to risk of theft or unintentional disclosure. As a general security practice, API keys should be rotated regularly to mitigate this risk, even when there has been no known breach.
 
-![](https://1981680851-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAQH3DF49Lq0AJudrbF%2Fuploads%2F48ILTLC0pBxHPfowA0mb%2FScreenshot%202023-04-06%20at%209.00.28%20AM.png?alt=media\&token=84ea4a1c-951b-4c9e-af36-79bed43e0dbd)
+As such, Postman's API keys are designed to expire automatically. An expired key will not be able to access Postman's APIs.&#x20;
 
-## API Key Expiry and Rotation <a href="#coming-soon-api-key-expiry" id="coming-soon-api-key-expiry"></a>
+* API keys that had been created prior to our multiple API key feature will expire on **21 April 2024, 08:00 GMT+8**.&#x20;
+* Newly created API keys will expire **6 months after creation**.
 
-Since API keys need to be stored, passed around, and leveraged in the development of solutions that interact with our Postman system, there are opportunities for these API keys to be compromised. API keys should be rotated to ensure that data cannot be accessed with an old key that might have been lost, cracked, or stolen. Rotating API keys will reduce the window of opportunity for an access key that is associated with a compromised or terminated account to be used.
+We encourage users to rotate API keys even more frequently if possible.
 
-At Postman, we have a hard-limit of 6 months for API key expiration, which means that any API keys that have been created more than 6 months from the current date is not usable anymore. We encourage users to rotate API keys even more frequently if you can afford to.
+Second, if an unauthorised disclosure of an API key is discovered, API key rotation should be performed as soon as possible to prevent unauthorised usage of the API key.
 
 ### How to rotate an API key
 
-In the event you have found that your current API key has been leaked, or your current API Key is expiring soon, follow these steps to rotate your API Key:
+Follow these steps to rotate your API key:
 
-* Create a new API Key on the dashboard and save the value locally in your computer's note.
-* Update the API key used in your system to the new one and restart your system to load the new value if needed.
-* Remove the old API key from your account by clicking the delete button in the table in settings page. Please ensure that you are deleting the correct API key.
+1. Create a new API key. See [this page](generate-your-api-key.md) for step-by-step instructions.
+2. Update the API key used in your system to the new one and, if necessary, restart your system to load the new value.
+3. Remove the old API key from your account by clicking the corresponding delete button in Postman's `Settings` page  to the .&#x20;
 
-**Note:** Make sure that the above steps are followed in chronological order that they're written in, otherwise your system might not be able to request to Postman for the update time period
+<figure><img src="../../.gitbook/assets/delete-api-key.png" alt=""><figcaption><p>Please ensure that you are deleting the correct API key.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/confirm-delete-api-key.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Please make sure that the above steps are followed in the correct order. Otherwise, your system might experience disruption.
+{% endhint %}
 
 ### Notification Schedule
 
-Before your API key expires, we will attempt to get in touch with you using the contact emails provided as part of the information about a particular API key of yours according to the below schedule:
+Before your API key expires, we will attempt to notify you of the impending expiry using the contact emails provided when creating your API key.
+
+The notification schedule is as follows:
 
 * 1 month before the expiry date
 * 2 weeks before the expiry date
