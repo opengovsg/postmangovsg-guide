@@ -1,23 +1,38 @@
 # Generate your API Key
 
-Before you start using our API, you have to generate an API key. This API key can be used to make API calls and serve to authenticate you to our system. Keep this API key safe and do not share it with anyone.
+## Log into Postman
 
-All users that can log into `postman.gov.sg` are able to generate this API key and use it call Postman API.
-
-## Bearer Token & API Key Generation
+Before you start using our API, you have to generate an API key. All users must log into our web application at `postman.gov.sg` to generate this API key. This API key can be used to make API calls and serve to authenticate you to our system.
 
 **Bearer authentication** (also called **token authentication**) is an HTTP **authentication** scheme that involves security **tokens** called **bearer tokens**. Postman uses bearer authentication.
 
-To generate the token, navigate to `Settings` and click on `Generate API key` and copy the key.
+{% hint style="danger" %}
+&#x20;**Keep this API key secret.** Unauthorised disclosure of this API key will allow others to impersonate you when calling our system.
+{% endhint %}
 
-![](https://1981680851-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAQH3DF49Lq0AJudrbF%2Fuploads%2FjJsBFXqPldqbpTv6JqPJ%2FScreenshot%202023-02-24%20at%203.13.56%20PM.png?alt=media\&token=7dcd58ed-52ae-4aff-93ae-9ab8702ab8d0)
+## Generate your API Key
 
-![](https://1981680851-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAQH3DF49Lq0AJudrbF%2Fuploads%2Fl8qPjaF3eiNIrt0Zo8Op%2FScreenshot%202023-04-05%20at%2010.53.38%20AM.png?alt=media\&token=ba47bc2a-ca93-4ec8-b66c-b6d9affebca4)
+<figure><img src="../../.gitbook/assets/generate-api-key.png" alt=""><figcaption></figcaption></figure>
 
-Enter the API key label and click on "Generate Key"
+To generate this token, navigate to `Settings` and click on `Generate API Key`.
 
-![](https://1981680851-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAQH3DF49Lq0AJudrbF%2Fuploads%2FJ2ztqOOvyBfcaV0gdLfI%2FScreenshot%202023-04-05%20at%2010.54.31%20AM.png?alt=media\&token=ce699a50-6ed6-4614-8d1e-cdd18cb6ba89)
+<figure><img src="../../.gitbook/assets/create-new-api-key.png" alt=""><figcaption></figcaption></figure>
 
-Copy the newly created API key
+1. We support multiple API keys per account. To distinguish among multiple API keys, choose a label for your API key. This label is permanent and cannot be changed. You can associate each label to the corresponding API key based on the last 5 digits of the API key shown on Postman's `Settings` page (see below).
+2. Enter contact emails that will receive updates regarding this API key. We are aware that our API users often create accounts on Postman using email addresses that are not meant to receive incoming emails. As such, it is important to enter email addresses whose inboxes are checked regularly. You can return to this user interface to update this list of contact emails.
 
-**Keep the bearer token** **safe:** You should not share the bearer token with anyone. Use services like 1Password to store it.
+<figure><img src="../../.gitbook/assets/successfully-created-api-key.png" alt=""><figcaption></figcaption></figure>
+
+After clicking `Generate Key`, your API key will be successfully created. Your API key will be of the format `username_v1_xxxxx`. Copy the newly created API key and store it securely. We only store the last 5 digits of your API key. If you lose this API key, we will not be able to recover the API key and you will have to generate a new one.
+
+<figure><img src="../../.gitbook/assets/settings-page-api-key.png" alt=""><figcaption></figcaption></figure>
+
+1. As mentioned previously, you can associate each label to the corresponding API key based on the last 5 digits of the API key shown on Postman's `Settings` page.&#x20;
+2. Newly created API keys will be valid for 6 months from the time of creation.
+3. For API keys that had been created prior to our multiple API key feature, the key label will shown as `default` and the last 5 digits are `*****`.
+4. API keys that had been created prior to our multiple API key feature will expire on 21 April 2024, 08:00 GMT+8.
+
+{% hint style="info" %}
+To keep your system secure, Postman's API keys automatically expire and you should rotate your Postman API key on a regular basis. We will send reminders to your the contact emails provided above when prior to expiry. For more information, [click here](rotate-your-api-key.md).
+{% endhint %}
+
