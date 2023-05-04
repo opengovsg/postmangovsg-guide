@@ -1,4 +1,4 @@
-# HTML Sanitisation
+# Email Body
 
 {% hint style="warning" %}
 This page is under construction.
