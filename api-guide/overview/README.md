@@ -12,11 +12,9 @@ We provide a **modern, cost-effective, and compliant PaaS** for to send programm
 
 We will launch our programmatic email API officially in Q3 2023. Interested users can reach out to us via [this form](https://go.gov.sg/postmanp-api-wogict).
 
-To find out more, click [here](https://guide.postman.gov.sg/api-guide/programmatic-email-api).
-
-{% hint style="info" %}
-Example use case: Consider an agency that receives grant applications from members of the public. When an applicant submits a grant on your website, instead of configuring your own email sending system, you could configure your system to call our API to send out an acknowledgement email. The same could be done for sending one-time-passwords (OTPs), appointment booking confirmations, status updates emails, and so on.
-{% endhint %}
+{% content-ref url="../programmatic-email-api.md" %}
+[programmatic-email-api.md](../programmatic-email-api.md)
+{% endcontent-ref %}
 
 ### Programmatic SMS API
 
