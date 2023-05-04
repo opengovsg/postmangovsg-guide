@@ -12,8 +12,8 @@ We provide a **modern, cost-effective, and compliant PaaS** for to send programm
 
 We will launch our programmatic email API officially in Q3 2023. Interested users can reach out to us via [this form](https://go.gov.sg/postmanp-api-wogict).
 
-{% content-ref url="../programmatic-email-api.md" %}
-[programmatic-email-api.md](../programmatic-email-api.md)
+{% content-ref url="../programmatic-email-api/" %}
+[programmatic-email-api](../programmatic-email-api/)
 {% endcontent-ref %}
 
 ### Programmatic SMS API
@@ -26,4 +26,4 @@ We will launch our programmatic email API officially in Q3 2023. Interested user
 
 * [IM8 Policies](im8-policies.md)
 * [Connecting your Intranet Application](connecting-your-intranet-application.md)
-* [API Reesponse Format](api-response-format.md)
+* [API Response Format](api-response-format.md)
