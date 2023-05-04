@@ -19,7 +19,8 @@ Telegram Bot campaigns would generate two types of status:
 
 You would not have any **INVALID** status (invalid status is for only for email). To see the entire list of errors you need to click on the `Export` button.
 
-![](<../../../.gitbook/assets/postman-telegram-stat-2 (1) (1) (1) (2).jpg>)
+![](<../../../.gitbook/assets/postman-telegram-stat-2.jpg>)
+>>>>>>> Stashed changes
 
 Once you click on the `Export` button, you will get a CSV file with the following columns.
 
