@@ -148,10 +148,3 @@ Below is a list of statuses you might receive and what it means.
 | `BOUNCED`   | the recipient's mail server rejected the email                                                                                                                                                                                                                      |
 | `DELIVERED` | the email provider has successfully delivered the email to the recipient's mail server                                                                                                                                                                              |
 | `OPENED`    | the recipient received the message and opened it in their email client                                                                                                                                                                                              |
-| `COMPLAINT` | the email was successfully delivered to the recipient’s mail server, but the recipient marked it as spam                                                                                                                                                            |
-
-#### Sending through your own custom email domain
-
-By default, your emails will be sent from donotreply@mail.postman.gov.sg domain.
-
-If you would like to send through your own email domain, there are additional configurations you need to do on your DNS. You may refer to this [page](api-faq.md#how-to-set-up-custom-domain) for more details.
