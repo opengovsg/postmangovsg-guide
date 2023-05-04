@@ -152,7 +152,7 @@ Navigate back to the console and under **Try it out**, select **Send an SMS.** I
 
 Type your message and click send to check if you receive the SMS and if the SenderID is accurate.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.52.40 PM.png>)
+<figure><img src="../../../.gitbook/assets/try-sms.webp" alt=""><figcaption></figcaption></figure>
 
 **If you don't receive your test SMS**, it is likely that this SenderID has been taken by another agency. You should use another Alphanumeric Sender ID. Otherwise, you may reach out to Twilio's support team for help.
 

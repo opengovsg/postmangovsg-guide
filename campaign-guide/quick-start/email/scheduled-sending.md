@@ -33,7 +33,7 @@ You will be brought to your campaign preview dashboard, where you can view your 
 
 Yes! On your scheduled campaign's dashboard, simply click on the `Reschedule campaign` button. Then, repeat the steps above to reschedule.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.33.24 AM.png" alt=""><figcaption></figcaption></figure>
+![](../../../.gitbook/assets/schedule-campaign.png)
 
 ### Can I cancel a scheduled campaign?
 
@@ -59,4 +59,4 @@ On this page, you can also click on the drop-down button beside the `Duplicate` 
 
 Aside from viewing the status of your campaign on your dashboard, you will also receive an email from Postman informing you that your campaign has been sent.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.42.42 AM.png" alt=""><figcaption><p>An email with your scheduled campaign name will be sent to you as confirmation.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/successfully-sent-scheduled.png" alt=""><figcaption></figcaption></figure>
