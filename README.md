@@ -29,7 +29,7 @@ The Postman web app can be accessed on GSIBs that allows Secure Internet Surfing
 
 ## What data can Postman handle?
 
-We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligible)** data. When in doubt, you should follow IM8’s guidelines on data classification.
+We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligible)** data. For more information, you may refer to the section of our guide on [IM8 Policies](api-guide/overview/im8-policies.md) (`.gov.sg` login required).
 
 | Normal email/SMS/Telegram | Non-sensitive to sensitivity low-normal | <ul><li>Transaction</li><li>Notification</li><li>Information broadcast</li><li>Receipts</li><li>Reminders</li></ul> |
 | ------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -43,8 +43,8 @@ We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligibl
 
 | Access Type                                                                    | Channels                     | Type of Use Case             | Prerequisite                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------ | ---------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Web app](https://guide.postman.gov.sg/campaign-guide/quick-start)                  | Email, SMS, and Telegram Bot | Manual intervention required | <p><code>@agency.gov.sg</code> email access to log in</p><p><br>Fill out an access request <a href="https://go.gov.sg/postman-non-gov-sg-application">form</a> if you do not have an <code>@agency.gov.sg</code> email address.</p> |
-| [API](https://github.com/opengovsg/postmangovsg/blob/master/docs/api-usage.md) | Email & SMS                  | System-generated             | Engineering or IT team to send messaging info from the source system to Postman.                                                                                                                                                  |
+| [Web app](https://guide.postman.gov.sg/campaign-guide/quick-start)             | Email, SMS, and Telegram Bot | Manual intervention required | <p><code>@agency.gov.sg</code> email access to log in</p><p><br>Fill out an access request <a href="https://go.gov.sg/postman-non-gov-sg-application">form</a> if you do not have an <code>@agency.gov.sg</code> email address.</p> |
+| [API](https://github.com/opengovsg/postmangovsg/blob/master/docs/api-usage.md) | Email & SMS                  | System-generated             | Engineering or IT team to send messaging info from the source system to Postman.                                                                                                                                                    |
 
 ## Open-source contribution
 

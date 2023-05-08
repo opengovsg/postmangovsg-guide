@@ -1,7 +1,5 @@
 # Overview
 
-/Screenshot 2022-06-07 at 10.52.40 PM
-
 ## Programmatic APIs
 
 Our programmatic APIs allow you to send messages programmatically. Messages are sent to one recipient at a time.
@@ -26,6 +24,6 @@ We will launch our programmatic email API officially in Q3 2023. Interested user
 
 ## Links
 
-* [IM8 Policies](im8-policies.md)
+* [IM8 Policies](im8-policies.md) (hosted on )
 * [Connecting your Intranet Application](connecting-your-intranet-application.md)
 * [API Response Format](api-response-format.md)
