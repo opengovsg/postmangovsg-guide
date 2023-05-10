@@ -2,13 +2,15 @@
 
 Our programmatic email API supports attachments via [`multipart/form-data` requests](https://www.w3.org/TR/html401/interact/forms.html#h-17.13.4.2).
 
-Please note the following rules when sending attachments:
+## Overview
 
-* The attachment feature is only available to users who have [configured custom domain](../custom-domain-setup.md). If you'd like to configure the emails to send from your own domain, [contact us](https://go.gov.sg/postman-contact-us).
-* Each email can have up to 10 attachments
-* Each attachment should not exceed 2MB in size
-* The cumulative size of all attachments should not exceed 10MB
-* You can file the list of supported attachment file types below
+* The attachment feature is only available to users who have [set up sending emails from their own domains](../custom-domain-setup.md). If your agency would like to set this up, [contact us](https://go.gov.sg/postman-contact-us).
+* Each email can have up to 10 attachments.
+* Each attachment should not exceed 2MB in size.
+* The cumulative size of all attachments should not exceed 10MB.
+* You can find the list of supported attachment file types below.
+
+### Supported attachment file types
 
 <details>
 
