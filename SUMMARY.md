@@ -52,7 +52,6 @@
 * [Programmatic Email API](api-guide/programmatic-email-api/README.md)
   * [SG-Mail Whitelisting](api-guide/programmatic-email-api/sg-mail-whitelisting.md)
   * [Comparison with AMR](api-guide/programmatic-email-api/comparison-with-amr.md)
-  * [Custom From Address](api-guide/programmatic-email-api/custom-from-address.md)
   * [Send Email API](api-guide/programmatic-email-api/send-email-api/README.md)
     * [From Name and From Address](api-guide/programmatic-email-api/send-email-api/from-name-and-from-address.md)
     * [Email Body](api-guide/programmatic-email-api/send-email-api/email-body.md)
@@ -65,6 +64,7 @@
     * [Email Tagging and Classification](api-guide/programmatic-email-api/send-email-api/email-tagging-and-classification.md)
   * [Get Email by ID API](api-guide/programmatic-email-api/get-email-by-id-api.md)
   * [List Emails API](api-guide/programmatic-email-api/list-emails-api.md)
+  * [Custom From Address](api-guide/programmatic-email-api/custom-from-address.md)
 * [Programmatic SMS API](api-guide/programmatic-sms-api.md)
 
 ## FAQ

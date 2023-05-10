@@ -12,11 +12,17 @@ There are two main reasons why you might want to set up a custom sender email:
 
 First, you wish to send emails using your agency's own email address. We understand that agencies wish to retain their own branding and enhance the perceived legitimacy of their emails by sending emails from their own domains. To achieve this, setting up a custom from address is necessary.
 
-We wish to note that the from name can be changed without changing the from address. In the example below, the from name is `New Product`, whereas the from address is `<test-admin@postman.gov.sg>`.&#x20;
+We wish to note that the from name can be changed without changing the from address. The example below highlights the difference between from name and from address:
+
+<figure><img src="../../.gitbook/assets/from-name-and-address.png" alt="" width="375"><figcaption></figcaption></figure>
+
+In the example below, the from name is `New Product`, whereas the from address is `<test-admin@postman.gov.sg>`.&#x20;
 
 <figure><img src="../../.gitbook/assets/custom-domain.png" alt="" width="375"><figcaption><p>(1) From Name and (2) From Address</p></figcaption></figure>
 
-As such, for agencies that do not wish to go through the hassle of setting up custom from addresses, an intermediate solution might be to change the from name. For more information, [see here](send-email-api/from-name-and-from-address.md).
+For more information, [see here](send-email-api/from-name-and-from-address.md).
+
+As such, for agencies that do not wish to go through the hassle of setting up custom from addresses, an intermediate solution might be to change the from name.&#x20;
 
 Second, you wish to send emails with attachments. Currently, we only allow sending of attachments using custom sender email. For more information, [see here](send-email-api/attachments.md).
 
