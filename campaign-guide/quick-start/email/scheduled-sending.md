@@ -13,7 +13,7 @@ _\*This feature is also available for SMS._
 
 You can schedule your campaign in step 4 of the campaign creation page by clicking `Schedule for later.`
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.27.03 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-12-27 at 11.27.03 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 Select your desired date (day, month, year) and time (hour, minute, AM/PM) by clicking on the icons or typing into the relevant section. Make sure to select a _future_ date and time. Then, click `Schedule Campaign`.
 

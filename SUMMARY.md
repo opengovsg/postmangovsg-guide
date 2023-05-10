@@ -43,7 +43,7 @@
 * [Overview](api-guide/overview/README.md)
   * [IM8 Policies](api-guide/overview/im8-policies.md)
   * [Connecting your Intranet Application](api-guide/overview/connecting-your-intranet-application.md)
-  * [API Response Format](api-guide/overview/api-response-format.md)
+  * [API Response Formats](api-guide/overview/api-response-format.md)
 * [Getting Started](api-guide/getting-started/README.md)
   * [Send your first programmatic email](api-guide/getting-started/send-your-first-programmatic-email.md)
 * [API Key Management](api-guide/api-key-management/README.md)
