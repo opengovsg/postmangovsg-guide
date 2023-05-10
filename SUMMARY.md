@@ -53,7 +53,7 @@
   * [SG-Mail Whitelisting](api-guide/programmatic-email-api/sg-mail-whitelisting.md)
   * [Comparison with AMR](api-guide/programmatic-email-api/comparison-with-amr.md)
   * [Custom Domain Setup](api-guide/programmatic-email-api/custom-domain-setup.md)
-  * [Email Sending API](api-guide/programmatic-email-api/email-sending-api/README.md)
+  * [Send Email API](api-guide/programmatic-email-api/email-sending-api/README.md)
     * [Email Body](api-guide/programmatic-email-api/email-sending-api/email-body.md)
     * [Recipient Blacklist](api-guide/programmatic-email-api/email-sending-api/recipient-blacklist.md)
     * [Attachments](api-guide/programmatic-email-api/email-sending-api/attachments.md)
@@ -63,8 +63,8 @@
     * [Rate Limit](api-guide/programmatic-email-api/email-sending-api/rate-limit.md)
     * [Email Tagging and Classification](api-guide/programmatic-email-api/email-sending-api/email-tagging-and-classification.md)
     * [How We Send Emails](api-guide/programmatic-email-api/email-sending-api/how-we-send-emails.md)
-  * [Email Status API](api-guide/programmatic-email-api/email-status-api.md)
-  * [Email List API](api-guide/programmatic-email-api/email-list-api.md)
+  * [Get Email by ID API](api-guide/programmatic-email-api/email-status-api.md)
+  * [List Emails API](api-guide/programmatic-email-api/email-list-api.md)
 * [Programmatic SMS API](api-guide/programmatic-sms-api.md)
 
 ## FAQ

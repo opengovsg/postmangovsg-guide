@@ -16,32 +16,28 @@ Our product is built on top of the commercial cloud and thus is aligned with the
 
 For Intranet users, our API is most similar to App Mail Relay (AMR). For more details:
 
-- [IM8 Policies](../overview/im8-policies.md)
-- [Comparison with AMR](./comparison-with-amr.md)
-
-{% hint style="warning" %}
-The links above are under construction. When completed, they will require `.gov.sg` login to access.
-{% endhint %}
+* [IM8 Policies](../overview/im8-policies.md)
+* [Comparison with AMR](comparison-with-amr.md)
 
 For Internet users:
 
-- By using our PaaS service allows you to abstract away the undifferentiated heavy lifting of setting up and maintaining your own email sending system, allowing you to focus on your core business logic.
-- Compared to commercial PaaS, our product is free for government agencies to use and is set up to ensure deliverability to SG-Mail recipients.
+* By using our PaaS service allows you to abstract away the undifferentiated heavy lifting of setting up and maintaining your own email sending system, allowing you to focus on your core business logic.
+* Compared to commercial PaaS, our product is free for government agencies to use and is set up to ensure deliverability to SG-Mail recipients.
 
 ## Feature list
 
-- Modern, cloud-native, self-serve
-- Free. No GeBiz purchase order to submit, no billing or invoices to deal with.
-- [IM8-compliant](../overview/im8-policies.md)
-  - As a product of [Open Government Products](https://www.open.gov.sg/), we are exempt from IM8 policies.
-  - Nonetheless, we strive to build our policies in a manner that is consistent with SNDGO's Cloud Security Policy.
-- [Attachments](./email-sending-api/attachments.md)
-- [Custom domain](./custom-domain-setup.md)
-- [Email tagging and classification](./email-sending-api/email-tagging-and-classification.md)
-- Endpoints for [querying email status](./email-status-api.md) and [listing emails](./email-list-api.md)
-- [SG-Mail whitelisting](./sg-mail-whitelisting.md) to ensure delivery to Intranet recipients
-- [Multiple API keys for regular key rotation](../api-key-management/README.md)
-- Rolling deployment with zero downtime
+* Modern, cloud-native, self-serve
+* Free. No GeBiz purchase order to submit, no billing or invoices to deal with.
+* [IM8-compliant](../overview/im8-policies.md)
+  * As a product of [Open Government Products](https://www.open.gov.sg/), we are exempt from IM8 policies.
+  * Nonetheless, we strive to build our policies in a manner that is consistent with SNDGO's Cloud Security Policy.
+* [Attachments](email-sending-api/attachments.md)
+* [Custom domain](custom-domain-setup.md)
+* [Email tagging and classification](email-sending-api/email-tagging-and-classification.md)
+* Endpoints for [querying email status](email-status-api.md) and [listing emails](email-list-api.md)
+* [SG-Mail whitelisting](sg-mail-whitelisting.md) to ensure delivery to Intranet recipients
+* [Multiple API keys for regular key rotation](../api-key-management/)
+* Rolling deployment with zero downtime
 
 ## Express interest
 
