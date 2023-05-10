@@ -43,7 +43,7 @@ Your account name will be assigned by the Postman team for identification. It wi
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-02-06 at 5.20.53 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-06 at 5.21.44 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/save-recovery-code.png"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.53.59 PM.png" alt=""><figcaption><p>Your account has been successfully set up!</p></figcaption></figure>
 
