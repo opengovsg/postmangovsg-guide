@@ -52,7 +52,7 @@
 * [Programmatic Email API](api-guide/programmatic-email-api/README.md)
   * [SG-Mail Whitelisting](api-guide/programmatic-email-api/sg-mail-whitelisting.md)
   * [Comparison with AMR](api-guide/programmatic-email-api/comparison-with-amr.md)
-  * [Custom Domain Setup](api-guide/programmatic-email-api/custom-domain-setup.md)
+  * [Custom Sender Email Setup](api-guide/programmatic-email-api/custom-domain-setup.md)
   * [Send Email API](api-guide/programmatic-email-api/send-email-api/README.md)
     * [Email Body](api-guide/programmatic-email-api/send-email-api/email-body.md)
     * [Recipient Blacklist](api-guide/programmatic-email-api/send-email-api/recipient-blacklist.md)
