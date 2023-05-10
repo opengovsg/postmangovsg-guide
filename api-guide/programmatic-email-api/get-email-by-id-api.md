@@ -8,9 +8,9 @@
 This page is under construction.
 {% endhint %}
 
-You can get the delivery status of the emails sent using the `GET`endpoint `/transactional/email`.\
-\
-Below is a list of statuses you might receive and what it means.
+You can get the delivery status of the emails sent using the `GET`endpoint `/transactional/email`. Below is a list of statuses you might receive and what it means.
+
+Add information on error codes etc.
 
 | Status      | Definition                                                                                                                                                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

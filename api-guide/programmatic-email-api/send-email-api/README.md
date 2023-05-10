@@ -28,6 +28,10 @@ The optional fields accepted by the endpoint are as follows:
 4. `tag` - This fields accept a user-defined string. For more information, [see here](./email-tagging-and-classification.md).
 5. `attachments` - This field accepts a list of attachments and is only available via multipart requests. For more information, [see here](./attachments.md).
 
+See the screenshot below for an example of how some of these fields correspond to what an email recipient sees:
+
+![](../../../.gitbook/assets/email-fields.png)
+
 ### Example API Call
 
 ```bash
