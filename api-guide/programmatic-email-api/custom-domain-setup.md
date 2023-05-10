@@ -1,14 +1,10 @@
 ---
 description: >-
-  Configuring to send your emails from your own email domains (e.g
+  Configuring to send your emails from your own email address (e.g
   noreply@agency.gov.sg).
 ---
 
 # Custom Sender Email Setup
-
-{% hint style="warning" %}
-This page is under construction.
-{% endhint %}
 
 By default, all emails will be sent from Postman's email address <mark style="color:red;">`donotreply@mail.postman.gov.sg`</mark>
 
