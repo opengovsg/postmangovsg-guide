@@ -9,7 +9,7 @@ description: Handling responses from the Postman API
 Postman uses conventional API Responses Codes to indicate the success or failure of an API request.
 
 {% hint style="info" %}
-Sending messages is an asynchronous process. As such, a successful API request to our message sending endpoints simply mean the request has been made successfully. It does not mean that your message has been sent or delivered successfully. To check this, you should call the respective endpoints ([email](../programmatic-email-api/email-status-api.md), [SMS](../programmatic-sms-api.md)) to check the status of your message.
+Sending messages is an asynchronous process. As such, a successful API request to our message sending endpoints simply mean the request has been made successfully. It does not mean that your message has been sent or delivered successfully. To check this, you should call the respective endpoints ([email](../programmatic-email-api/get-email-by-id-api.md), [SMS](../programmatic-sms-api.md)) to check the status of your message.
 {% endhint %}
 
 | Code                         | Description                                                                                                                                                                                       |

@@ -4,7 +4,7 @@ We have implemented these features to allow you to better keep track of the type
 
 ## Email Tagging
 
-Our [email sending API endpoint](../email-sending-api/README.md) (`/transactional/email/send`) now accepts an optional `tag` field. This field accepts a string of up to 255 characters.
+Our [email sending API endpoint](./) (`/transactional/email/send`) now accepts an optional `tag` field. This field accepts a string of up to 255 characters.
 
 An example JSON payload making use of this `tag` field:
 
@@ -18,17 +18,17 @@ An example JSON payload making use of this `tag` field:
 }
 ```
 
-In this example, the `tag` field is wholly defined by the API user. When the API user queries for the email using the [email status API endpoint](../email-status-api.md) (`/transactional/email/{id}`), the `tag` field will be returned as part of the JSON object.
+In this example, the `tag` field is wholly defined by the API user. When the API user queries for the email using the [email status API endpoint](../get-email-by-id-api.md) (`/transactional/email/{id}`), the `tag` field will be returned as part of the JSON object.
 
 To make this feature more useful, we are considering generating monthly reports of the different emails based on these user-defined tags. If you have ideas for how this feature might be useful to you, please contact us.
 
 ## Email Classification
 
-Our [email sending API endpoint](../email-sending-api/README.md) (`/transactional/email/send`) now accepts an optional `classification` field. This fields accepts one of the following enums:
+Our [email sending API endpoint](./) (`/transactional/email/send`) now accepts an optional `classification` field. This fields accepts one of the following enums:
 
-- `URGENT`
-- `FOR_ACTION`
-- `FOR_INFO`
+* `URGENT`
+* `FOR_ACTION`
+* `FOR_INFO`
 
 An example JSON payload making use of this `classification` field:
 
@@ -41,6 +41,6 @@ An example JSON payload making use of this `classification` field:
 }
 ```
 
-When the API user queries for the email using the [email status API endpoint](../email-status-api.md) (`/transactional/email/{id}`), the `classification` field will be returned as part of the JSON object.
+When the API user queries for the email using the [email status API endpoint](../get-email-by-id-api.md) (`/transactional/email/{id}`), the `classification` field will be returned as part of the JSON object.
 
 We encourage users to make use of this field. To make this feature more useful, we are considering priority sending of emails based on this classification. If you have ideas for how this feature might be useful to you, please contact us.

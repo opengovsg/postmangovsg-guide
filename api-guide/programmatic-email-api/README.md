@@ -31,10 +31,10 @@ For Internet users:
 * [IM8-compliant](../overview/im8-policies.md)
   * As a product of [Open Government Products](https://www.open.gov.sg/), we are exempt from IM8 policies.
   * Nonetheless, we strive to build our policies in a manner that is consistent with SNDGO's Cloud Security Policy.
-* [Attachments](email-sending-api/attachments.md)
+* [Attachments](send-email-api/attachments.md)
 * [Custom domain](custom-domain-setup.md)
-* [Email tagging and classification](email-sending-api/email-tagging-and-classification.md)
-* Endpoints for [querying email status](email-status-api.md) and [listing emails](email-list-api.md)
+* [Email tagging and classification](send-email-api/email-tagging-and-classification.md)
+* Endpoints for [querying email status](get-email-by-id-api.md) and [listing emails](list-emails-api.md)
 * [SG-Mail whitelisting](sg-mail-whitelisting.md) to ensure delivery to Intranet recipients
 * [Multiple API keys for regular key rotation](../api-key-management/)
 * Rolling deployment with zero downtime
