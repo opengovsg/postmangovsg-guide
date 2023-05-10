@@ -8,6 +8,10 @@ This POST endpoint accepts a request body that contains information about the em
 
 The request body can either be JSON or [multipart request](https://swagger.io/docs/specification/describing-request-body/multipart-requests/). (The latter is required for [sending attachments](./attachments.md)).
 
+{% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/transactional/email/send" method="post" %}
+[https://api.postman.gov.sg/openapi.yaml](https://api.postman.gov.sg/openapi.yaml)
+{% endswagger %}
+
 ## Request Body
 
 The mandatory fields in the request body are as follows:
@@ -45,7 +49,7 @@ For general information about our API response formats, [see here](../../overvie
 In the event of a successful request, the response status code will be `201 Created`.
 
 {% hint style="info" %}
-Sending emails is an asynchronous process. As such, a successful API request simply means the request has been made successfully. It does not mean that your message has been sent or delivered successfully. To check this, you should call [this endpoint](../programmatic-email-api/get-email-by-id-api.md) to check the status of your message.
+Sending emails is an asynchronous process. After receiving your API call, Postman will attempt to send the email via our email service provider. As such, a successful API request simply means the request has been made successfully. To return a response to each API call promptly, there is not enough time to ensure that your message has been sent or delivered successfully. To check on the status of your email, you should call [this endpoint](../programmatic-email-api/get-email-by-id-api.md).
 {% endhint %}
 
 For unsuccessful requests, we will provide an appropriate status code and error message to indicate the reason for the failure.
@@ -56,11 +60,11 @@ For this API, here is a (non-exhaustive) list of reasons why a request may fail:
 2. The recipient has been blacklisted. For more information, [see here](./recipient-blacklist.md).
 3. The user has exceeded the rate limit. For more information, [see here](./rate-limit.md).
 4. The subject or the body of the email is empty after applying [HTML sanitisation](./email-body.md/#html-sanitisation).
-5. Internal server error. Unlike the previous reasons, the error code for this will be `500`. (This is rare and unlikely to happen.)
+5. Internal server error. Unlike the previous reasons (which have a `4xx` error code), the error code for this will be `500`. (This is rare and unlikely to happen.)
 
-### JSON Object
+### Response JSON Object
 
-For the API call [described above](#example-api-call), the response body will be as follows:
+For the API call [illustrated above](#example-api-call), the response JSON object would be as follows:
 
 ```json
 {
@@ -89,7 +93,7 @@ For the API call [described above](#example-api-call), the response body will be
 ```
 
 {% hint style="info" %}
-The user is strongly advised to save the `id` field (`42` in the example), which is a unique identifier for the email. This can be used to check the status of the email. For more information, [see here](../get-email-by-id-api.md).
+The user is strongly advised to save the `id` field (`42` in the example), which is a unique identifier for the email. This can be used to check the status of the email via a separate endpoint that will return a similar JSON object. For more information, [see here](../get-email-by-id-api.md).
 {% endhint %}
 
 ## Links
@@ -103,9 +107,3 @@ The user is strongly advised to save the `id` field (`42` in the example), which
 - [Rate Limit](./rate-limit.md)
 - [Email Tagging and Classification](./email-tagging-and-classification.md)
 - [How Email Sending Works](./how-email-sending-works.md)
-
-## Swagger Docs
-
-{% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/transactional/email/send" method="post" %}
-[https://api.postman.gov.sg/openapi.yaml](https://api.postman.gov.sg/openapi.yaml)
-{% endswagger %}
