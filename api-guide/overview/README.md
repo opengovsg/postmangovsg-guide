@@ -26,4 +26,4 @@ We will launch our programmatic email API officially in Q3 2023. Interested user
 
 * [IM8 Policies](im8-policies.md) (hosted on )
 * [Connecting your Intranet Application](connecting-your-intranet-application.md)
-* [API Response Format](api-response-format.md)
+* [API Response Format](broken-reference)
