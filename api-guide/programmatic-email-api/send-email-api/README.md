@@ -6,7 +6,7 @@ This section of the guide contains information on how our API to send email work
 
 This POST endpoint accepts a request body that contains information about the email to be sent. Each successful request to this endpoint will send a single email.
 
-The request body can either be JSON or [multipart request](https://swagger.io/docs/specification/describing-request-body/multipart-requests/). (The latter is required for [sending attachments](./attachments.md)).
+The request body can either be JSON or [multipart request](https://swagger.io/docs/specification/describing-request-body/multipart-requests/). (The latter is required for [sending attachments](attachments.md)).
 
 {% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/transactional/email/send" method="post" %}
 [https://api.postman.gov.sg/openapi.yaml](https://api.postman.gov.sg/openapi.yaml)
@@ -17,16 +17,16 @@ The request body can either be JSON or [multipart request](https://swagger.io/do
 The mandatory fields in the request body are as follows:
 
 1. `subject` - The subject of the email.
-2. `body` - The body of the email. For more information, [see here](./email-body.md).
+2. `body` - The body of the email. For more information, [see here](email-body/).
 3. `recipient` - The email address of the recipient. Currently, we only support sending email to a single recipient (i.e. cc and bcc are not supported).
 
 The optional fields accepted by the endpoint are as follows:
 
-1. `from` - The email address of the sender. If this field is omitted, the email will be sent from `Postman.gov.sg <donotreply@mail.postman.gov.sg>`. For more information, [see here](./from-name-and-from-address.md).
+1. `from` - The email address of the sender. If this field is omitted, the email will be sent from `Postman.gov.sg <donotreply@mail.postman.gov.sg>`. For more information, [see here](from-name-and-from-address.md).
 2. `reply_to` - This sets the "Reply-To" email address, which allows sending an email from one email address and telling the recipients to reply to another address. If this field is omitted, it will default to the sender's email address.
-3. `classification` - This field accepts one of the following values: `URGENT`, `FOR_ACTION`, and `FOR_INFO`. For more information, [see here](./email-tagging-and-classification.md).
-4. `tag` - This fields accept a user-defined string. For more information, [see here](./email-tagging-and-classification.md).
-5. `attachments` - This field accepts a list of attachments and is only available via multipart requests. For more information, [see here](./attachments.md).
+3. `classification` - This field accepts one of the following values: `URGENT`, `FOR_ACTION`, and `FOR_INFO`. For more information, [see here](email-tagging-and-classification.md).
+4. `tag` - This fields accept a user-defined string. For more information, [see here](email-tagging-and-classification.md).
+5. `attachments` - This field accepts a list of attachments and is only available via multipart requests. For more information, [see here](attachments.md).
 
 See the screenshot below for an example of how some of these fields correspond to what an email recipient sees:
 
@@ -61,14 +61,14 @@ For unsuccessful requests, we will provide an appropriate status code and error 
 For this API, here is a (non-exhaustive) list of reasons why a request may fail:
 
 1. The request body is invalid because of missing mandatory fields or invalid field values. The error message will provide more details.
-2. The recipient has been blacklisted. For more information, [see here](./recipient-blacklist.md).
-3. The user has exceeded the rate limit. For more information, [see here](./rate-limit.md).
-4. The subject or the body of the email is empty after applying [HTML sanitisation](./email-body.md/#html-sanitisation).
+2. The recipient has been blacklisted. For more information, [see here](recipient-blacklist.md).
+3. The user has exceeded the rate limit. For more information, [see here](rate-limit.md).
+4. The subject or the body of the email is empty after applying [HTML sanitisation](email-body/#html-sanitisation).
 5. Internal server error. Unlike the previous reasons (which have a `4xx` error code), the error code for this will be `500`. (This is rare and unlikely to happen.)
 
 ### Response JSON Object
 
-For the API call [illustrated above](#example-api-call), the response JSON object would be as follows:
+For the API call [illustrated above](./#example-api-call), the response JSON object would be as follows:
 
 ```json
 {
@@ -102,12 +102,12 @@ The user is strongly advised to save the `id` field (`42` in the example), which
 
 ## Links
 
-- [Email Body](./email-body.md)
-- [Recipient Blacklist](./recipient-blacklist.md)
-- [Attachments](./attachments.md)
-- [Images](./images/README.md)
-  - [Internet Images](./images/internet-images.md)
-  - [Content-ID Images](./images/content-id-images.md)
-- [Rate Limit](./rate-limit.md)
-- [Email Tagging and Classification](./email-tagging-and-classification.md)
-- [How Email Sending Works](./how-email-sending-works.md)
+* [Email Body](email-body/)
+* [Recipient Blacklist](recipient-blacklist.md)
+* [Attachments](attachments.md)
+* [Images](email-body/images/)
+  * [Internet Images](email-body/images/internet-images.md)
+  * [Content-ID Images](email-body/images/content-id-images.md)
+* [Rate Limit](rate-limit.md)
+* [Email Tagging and Classification](email-tagging-and-classification.md)
+* [How Email Sending Works](how-email-sending-works.md)
