@@ -10,6 +10,8 @@ Our programmatic email API supports attachments via [`multipart/form-data` reque
 * The cumulative size of all attachments should not exceed 10MB.
 * You can find the list of supported attachment file types below.
 
+You will receive a `413` error if the requirements above are not met.
+
 ### Supported attachment file types
 
 <details>

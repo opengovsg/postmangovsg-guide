@@ -22,7 +22,7 @@ The mandatory fields in the request body are as follows:
 
 The optional fields accepted by the endpoint are as follows:
 
-1. `from` - The email address of the sender. If this field is omitted, the email will be sent from `Postman.gov.sg <donotreply@mail.postman.gov.sg>`. For more information, [see here](./email-from-name-and-address.md).
+1. `from` - The email address of the sender. If this field is omitted, the email will be sent from `Postman.gov.sg <donotreply@mail.postman.gov.sg>`. For more information, [see here](./from-name-and-from-address.md).
 2. `reply_to` - This sets the "Reply-To" email address, which allows sending an email from one email address and telling the recipients to reply to another address. If this field is omitted, it will default to the sender's email address.
 3. `classification` - This field accepts one of the following values: `URGENT`, `FOR_ACTION`, and `FOR_INFO`. For more information, [see here](./email-tagging-and-classification.md).
 4. `tag` - This fields accept a user-defined string. For more information, [see here](./email-tagging-and-classification.md).

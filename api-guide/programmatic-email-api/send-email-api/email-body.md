@@ -1,8 +1,6 @@
 # Email Body
 
-{% hint style="warning" %}
-This page is under construction.
-{% endhint %}
+This section contains
 
 * Email body size restrictions
 

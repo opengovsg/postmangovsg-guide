@@ -1,5 +1,7 @@
 # Get Email by ID API
 
+## Overview
+
 {% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/transactional/email/{emailId}" method="get" %}
 [https://api.postman.gov.sg/openapi.yaml](https://api.postman.gov.sg/openapi.yaml)
 {% endswagger %}
@@ -8,9 +10,9 @@
 This page is under construction.
 {% endhint %}
 
-You can get the delivery status of the emails sent using the `GET`endpoint `/transactional/email`. Below is a list of statuses you might receive and what it means.
+You can get the delivery status of the emails sent using the `GET`endpoint `/transactional/email`. For a list of statuses and error codes, please refer to the table below.
 
-Add information on error codes etc.
+## Status and Error Code
 
 | Status      | Definition                                                                                                                                                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
