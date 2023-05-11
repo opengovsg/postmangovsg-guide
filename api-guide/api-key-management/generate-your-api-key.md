@@ -2,13 +2,11 @@
 
 ## Log into Postman
 
-Before you start using our API, you have to generate an API key. All users must log into our web application at `postman.gov.sg` to generate this API key. This API key can be used to make API calls and serve to authenticate you to our system.
-
 {% hint style="info" %}
 For [Programmatic Email API](../programmatic-email-api/README.md) users, if you wish to use a [custom from address](../programmatic-email-api/custom-from-address.md), please note that the email address with which you use to log into Postman must be the same as the address from which you wish to send emails.
 {% endhint %}
 
-**Bearer authentication** (also called **token authentication**) is an HTTP **authentication** scheme that involves security **tokens** called **bearer tokens**. Postman uses bearer authentication.
+Before you start using our API, you have to generate an API key. All users must log into our web application at `postman.gov.sg` to generate this API key. This API key can be used to make API calls and serve to authenticate you to our system.
 
 {% hint style="danger" %}
 **Keep this API key secret.** Unauthorised disclosure of this API key will allow others to impersonate you when calling our system.
