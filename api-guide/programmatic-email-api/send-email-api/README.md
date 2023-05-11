@@ -92,7 +92,7 @@ For the API call [illustrated above](./#example-api-call), the response JSON obj
   "delivered_at": null,
   "opened_at": null,
   "classification": null,
-  "tag": null,
+  "tag": null
 }
 ```
 
