@@ -51,6 +51,7 @@
   * [Rotate your API Key](api-guide/api-key-management/rotate-your-api-key.md)
 * [Programmatic Email API](api-guide/programmatic-email-api/README.md)
   * [SG-Mail Whitelisting](api-guide/programmatic-email-api/sg-mail-whitelisting.md)
+  * [Custom From Address](api-guide/programmatic-email-api/custom-from-address.md)
   * [Comparison with AMR](api-guide/programmatic-email-api/comparison-with-amr.md)
   * [Send Email API](api-guide/programmatic-email-api/send-email-api/README.md)
     * [From Name and From Address](api-guide/programmatic-email-api/send-email-api/from-name-and-from-address.md)
@@ -64,8 +65,8 @@
     * [Rate Limit](api-guide/programmatic-email-api/send-email-api/rate-limit.md)
   * [Get Email by ID API](api-guide/programmatic-email-api/get-email-by-id-api.md)
   * [List Emails API](api-guide/programmatic-email-api/list-emails-api.md)
-  * [Custom From Address](api-guide/programmatic-email-api/custom-from-address.md)
 * [Programmatic SMS API](api-guide/programmatic-sms-api.md)
+* [Frequently Asked Questions](api-guide/frequently-asked-questions.md)
 
 ## FAQ
 

@@ -39,6 +39,8 @@ For Internet users:
 * [Multiple API keys for regular key rotation](../api-key-management/)
 * Rolling deployment with zero downtime
 
-## Express interest
+## Express interest and FAQs
 
 We will launch our programmatic email API officially in Q3 2023. Interested users can reach out to us via [this form](https://go.gov.sg/postmanp-api-wogict).
+
+If you have any queries, you can check out this [API FAQ page](../frequently-asked-questions.md).
