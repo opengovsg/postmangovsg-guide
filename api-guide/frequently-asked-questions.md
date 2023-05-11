@@ -36,13 +36,12 @@ Our API is designed to accommodate a range of use cases. However, we do limit th
 
 If you are interested in exploring our API and want to see if your use case is suitable, feel free to reach out to the Postman team via this [form](https://form.gov.sg/#!/62b19812ff209e00126f2c47) so that we can arrange a chat with you.
 
-If you would like to try out the API integration straightaway, you can generate your own API key by logging into your Postman account. Steps to do so are available [here](https://guide.postman.gov.sg/\~/changes/pv1f3DWM1ORa7R0uNLij/api-guide/api-key-management/generate-your-api-key) and our Swagger docs [here](https://api.postman.gov.sg/docs/#/), . Note that there is no test or production environment, you can use our production environment to send your test emails as well.
+If you would like to try out the API integration straightaway, you can generate your own API key by logging into your Postman account. Steps to do so are available [here](https://guide.postman.gov.sg/\~/changes/pv1f3DWM1ORa7R0uNLij/api-guide/api-key-management/generate-your-api-key) and our Swagger docs are [available here](https://api.postman.gov.sg/docs/#/). We recommend that you test your integration directly in the production version of Postman to ensure that your integration works as expected.
 
 ## What is Postman Programmatic Email API's product roadmap?
 
-We are currently working to launch our API officially in Q3 2023, following which we will officially publish our product roadmap. In the meantime, you can find [our feature list here](./programmatic-email-api/README.md).
+We are currently working to launch our API in Q3 2023, following which we will publish our product roadmap. In the meantime, you can find [our feature list here](./programmatic-email-api/README.md).
 
-## Does each agency definitely need a custom domain email address?
+## Does my agency need to set up a custom from address?
 
-If you are sending attachments in your API emails, then a custom domain is necessary. If you would like your emails to retain your agency branding in the email sender address, then you might also want to consider setting up a custom domain. See [here](https://guide.postman.gov.sg/api-guide/programmatic-email-api/custom-from-address#why-custom-from-address) for more information on custom domain set up, and let us know to kickstart the set-up process for you by filling in this [form](https://form.gov.sg/#!/62b19812ff209e00126f2c47).
-
+If you are sending attachments in your API emails, then a custom from address is necessary. If you would like your emails to retain your agency branding in the email sender address, then you might also want to consider setting up a custom domain. See [here](https://guide.postman.gov.sg/api-guide/programmatic-email-api/custom-from-address#why-custom-from-address) for more information on custom from address. Kickstart the setup process by submitting this [form](https://form.gov.sg/#!/62b19812ff209e00126f2c47).
