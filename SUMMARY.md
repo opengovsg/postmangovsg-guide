@@ -45,6 +45,7 @@
   * [Connecting your Intranet Application](api-guide/overview/connecting-your-intranet-application.md)
   * [API Response Formats](api-guide/overview/api-response-formats.md)
 * [API Key Management](api-guide/api-key-management/README.md)
+  * [Bearer Authentication](api-guide/api-key-management/bearer-authentication.md)
   * [Generate your API Key](api-guide/api-key-management/generate-your-api-key.md)
   * [Rotate your API Key](api-guide/api-key-management/rotate-your-api-key.md)
 * [Programmatic Email API](api-guide/programmatic-email-api/README.md)
