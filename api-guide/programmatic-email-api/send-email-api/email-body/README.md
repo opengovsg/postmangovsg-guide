@@ -20,10 +20,10 @@ In fact, we recommend that you keep your email body within 100KB for the followi
 
 The `body` field passed in the request body will be sanitised to prevent XSS attacks. The exact sanitisation process can be [found here](https://github.com/opengovsg/postmangovsg/blob/master/shared/src/templating/xss-options.ts).
 
-The easiest way to check the HTML output of your sanitised input is to make us of this [email editor](https://postman-editor.vercel.app/).
+The easiest way to check the HTML output of your sanitised input is to make use of this [email editor](https://postman-editor.vercel.app/).
 
 This same sanitisation process is applied to campaign emails.
 
-## Images
+## Embedding Images
 
 For more information on embedding images within the body of your email, go to [this section](embedding-images/).

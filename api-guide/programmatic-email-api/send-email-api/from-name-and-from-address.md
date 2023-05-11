@@ -30,7 +30,7 @@ The email recipient will see the following:
 
 For users that wish to customise their emails without going through the hassle of setting up a [custom from address](../custom-from-address.md), this is an intermediate solution used by our existing users.
 
-## Sending via Custom Domain
+## Using a Custom From Address
 
 Users may wish to send emails using a custom from name as well as a custom from address (i.e. any email address that is not the default `<donotreply@mail.postman.gov.sg>`. Setting up a custom from address is necessary; for more information, [see here](../custom-from-address.md).
 

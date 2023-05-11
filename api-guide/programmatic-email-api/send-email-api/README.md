@@ -6,7 +6,7 @@ This section of the guide contains information on how our API to send email work
 
 This POST endpoint accepts a request body that contains information about the email to be sent. Each successful request to this endpoint will send a single email.
 
-The request body can either be JSON or [multipart request](https://swagger.io/docs/specification/describing-request-body/multipart-requests/). (The latter is required for [sending attachments](attachments.md)).
+The request body can either be JSON or [multipart request](https://swagger.io/docs/specification/describing-request-body/multipart-requests/). The latter is required for [sending attachments](attachments.md).
 
 {% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/transactional/email/send" method="post" %}
 [https://api.postman.gov.sg/openapi.yaml](https://api.postman.gov.sg/openapi.yaml)
@@ -58,7 +58,7 @@ Sending emails is an asynchronous process. After receiving your API call, Postma
 
 For unsuccessful requests, we will provide an appropriate status code and error message to indicate the reason for the failure.
 
-For this API, here is a (non-exhaustive) list of reasons why a request may fail:
+A (non-exhaustive) list of reasons why a request may fail is as follows:
 
 1. The request body is invalid because of missing mandatory fields or invalid field values. The error message will provide more details.
 2. The recipient has been blacklisted. For more information, [see here](recipient-blacklist.md).
@@ -100,14 +100,4 @@ For the API call [illustrated above](./#example-api-call), the response JSON obj
 The user is strongly advised to save the `id` field (`42` in the example), which is a unique identifier for the email. This can be used to check the status of the email via a separate endpoint that will return a similar JSON object. For more information, [see here](../get-email-by-id-api.md).
 {% endhint %}
 
-## Links
-
-* [Email Body](email-body/)
-* [Recipient Blacklist](recipient-blacklist.md)
-* [Attachments](attachments.md)
-* [Images](email-body/embedding-images/)
-  * [Internet Images](email-body/embedding-images/internet-images.md)
-  * [Content-ID Images](email-body/embedding-images/content-id-images.md)
-* [Rate Limit](rate-limit.md)
-* [Email Tagging and Classification](email-tagging-and-classification.md)
-* [How Email Sending Works](how-email-sending-works.md)
+For more detailed information, you can explore the links in the sidebar.

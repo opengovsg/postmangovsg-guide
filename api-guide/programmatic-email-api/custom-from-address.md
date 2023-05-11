@@ -8,11 +8,11 @@ By default, all emails will be sent from Postman's email address <mark style="co
 
 ## Why custom from address?
 
-There are two main reasons why you might want to set up a custom sender email:
+There are two main reasons why you might want to set up a custom from address:
 
 First, you wish to send emails using your agency's own email address. We understand that agencies wish to retain their own branding and enhance the perceived legitimacy of their emails by sending emails from their own domains. To achieve this, setting up a custom from address is necessary.
 
-We wish to note that the from name can be changed without changing the from address. The example below highlights the difference between from name and from address:
+We wish to note that the from name can be changed without changing the from address. The example below highlights the difference between **from name** and **from address**:
 
 <figure><img src="../../.gitbook/assets/from-name-and-address.png" alt="" width="375"><figcaption></figcaption></figure>
 

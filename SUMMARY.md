@@ -59,7 +59,7 @@
     * [Email Tagging and Classification](api-guide/programmatic-email-api/send-email-api/email-tagging-and-classification.md)
     * [Email Body](api-guide/programmatic-email-api/send-email-api/email-body/README.md)
       * [Embedding Images](api-guide/programmatic-email-api/send-email-api/email-body/embedding-images/README.md)
-        * [Linked Images](api-guide/programmatic-email-api/send-email-api/email-body/embedding-images/internet-images.md)
+        * [Linked Images](api-guide/programmatic-email-api/send-email-api/email-body/embedding-images/linked-images.md)
         * [Content-ID Images](api-guide/programmatic-email-api/send-email-api/email-body/embedding-images/content-id-images.md)
     * [Attachments](api-guide/programmatic-email-api/send-email-api/attachments.md)
     * [Rate Limit](api-guide/programmatic-email-api/send-email-api/rate-limit.md)
