@@ -8,13 +8,13 @@ The `body` field can accept up to 1MB of data. If the email body exceeds the siz
 
 In fact, we recommend that you keep your email body within 100KB for the following reasons:
 
-- The larger your email body, the longer it takes for your API call to complete.
-- Popular web clients like Gmail will clip emails that are larger than this size.
-  - This means users will have to click on a link to view the full email, resulting in a worse user experience.
-  - To track open rates, we embed a 1x1 pixel image in the email. If the email is clipped, there is a chance that the image will not be loaded, thus affecting the accuracy of the open rate.
-  - The exact clipping limit is not known, but it is estimated to be around 102KB.
+* The larger your email body, the longer it takes for your API call to complete.
+* Popular web clients like Gmail will clip emails that are larger than this size.
+  * This means users will have to click on a link to view the full email, resulting in a worse user experience.
+  * To track open rates, we embed a 1x1 pixel image in the email. If the email is clipped, there is a chance that the image will not be loaded, thus affecting the accuracy of the open rate.
+  * The exact clipping limit is not known, but it is estimated to be around 102KB.
 
-<figure><img src="../../../../.gitbook/assets/message-clipped.png" alt=""><figcaption>A clipped message on Gmail</figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/message-clipped.png" alt=""><figcaption><p>A clipped message on Gmail</p></figcaption></figure>
 
 ## HTML Sanitisation
 
@@ -26,4 +26,4 @@ This same sanitisation process is applied to campaign emails.
 
 ## Images
 
-For more information on embedding images within the body of your email, go to [this section](./images/README.md).
+For more information on embedding images within the body of your email, go to [this section](embedding-images/).
