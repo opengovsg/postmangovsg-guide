@@ -40,7 +40,7 @@ If you would like to try out the API integration straightaway, you can generate 
 
 ## What is Postman Programmatic Email API's product roadmap?
 
-
+We are currently working to launch our API officially in Q3 2023, following which we will officially publish our product roadmap. In the meantime, you can find [our feature list here](./programmatic-email-api/README.md).
 
 ## Does each agency definitely need a custom domain email address?
 
