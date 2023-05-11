@@ -44,8 +44,6 @@
   * [IM8 Policies](api-guide/overview/im8-policies.md)
   * [Connecting your Intranet Application](api-guide/overview/connecting-your-intranet-application.md)
   * [API Response Formats](api-guide/overview/api-response-formats.md)
-* [Getting Started](api-guide/getting-started/README.md)
-  * [Send your first programmatic email](api-guide/getting-started/send-your-first-programmatic-email.md)
 * [API Key Management](api-guide/api-key-management/README.md)
   * [Generate your API Key](api-guide/api-key-management/generate-your-api-key.md)
   * [Rotate your API Key](api-guide/api-key-management/rotate-your-api-key.md)
