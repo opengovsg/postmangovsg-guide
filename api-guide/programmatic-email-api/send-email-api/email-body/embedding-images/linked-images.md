@@ -2,9 +2,11 @@
 
 ## How It Works
 
-Linked images are images hosted on a server and displayed in the body of an email via HTML `img` tags. The email client will retrieve the image from the source indicated in the `img` tag. An example linked image is: `<img src="`[`https://file.go.gov.sg/ogp-logo.png`](https://file.go.gov.sg/ogp-logo.png)`">`.
+Linked images are images hosted on a server and displayed in the body of an email via HTML image tags. The email client will retrieve the image from the source indicated in the `img` tag.
 
-## Same Images Across Multiple Emails
+An example linked image is: `<img src="`[`https://file.go.gov.sg/ogp-logo.png`](https://file.go.gov.sg/ogp-logo.png)`">`.
+
+## Recommended for Same Images Across Multiple Emails
 
 If you are using the same set of images across multiple emails, an easy way to use linked images in your email is to upload the image to a service like GoGovSG and reuse the same `img` tags in your emails.&#x20;
 

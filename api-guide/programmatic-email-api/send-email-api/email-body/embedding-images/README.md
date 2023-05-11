@@ -19,7 +19,7 @@ Note that this is distinct from _attaching an image to an email_, which will typ
 
 ### Advantages of content-ID images
 
-* Images live within the email; API user do not need to host the image separately
+* Images exist entirely within the email; API user do not need to host the image separately
 * Intranet recipients do not need to connect to the Internet to see the image
 
 ### More Info

@@ -62,9 +62,10 @@ You will receive a `413` error if the requirements above are not met.
 curl --location --request POST 'https://api.postman.gov.sg/v1/transactional/email/send' \
 --header 'Authorization: Bearer your_api_key' \
 --form 'body="<p>Hello <b>there</b></p>"' \
---form 'recipient="user@agency.gov.sg"' \
+--form 'recipient="recipient@agency.gov.sg"' \
 --form 'attachments=@"/your/local/path-to-file"' \
 --form 'subject="Test email"'
+--form 'from="user@agency.gov.sg"'
 ```
 
 ### API call with two attachments
@@ -73,8 +74,9 @@ curl --location --request POST 'https://api.postman.gov.sg/v1/transactional/emai
 curl --location --request POST 'https://api.postman.gov.sg/v1/transactional/email/send' \
 --header 'Authorization: Bearer your_api_key' \
 --form 'body="<p>Hello <b>there</b></p>"' \
---form 'recipient="user@agency.gov.sg"' \
+--form 'recipient="recipient@agency.gov.sg"' \
 --form 'attachments=@"/your/local/path-to-file-1"' \
 --form 'attachments=@"/your/local/path-to-file-2"' \
 --form 'subject="Test email"'
+--form 'from="user@agency.gov.sg"'
 ```
