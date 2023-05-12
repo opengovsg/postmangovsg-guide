@@ -20,7 +20,7 @@ An example JSON payload making use of this `tag` field:
 
 In this example, the `tag` field is wholly defined by the API user. When the API user queries for the email using the [email status API endpoint](../get-email-by-id-api.md) (`/transactional/email/{id}`), the `tag` field will be returned as part of the JSON object.
 
-To make this feature more useful, we are considering generating monthly reports of the different emails based on these user-defined tags. If you have ideas for how this feature might be useful to you, please contact us.
+To make this feature more useful, we are considering generating monthly reports of the different emails based on these user-defined tags. If you have ideas for how this feature might be useful to you, please [contact us](https://go.gov.sg/postman-contact-us).
 
 ## Email Classification
 
@@ -43,4 +43,4 @@ An example JSON payload making use of this `classification` field:
 
 When the API user queries for the email using the [email status API endpoint](../get-email-by-id-api.md) (`/transactional/email/{id}`), the `classification` field will be returned as part of the JSON object.
 
-We encourage users to make use of this field. To make this feature more useful, we are considering priority sending of emails based on this classification. If you have ideas for how this feature might be useful to you, please contact us.
+We encourage users to make use of this field. To make this feature more useful, we are considering priority sending of emails based on this classification. If you have ideas for how this feature might be useful to you, please [contact us](https://go.gov.sg/postman-contact-us).
