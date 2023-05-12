@@ -8,7 +8,9 @@ We rely on Amazon SES's event tracking to update the status of emails sent via o
 
 ## Email Status
 
-You can get the status of each email sent sent using [this API endpoint](./get-email-by-id-api.md). We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](./send-email-api/email-tagging-and-classification.md).
+You can get the status of each email sent sent using [this API endpoint](./get-email-by-id-api.md).
+
+We currently do not support pushing webhooks to your server when the status of an email changes. We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](./send-email-api/email-tagging-and-classification.md).
 
 For a list of statuses supported by our API, please refer to the table below.
 
