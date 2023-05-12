@@ -34,7 +34,8 @@ For Internet users:
 * [Attachments](send-email-api/attachments.md)
 * [Custom domain](custom-from-address.md)
 * [Email tagging and classification](send-email-api/email-tagging-and-classification.md)
-* Endpoints for [querying email status](get-email-by-id-api.md) and [listing emails](list-emails-api.md)
+* [Tracking email status](tracking-email-status.md)
+* Endpoints for [querying email](get-email-by-id-api.md) and [listing emails](list-emails-api.md)
 * [SG-Mail whitelisting](sg-mail-whitelisting.md) to ensure delivery to Intranet recipients
 * [Multiple API keys for regular key rotation](../api-key-management/)
 * Rolling deployment with zero downtime
