@@ -43,8 +43,8 @@ You can find a non-exhaustive list of error codes below.
 
 For the error codes above, you can find more information by checking the `errorSubType` field.
 
-## How It Works
+## Tracking Open Rates
 
-A 1 pixel by 1 pixel transparent GIF image is inserted in each email sent through Amazon SES and includes a unique reference to this image file; when the image is downloaded, SES can tell exactly which message was opened and by whom. In general, the addition of this tracking pixel does not change the appearance of your email. However, for Intranet recipients, this tracking pixel might be blocked and show up as a red cross. Currently, we do not support opting out of this tracking pixel.
+To track open rates of emails, a 1 pixel by 1 pixel transparent GIF image is inserted in each email sent through Amazon SES and includes a unique reference to this image file; when the image is downloaded, SES can tell exactly which message was opened and by whom. In general, the addition of this tracking pixel does not change the appearance of your email. However, for Intranet recipients, this tracking pixel might be blocked and show up as a red cross. Currently, we do not support opting out of this tracking pixel.
 
 For more information, you can refer to [this page](https://docs.aws.amazon.com/ses/latest/dg/faqs-metrics.html).

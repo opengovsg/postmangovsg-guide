@@ -11,7 +11,7 @@ In fact, we recommend that you keep your email body within 100KB for the followi
 * The larger your email body, the longer it takes for your API call to complete.
 * Popular web clients like Gmail will clip emails that are larger than this size.
   * This means users will have to click on a link to view the full email, resulting in a worse user experience.
-  * To track open rates, we embed a 1x1 pixel image in the email. If the email is clipped, there is a chance that the image will not be loaded, thus affecting the accuracy of the open rate.
+  * To track open rates, we embed a 1x1 pixel image in the email. If the email is clipped, there is a chance that the image will not be loaded, thus affecting the accuracy of the open rate. For more information, see [this section](../../tracking-email-status.md#tracking-open-rates)
   * The exact clipping limit is not known, but it is estimated to be around 102KB.
 
 <figure><img src="../../../../.gitbook/assets/message-clipped.png" alt=""><figcaption><p>A clipped message on Gmail</p></figcaption></figure>
