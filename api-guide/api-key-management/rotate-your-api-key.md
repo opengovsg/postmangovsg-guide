@@ -21,7 +21,7 @@ Follow these steps to rotate your API key:
 
 1. Create a new API key. See [this page](generate-your-api-key.md) for step-by-step instructions.
 2. Update the API key used in your system to the new one and, if necessary, restart your system to load the new value.
-3. Remove the old API key from your account by clicking the corresponding delete button in Postman's `Settings` page  to the .&#x20;
+3. Remove the old API key from your account by clicking the corresponding delete button in Postman's `Settings` page.&#x20;
 
 <figure><img src="../../.gitbook/assets/delete-api-key.png" alt=""><figcaption><p>Please ensure that you are deleting the correct API key.</p></figcaption></figure>
 
