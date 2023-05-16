@@ -1,17 +1,19 @@
 # Rotate your API Key
 
-## Why is API key rotation necessary?
+## API keys must be rotated regularly
 
-There are two scenarios where API key rotation is necessary.
-
-First, the longer the validity period of an API key, the more vulnerable it is to risk of theft or unintentional disclosure. As a general security practice, API keys should be rotated regularly to mitigate this risk, even when there has been no known breach.
-
-As such, Postman's API keys are designed to expire automatically. An expired key will not be able to access Postman's APIs.&#x20;
+Postman's API keys are designed to expire automatically and require regular rotation. An expired key will not be able to access Postman's APIs. To support key rotation, users can create multiple valid API keys per account.
 
 * API keys that had been created prior to our multiple API key feature will expire on **21 April 2024, 08:00 GMT+8**.&#x20;
 * Newly created API keys will expire **6 months after creation**.
 
 We encourage users to rotate API keys even more frequently if possible.
+
+## Why is API key rotation necessary?
+
+There are two scenarios where API key rotation is necessary.
+
+First, the longer the validity period of an API key, the more vulnerable it is to risk of theft or unintentional disclosure. As a general security practice, API keys should be rotated regularly to mitigate this risk, even when there has been no known breach.
 
 Second, if an unauthorised disclosure of an API key is discovered, API key rotation should be performed as soon as possible to prevent unauthorised usage of the API key.
 

@@ -20,8 +20,8 @@ To generate this token, navigate to `Settings` and click on `Generate API Key`.
 
 <figure><img src="../../.gitbook/assets/create-new-api-key.png" alt=""><figcaption></figcaption></figure>
 
-1. We support multiple API keys per account. To distinguish among multiple API keys, choose a label for your API key. This label is permanent and cannot be changed. You can associate each label to the corresponding API key based on the last 5 digits of the API key shown on Postman's `Settings` page (see below).
-2. Enter contact emails that will receive updates regarding this API key. We are aware that our API users often create accounts on Postman using email addresses that are not meant to receive incoming emails. As such, it is important to enter email addresses whose inboxes are checked regularly. You can return to this user interface to update this list of contact emails.
+1. **We support multiple API keys per account.** To distinguish among multiple API keys, choose a label for your API key. This label is permanent and cannot be changed. You can associate each label to the corresponding API key based on the last 5 digits of the API key shown on Postman's `Settings` page (see below).
+2. **Enter contact emails that will receive updates regarding this API key.** We are aware that our API users often create accounts on Postman using email addresses that are not meant to receive incoming emails. As such, it is important to enter email addresses whose inboxes are checked regularly. You can return to this user interface to update this list of contact emails.
 
 <figure><img src="../../.gitbook/assets/successfully-created-api-key.png" alt=""><figcaption></figcaption></figure>
 
