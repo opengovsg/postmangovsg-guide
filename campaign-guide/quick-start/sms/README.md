@@ -13,7 +13,7 @@ We understand that onboarding to Twilio and senderID registration can be a hassl
 
 We are launching Postman SMS onboarding in Beta to make it easy for government agencies to set up their SMS campaigns
 
-If you would like to onboard, simply fill in a form on this [link](https://go.gov.sg/postman-sms-form).
+If you would like to onboard, simply fill in a form on this [link](https://go.gov.sg/sms-wog-onboarding-form).
 
 ## What is Twilio?
 
