@@ -19,3 +19,5 @@ Some large agencies might already have registered their senderIDs. This is espec
 You will need to register via the SSIR portal [here](https://smsregistry.sg/web/login). Approval will take a few days as the Singapore Network Information Centre (SGNIC) - a wholly-owned subsidiary of IMDA - will need to conduct specific name and homoglyphic checks on your desired SenderID. More information on senderIDs and fees imposed by IMDA [here](https://www.sgnic.sg/faq/sms-sender-id-registry).
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-05-30 at 3.51.34 PM.png" alt=""><figcaption><p>SSIR portal</p></figcaption></figure>
+
+Want to know more about senderIDs? We have compiled commonly-asked questions by agency users like yourself [here](https://guide.postman.gov.sg/campaign-guide/sms/more-about-senderid-registration).
