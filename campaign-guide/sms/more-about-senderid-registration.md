@@ -10,6 +10,8 @@ Necessary registration information has already been provided to you [here](https
 
 Yes - this is a mandatory initiative by SGNIC/IMDA. If you do not register, any SMS that you send to a Singapore number will be reflected as `Likely-SCAM,` regardless of where the recipient is in the world.This also means that your recipients may not trust your SMS content. IMDA also has eventual plans to block all SMSes with unregistered senderIDs - this means that your messages will not reach your recipients at all.
 
+<figure><img src="../../.gitbook/assets/IMG_8E8574FBE8AA-1.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
 #### What if I am intending to only send a one-off campaign?
 
 We understand that one-off campaigns means that you may be registering a senderID that will only be used once, which may not justify the costs. In such situations, we generally advise agencies to check internally to see if already-registered senderIDs can be "borrowed" to be used for this campaign.
