@@ -12,7 +12,6 @@
   * [Onboarding - Step 1 (SenderID registration)](campaign-guide/onboarding-overview/onboarding-step-1-senderid-registration.md)
   * [Onboarding - Step 2 (onboarding form)](campaign-guide/onboarding-overview/onboarding-step-2-onboarding-form.md)
 * [📱SMS & Twilio](campaign-guide/sms/README.md)
-  * [The Basics](campaign-guide/sms/rationale-for-choosing-twilio.md)
   * [Onboard onto Twilio](campaign-guide/sms/onboard-onto-twilio.md)
   * [Configure your Twilio Account](campaign-guide/sms/configure-your-twilio-account.md)
   * [Add Twilio Credentials in Postman](campaign-guide/sms/credentials.md)

@@ -7,7 +7,7 @@ description: >-
 
 # Onboard onto Twilio
 
-Want an overview? Read the [basics](rationale-for-choosing-twilio.md) page before you proceed.
+Want an overview? Read the [basics](broken-reference) page before you proceed.
 
 ## Step 1: Register your SenderID with SGNIC.
 
