@@ -9,6 +9,7 @@
 * [SMS Campaigns - Basics](campaign-guide/sms-campaigns.md)
   * [Onboarding Overview](campaign-guide/sms-campaigns-basics/onboarding-overview.md)
   * [Onboarding - Step 1 (SenderID registration)](campaign-guide/sms-campaigns-basics/onboarding-step-1-senderid-registration.md)
+* [Onboarding - Step 2 (onboarding form)](campaign-guide/onboarding-step-2-onboarding-form.md)
 * [Page 1](campaign-guide/page-1.md)
 * [📱SMS & Twilio](campaign-guide/sms/README.md)
   * [The Basics](campaign-guide/sms/rationale-for-choosing-twilio.md)
