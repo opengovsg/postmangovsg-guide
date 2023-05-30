@@ -22,25 +22,25 @@ _(If you prefer to watch a video on how to set up, scroll to the bottom of this 
 
 Click on `Settings` on your Postman dashboard.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-15 at 3.17.36 PM.png" alt=""><figcaption><p>Click "Settings"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-15 at 3.17.36 PM.png" alt=""><figcaption><p>Click "Settings"</p></figcaption></figure>
 
-Add in your Twilio credentials - you should have saved the 4 components needed, as advised to you in [step 4](../step-4-configure-your-twilio-account/).
+Add in your Twilio credentials - you should have saved the 4 components needed, as advised to you in [step 4](../sms-onboarding-overview/step-4-configure-your-twilio-account/).
 
 Note that the _credential label_ is just a friendly name for your to keep a record of these credentials.
 
-![Key in the credentials you obtained in step 4](../../../.gitbook/assets/accounts-enter-cred.jpg)
+![Key in the credentials you obtained in step 4](../../.gitbook/assets/accounts-enter-cred.jpg)
 
 Then, key in your phone number to validate your credentials.
 
-![Key in your mobile number](../../../.gitbook/assets/accounts-test-cred.jpg)
+![Key in your mobile number](../../.gitbook/assets/accounts-test-cred.jpg)
 
 Receive a success message once your credentials have been validated.
 
-![Success message if your credentials are correctly set up](../../../.gitbook/assets/accounts-cred-valid.jpg)
+![Success message if your credentials are correctly set up](../../.gitbook/assets/accounts-cred-valid.jpg)
 
 An SMS will also be sent to your mobile number.
 
-![Test SMS - check that your senderID is correctly reflected.](../../../.gitbook/assets/phone-cred-valid.jpg)
+![Test SMS - check that your senderID is correctly reflected.](../../.gitbook/assets/phone-cred-valid.jpg)
 
 #### Congratulations! At this step, you have completed the set-up.
 
@@ -54,7 +54,7 @@ If you want to remove your credentials, simply click on the trash can icon besid
 **Deleting your credentials is irreversible.** We will prompt you to make sure that it is the right credential that you want to delete.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-30 at 5.54.55 PM.png" alt=""><figcaption><p>Delete your credentials</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-30 at 5.54.55 PM.png" alt=""><figcaption><p>Delete your credentials</p></figcaption></figure>
 
 #### Here's a video on setting up your credentials, if you prefer!
 

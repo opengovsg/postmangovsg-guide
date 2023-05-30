@@ -4,7 +4,7 @@ description: >-
   now?
 ---
 
-# Onboarding Overview
+# 🪜 SMS Onboarding Overview
 
 We're happy to hear that you want to onboard! Click over to the next page for more detailed instructions on how to get started. Broadly, these are the steps you need to take:
 
