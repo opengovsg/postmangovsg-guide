@@ -2,7 +2,7 @@
 description: Good news! SGNIC has approved your senderID registration. What's next?
 ---
 
-# Onboarding - Step 2 (onboarding form)
+# Step 2: Onboarding Form
 
 Now, it is over to Postman. Fill in the WOG onboarding form [here](https://form.gov.sg/646b1a06df92fa001262a17e).
 
@@ -14,7 +14,7 @@ As part of the Know-Your-Customer (KYC) processes, Twilio is required to conduct
 
 Once you have your senderID approved, you'll need these information on-hand to fill in our [form](https://form.gov.sg/646b1a06df92fa001262a17e):
 
-1. Your demographic information - name, email address, agency, division, designation.
+1. Your demographic information - name, email address, agency, division, designation. _Do note that the email address provided is the address used to log into Twilio. This account will hold the necessary Twilio credentials for the department/agency._
 2. A 1-2 line write-up about your use case.
 3. Your monthly SMS volume.
 4. Expected go-live date.
