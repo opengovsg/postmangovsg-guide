@@ -5,7 +5,7 @@ description: >-
   before you can begin sending SMSes on Postman.
 ---
 
-# SMS Campaigns - Basics
+# 📲 SMS Campaigns - Basics
 
 ### What is the difference between Twilio and Postman?
 

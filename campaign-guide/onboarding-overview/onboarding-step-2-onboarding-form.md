@@ -21,6 +21,6 @@ Once you have your senderID approved, you'll need these information on-hand to f
 5. Your registered senderID.
 6. Proof of the senderID approval. **Please submit screenshots of your approved senderID, otherwise, we will not be able to process your form.** Sample screenshots below.
 
-<figure><img src="../.gitbook/assets/SSIR Registration - Profile.png" alt=""><figcaption><p>Screenshot #1: your organisation's profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SSIR Registration - Profile.png" alt=""><figcaption><p>Screenshot #1: your organisation's profile</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/SSIR Registration - Sender ID.png" alt=""><figcaption><p>Screenshot #2: the specific approved senderID</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SSIR Registration - Sender ID.png" alt=""><figcaption><p>Screenshot #2: the specific approved senderID</p></figcaption></figure>
