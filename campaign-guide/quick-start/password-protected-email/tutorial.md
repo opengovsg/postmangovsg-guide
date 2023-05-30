@@ -62,7 +62,7 @@ Agency X
 
 You can use the sample CSV file that we have created and change the recipient's email address to your email address.
 
-{% file src="../../.gitbook/assets/ppe-postman-tutorial-sample-csv.csv" %}
+{% file src="../../../.gitbook/assets/ppe-postman-tutorial-sample-csv.csv" %}
 Download sample csv here
 {% endfile %}
 
@@ -71,4 +71,4 @@ Download sample csv here
 Check out a sample page [here](https://postman.gov.sg/p/1/ab11edcd-d3c0-49c7-bebf-43857380e416).\
 **PW**: 567A13012020
 
-![](../../.gitbook/assets/screencapture-postman-gov-sg-p-1-ab11edcd-d3c0-49c7-bebf-43857380e416-2020-07-28-22\_14\_01.png)
+![](../../../.gitbook/assets/screencapture-postman-gov-sg-p-1-ab11edcd-d3c0-49c7-bebf-43857380e416-2020-07-28-22\_14\_01.png)

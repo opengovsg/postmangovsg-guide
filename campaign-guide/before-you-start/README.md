@@ -32,13 +32,13 @@ Simply enter your .gov.sg email. You will receive an OTP in your inbox for log i
 
 Postman is a multi-channel messaging service that allows you to send messages through 3 channels:
 
-* [Email](../email/)
+* [Email](../quick-start/email/)
 * [SMS](../sms/)
 * [Telegram](../quick-start/telegram-bot/)
 
 However, do note that each channel has its own setup so do navigate to the specific section to find out more.
 
 * Try out the different channel using our [Demo mode](demo-mode.md).
-* Jump straight to creating your first campaign [here](../quick-start.md).
+* Jump straight to creating your first campaign [here](../quick-start/).
 
 ##

@@ -6,7 +6,7 @@ description: Go through this page to understand the stats from your campaign.
 
 The campaign dashboard shows you all the campaigns that you have sent in the past. Campaigns with an export button mean that there are errors or invalid emails in that particular campaign.
 
-![](../../.gitbook/assets/postman-email-stat.jpg)
+![](../../../.gitbook/assets/postman-email-stat.jpg)
 
 You can click into your campaign to see the breakdown of the summary stats.
 
@@ -22,11 +22,11 @@ Email campaigns would generate two types of status:
 
 You generally would not have any **ERROR** status. To see the entire list of invalid emails, you need to click on the `Export` button.
 
-![](../../.gitbook/assets/postman-email-stat-2.jpg)
+![](../../../.gitbook/assets/postman-email-stat-2.jpg)
 
 Once you click on the `Export` button, you will get a CSV file with the following columns.
 
-![](../../.gitbook/assets/postman-statistics.png)
+![](../../../.gitbook/assets/postman-statistics.png)
 
 | Error Codes                                                                                                                                        | Description & Follow-up Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

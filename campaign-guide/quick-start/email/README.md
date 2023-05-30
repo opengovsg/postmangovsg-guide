@@ -4,7 +4,7 @@ description: >-
   not. Learn how to quickly send mass emails using Postman.
 ---
 
-# 📧 Sending Email Campaigns
+# 📧 Email Campaigns - Basics
 
 ## The basics
 
@@ -28,7 +28,7 @@ You can customise the sender field when creating your campaign in step 1. The em
 
 You can also choose to send a copy of each email that each recipient in your contact list receives, by clicking on the "`BCC to me`" checkbox. This will send a copy of each email to your inbox.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-11 at 11.58.46 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-11 at 11.58.46 AM.png" alt=""><figcaption></figcaption></figure>
 
 ## What if I need to update my agency logo?
 

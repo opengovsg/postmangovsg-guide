@@ -11,20 +11,20 @@ Once you are logged in, click on **Create new campaign** button, and you will be
 Postman is a multi-channel messaging service that allows you to send messages through 3 channels:
 
 * [Email](email/)
-* [SMS](sms/)
-* [Telegram](quick-start/telegram-bot/)
+* [SMS](../sms/)
+* [Telegram](telegram-bot/)
 
 However, do not that each channel has its own setup so do navigate to the specific section to find out more.
 
 _**Campaign name** is simply for your own record purposes, it does not appear in the email you send to the public._
 
-![](<../.gitbook/assets/Screenshot 2022-05-17 at 5.22.53 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-17 at 5.22.53 PM.png>)
 
 Once you've chosen your channel, please follow the following steps:
 
 ### Step 1: Create a message template
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-11 at 11.57.17 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-11 at 11.57.17 AM.png" alt=""><figcaption></figcaption></figure>
 
 Postman allows you to control how much each message is personalised. Message templates can be used in a few ways:
 
@@ -40,7 +40,7 @@ Postman has implemented **a universal footer** for all email campaigns in order 
 
 ### Step 2: Set up a contact list in CSV format
 
-![](../.gitbook/assets/step2.png)
+![](../../.gitbook/assets/step2.png)
 
 Most of our users have an internal database that includes all of their contacts. You can export the contact list in a CSV file.\
 \
@@ -71,4 +71,4 @@ Select your data > go to **Data** > **Remove duplicates** > **select all columns
 
 For comprehensive instruction on duplicate removal, please go to [Microsoft Excel Support Page](https://support.microsoft.com/en-us/office/find-and-remove-duplicates-00e35bea-b46a-4d5d-b28e-66a552dc138d).
 
-![](../.gitbook/assets/remove\_duplicates.gif)
+![](../../.gitbook/assets/remove\_duplicates.gif)

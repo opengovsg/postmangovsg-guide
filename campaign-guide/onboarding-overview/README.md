@@ -9,7 +9,7 @@ description: >-
 We're happy to hear that you want to onboard! Click over to the next page for more detailed instructions on how to get started. Broadly, these are the steps you need to take:
 
 1. Register your desired SenderID with SGNIC
-2. Fill in our SMS WOG Onboarding Form.
+2. Fill in our SMS WOG Onboarding [Form](https://form.gov.sg/646b1a06df92fa001262a17e).
 3. Accept your Twilio account invitation and proceed to set up your account. This is a one-time set-up.
 4. Fill in your Twilio credentials in Postman. This is a one-time set-up.
 5. Start using Postman to send your SMSes!
