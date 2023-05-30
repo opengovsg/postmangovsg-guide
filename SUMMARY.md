@@ -6,8 +6,8 @@
 
 * [☝ Before You Start](campaign-guide/before-you-start/README.md)
   * [Demo Mode](campaign-guide/before-you-start/demo-mode.md)
-* [SMS Campaigns - Basics](campaign-guide/sms-campaigns-basics/README.md)
-  * [Untitled](campaign-guide/sms-campaigns-basics/untitled.md)
+* [SMS Campaigns - Basics](campaign-guide/sms-campaigns.md)
+  * [Onboarding - Step 1 (SenderID registration)](campaign-guide/sms-campaigns-basics/onboarding-step-1-senderid-registration.md)
 * [Page 1](campaign-guide/page-1.md)
 * [📱SMS & Twilio](campaign-guide/sms/README.md)
   * [The Basics](campaign-guide/sms/rationale-for-choosing-twilio.md)
