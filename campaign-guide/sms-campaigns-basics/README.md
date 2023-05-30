@@ -5,7 +5,7 @@ description: >-
   before you can begin sending SMSes on Postman.
 ---
 
-# SMS Campaigns
+# SMS Campaigns - Basics
 
 ### What is the difference between Twilio and Postman?
 
@@ -25,6 +25,16 @@ Since inception, we have used Twilio for SMS sending services, such as NDP ticke
 
 We understand that setting up your Twilio account to obtain the credentials to input in Postman, as well as settling billing processes, may take time. Therefore, we offer all user accounts **3** free demo SMS campaigns per account, at up to **20** free SMSes per campaign, so that you can try out the Postman interface for yourself. No need to set up Twilio credentials at this point. Simply log in with your gov.sg email address and click on `Create a demo campaign now`. If it's your first time logging into Postman, click `Try demo SMS/Telegram`.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-30 at 3.29.44 PM.png" alt=""><figcaption><p>For new Postman users</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-30 at 3.29.44 PM.png" alt=""><figcaption><p>For new Postman users</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-30 at 3.28.37 PM (1).png" alt=""><figcaption><p>Dashboard view for Postman users with existing campaigns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-30 at 3.28.37 PM (1).png" alt=""><figcaption><p>Dashboard view for Postman users with existing campaigns</p></figcaption></figure>
+
+### I've decided to use Postman to send my SMS campaigns! What do I need to do now?
+
+We're happy to hear that you want to onboard! Click over to the next page for more instructions on how to get started. Broadly, these are the steps you need to take:
+
+1. Register your desired SenderID with SGNIC
+2. Fill in our SMS WOG Onboarding Form.
+3. Accept your Twilio account invitation and proceed to set up your account.
+4. Fill in your Twilio credentials in Postman. This is a one-time set-up.
+5. Start using Postman to send your SMSes!
