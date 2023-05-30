@@ -12,7 +12,7 @@ Postman is a multi-channel messaging service that allows you to send messages th
 
 * [Email](email/)
 * [SMS](../sms/)
-* [Telegram](telegram-bot/)
+* [Telegram](../telegram-bot/)
 
 However, do not that each channel has its own setup so do navigate to the specific section to find out more.
 
