@@ -14,8 +14,8 @@ _Note: if you do not upgrade your account, you will not be able to send SMSes wi
 
 #### To set up your billing options, go to Billing > Manage Billing > Upgrade.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Fill in the requested information</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Fill in the requested information</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Insert your tax number (GST number)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Insert your tax number (GST number)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Key in your corporate credit card details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Key in your corporate credit card details</p></figcaption></figure>

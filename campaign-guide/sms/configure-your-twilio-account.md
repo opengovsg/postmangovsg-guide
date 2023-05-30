@@ -13,7 +13,7 @@ Information you will need to keep at the end of the set-up, to key into your Pos
 
 Your **account SID** is on the dashboard when you log in to your agency's account console. This is the unique identifier assigned to your agency account, much like an NRIC number.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-27 at 11.24.55 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-27 at 11.24.55 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 1: Set up technical details
 
@@ -21,15 +21,15 @@ Your **account SID** is on the dashboard when you log in to your agency's accoun
 
 To set up your API key for Postman, select **`API keys & tokens`** on the side dashboard under **Accounts**.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-02 at 4.03.20 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-02 at 4.03.20 PM.png" alt=""><figcaption></figcaption></figure>
 
 Then, create a new **standard** API key by selecting `Create API key`.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.18.22 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-31 at 5.18.22 PM.png" alt=""><figcaption></figcaption></figure>
 
 Create a `friendly name` for your API key so you can easily identify it in the future, and select `Standard` as the API key type.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-31 at 5.20.52 PM.png" alt=""><figcaption></figcaption></figure>
 
 We need your `Account SID` and `secret key` for Postman. Please keep these safe.
 
@@ -37,7 +37,7 @@ We need your `Account SID` and `secret key` for Postman. Please keep these safe.
 
 Once you have it stored somewhere safe, check the box and click “Done”.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.21.51 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-31 at 5.21.51 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### b) Buy a phone number
 
@@ -57,11 +57,11 @@ With the implementation of [mandatory registration](https://sgnic.sg/smsregistry
 
 On the left console, select Develop > Phone Numbers > Manage > Buy a number.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.33.00 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-31 at 5.33.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 Then select the phone number that you prefer.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-31 at 5.34.33 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-31 at 5.34.33 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## c) Set up your messaging service on Twilio
 
@@ -71,15 +71,15 @@ You need to create a messaging service and tie the phone number that you bought 
 
 Go back to your Twilio home page, and select`Set up a Messaging Service`.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-02 at 3.41.46 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-02 at 3.41.46 PM.png" alt=""><figcaption></figcaption></figure>
 
 On the side bar, click `Develop > Messaging > Services > Create Messaging Service.`
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-11-02 at 3.46.58 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-02 at 3.46.58 PM.png" alt=""><figcaption></figcaption></figure>
 
 Name your messaging service and indicate the purpose. This will help you better identify your use cases if you have multiple, and will also help Twilio detect your specific use case quicker should you need their help for troubleshooting.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.03.37 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.03.37 PM.png>)
 
 #### Add Sender Pool
 
@@ -87,17 +87,17 @@ Sender Pool is where you configure the sender details such as the phone number y
 
 Click `Add Senders`
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.03.51 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.03.51 PM.png>)
 
 Add the phone number you purchased to this service.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.04.02 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.04.02 PM.png>)
 
 Select the number you want to associate with this messaging service (if you have more than one).
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.05.52 PM (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.05.52 PM (1).png>)
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.06.05 PM (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.06.05 PM (1).png>)
 
 ### d) Configure Alphanumeric SenderID on Twilio
 
@@ -107,13 +107,13 @@ The steps below are in addition to registering your SenderID with SGNIC. Both st
 
 Click on Add Senders and select Alpha Sender. This must be done after you configure the phone number setup in [Step 4](configure-your-twilio-account.md#step-4.-set-up-your-messaging-service).
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.06.21 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.06.21 PM.png>)
 
 Click Continue. _You may ignore the notification indicating that Alphanumeric Sender is not enabled for this account._
 
 **Specify the Alphanumeric Sender ID you want to use in the text box. It is best to align this with the SenderID that you registered with SGNIC.**
 
-![Configure your Alphanumeric Sender ID](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.07.11 PM.png>)
+![Configure your Alphanumeric Sender ID](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.07.11 PM.png>)
 
 **If the Alphanumeric Sender ID you chose is protected,** you will notice either of the two things below.
 
@@ -124,7 +124,7 @@ This also means that this Sender ID has been registered by another entity and yo
 
 Once you have completed the step above, you may Click the Skip Setup Button below.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.07.36 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.07.36 PM.png>)
 
 ## Step 2: Get your Messaging Service ID
 
@@ -134,7 +134,7 @@ After clicking "Skip setup" in the step above, you should be brought to the Prop
 
 On this page, you should be able to find the **Messaging Service ID** that we require you to key into Postman.
 
-![](<../../../.gitbook/assets/Screenshot 2022-06-07 at 10.09.17 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 at 10.09.17 PM.png>)
 
 ## Step 3: Name your account
 
@@ -142,7 +142,7 @@ This step helps us and Twilio better identify your account should you need help,
 
 Go to `Account > General settings > Account details > Account name`
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 And **rename your account with the format `Agency-Department name-Use case`**
 
@@ -152,7 +152,7 @@ Navigate back to the console and under **Try it out**, select **Send an SMS.** I
 
 Type your message and click send to check if you receive the SMS and if the SenderID is accurate.
 
-<figure><img src="../../../.gitbook/assets/try-sms.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/try-sms.webp" alt=""><figcaption></figcaption></figure>
 
 **If you don't receive your test SMS**, it is likely that this SenderID has been taken by another agency. You should use another Alphanumeric Sender ID. Otherwise, you may reach out to Twilio's support team for help.
 
