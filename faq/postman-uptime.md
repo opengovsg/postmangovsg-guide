@@ -22,6 +22,6 @@ Typically, we inform users of downtime only if resolution is expected to take lo
 
 Usually, if there is product downtime, we immediately work towards getting the service back up and running as soon as we can. We generally abide by these guidelines:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ##

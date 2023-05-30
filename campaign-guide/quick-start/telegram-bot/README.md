@@ -35,7 +35,7 @@ Use a dedicated phone card to create an official Telegram account. You can buy a
 
 ### Step 2. Message BotFather on Telegram to set up a bot
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
 1. Start messaging BotFather ([https://telegram.me/BotFather](https://telegram.me/BotFather)) on Telegram and then type `/start`.
 2. You’ll see a list of commands that help you create, edit, and manage your bots. Since it’s your first time, type `/newbot`.

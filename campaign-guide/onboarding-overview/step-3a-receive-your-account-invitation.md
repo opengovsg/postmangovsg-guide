@@ -2,7 +2,7 @@
 description: You've submitted your form! What's next?
 ---
 
-# Step 3a: Set Up Your Twilio Account
+# Step 3a: Receive Your Account Invitation
 
 Once you have submitted this [form](https://form.gov.sg/646b1a06df92fa001262a17e), the Postman team will provision you with a Twilio account within _3 working days_. What this means is that you will receive an invitation to join a Twilio account in your email inbox. Click on the link `View invitation` to access your Twilio account when you receive the email.
 

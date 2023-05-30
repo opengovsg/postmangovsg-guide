@@ -4,7 +4,7 @@ description: >-
   onboarding overview - the steps you need to get going.
 ---
 
-# Onboarding - Step 1 (SenderID registration)
+# Step 1: SenderID Registration
 
 ### 1. Register your desired senderID under the Full SSIR Regime
 
