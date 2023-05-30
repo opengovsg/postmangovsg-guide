@@ -11,4 +11,4 @@ You may wish to personalise your emails with variable fields whose content will 
 * text in the variable content fields should _not_ have spacings - instead, replace spacings with underscores e.g. instead of "test result", the variable field in the message template _and_ your CSV file should reflect "test\_result".
 * by convention, all text content in variable fields must be in _small letters._
 
-![](<../../../.gitbook/assets/Screenshot 2022-08-22 at 2.46.21 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-22 at 2.46.21 PM.png>)
