@@ -6,7 +6,8 @@
 
 * [☝ Before You Start](campaign-guide/before-you-start/README.md)
   * [Demo Mode](campaign-guide/before-you-start/demo-mode.md)
-* [📲 SMS Campaigns - Basics](campaign-guide/sms-campaigns-basics.md)
+* [📲 SMS Campaigns - Basics](campaign-guide/sms-campaigns.md)
+  * [Before Starting Out](campaign-guide/sms-campaigns-basics/before-starting-out.md)
 * [Onboarding Overview](campaign-guide/onboarding-overview/README.md)
   * [Onboarding - Step 1 (SenderID registration)](campaign-guide/onboarding-overview/onboarding-step-1-senderid-registration.md)
   * [Onboarding - Step 2 (onboarding form)](campaign-guide/onboarding-overview/onboarding-step-2-onboarding-form.md)
