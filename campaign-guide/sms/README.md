@@ -42,7 +42,7 @@ Twilio API's success rate is 99.999% & uptime is around 99.95% monthly. Nexmo do
 
 ## Can I trial using Postman for SMS before deciding whether to set up a Twilio account?
 
-Yes! Postman provides users with the ability to create up to 3 [demo](../../before-you-start/demo-mode.md) SMS campaigns per account, at up to 20 SMSes per campaign. Simply log in with your .gov.sg email address to trial the SMS function on Postman!
+Yes! Postman provides users with the ability to create up to 3 [demo](../before-you-start/demo-mode.md) SMS campaigns per account, at up to 20 SMSes per campaign. Simply log in with your .gov.sg email address to trial the SMS function on Postman!
 
 ## I have decided to use Postman to send SMSes. What do I need to do?
 

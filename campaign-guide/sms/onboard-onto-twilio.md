@@ -19,15 +19,15 @@ Once your senderIDs have been approved, proceed to step 2.
 
 ## Step 2: Fill in our Postman SMS onboarding form.
 
-Fill in the form [here](https://form.gov.sg/#!/63c8e185f2bd6c0012c02566). The information in this form will help us provision an account for your agency in our Twilio console. Do note that at this point, you will need to submit proof of your SenderID approval by SGNIC, on the form. 2 screenshots are required - samples below.
+Fill in the form [here](https://go.gov.sg/sms-wog-onboarding-form). The information in this form will help us provision an account for your agency in our Twilio console. Do note that at this point, you will need to submit proof of your SenderID approval by SGNIC, on the form. 2 screenshots are required - samples below.
 
 **Screenshot 1** - your organisation profile on the SSIR dashboard:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.42.47 PM.png" alt=""><figcaption><p>User Organisation Profile</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.42.47 PM.png" alt=""><figcaption><p>User Organisation Profile</p></figcaption></figure>
 
 **Screenshot 2** - your organisation profile on the SSIR dashboard:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.44.24 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.44.24 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3: Receive your confirmation email from the Postman Team.
 
@@ -39,13 +39,13 @@ Your account name will be assigned by the Postman team for identification. It wi
 
 ## Step 5: Create your Twilio account.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.51.12 PM.png" alt=""><figcaption><p>Sign up for an account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.51.12 PM.png" alt=""><figcaption><p>Sign up for an account</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-06 at 5.20.53 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-06 at 5.20.53 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/save-recovery-code.png"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/save-recovery-code.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.53.59 PM.png" alt=""><figcaption><p>Your account has been successfully set up!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.53.59 PM.png" alt=""><figcaption><p>Your account has been successfully set up!</p></figcaption></figure>
 
 ## Step 6: Upgrade your account and add your credit card details.
 
@@ -65,8 +65,8 @@ _Note: if you do not upgrade your account, you will not be able to send SMSes wi
 
 Then, fill in the request billing account information.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.58.51 PM.png" alt=""><figcaption><p>Fill in your billing address.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.58.51 PM.png" alt=""><figcaption><p>Fill in your billing address.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.59.17 PM.png" alt=""><figcaption><p>Insert your tax number (GST number)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.59.17 PM.png" alt=""><figcaption><p>Insert your tax number (GST number)</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-03 at 4.59.45 PM.png" alt=""><figcaption><p>Add in your corporate credit card details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-03 at 4.59.45 PM.png" alt=""><figcaption><p>Add in your corporate credit card details</p></figcaption></figure>
