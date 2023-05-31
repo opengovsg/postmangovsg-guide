@@ -35,7 +35,7 @@ Twilio works like a prepaid phone card. You will need to top up the credits in y
 
 The alternative is direct invoicing, which is only available as an option if you send more than 25,000 SMSes a month (or meet the minimum spend of USD$12,000 annually). If this is your preferred option, please contact us so we can put you in touch with our Twilio account manager.
 
-_Note: if you do not upgrade your account, you will not be able to send SMSes with your registered alphanumeric SenderID._
+_Note: if you do not upgrade your account, you will not be able to send SMSes with your registered alphanumeric Sender ID._
 {% endhint %}
 
 #### To set up your billing options, go to Billing > Manage Billing > Upgrade.

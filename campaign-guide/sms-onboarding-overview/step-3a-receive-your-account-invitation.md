@@ -8,4 +8,4 @@ Once you have submitted this [form](https://form.gov.sg/646b1a06df92fa001262a17e
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-05-30 at 4.25.17 PM.png" alt=""><figcaption><p>Twilio account invitation</p></figcaption></figure>
 
-Do note that the account name reflected in your account is _not_ your senderID and will not affect your SMS sending nor your senderID. It is a name assigned by Postman for identification purposes.
+Do note that the account name reflected in your account is _not_ your Sender ID and will not affect your SMS sending nor your Sender ID. It is a name assigned by Postman for identification purposes.

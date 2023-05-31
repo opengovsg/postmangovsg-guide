@@ -33,7 +33,7 @@ We understand that setting up your Twilio account to obtain the credentials to i
 
 We're happy to hear that you want to onboard! Click over to the next page for more instructions on how to get started. Broadly, these are the steps you need to take:
 
-1. Register your desired SenderID with SGNIC
+1. Register your desired Sender ID with SGNIC
 2. Fill in our SMS WOG Onboarding Form.
 3. Accept your Twilio account invitation and proceed to set up your account.
 4. Fill in your Twilio credentials in Postman. This is a one-time set-up.

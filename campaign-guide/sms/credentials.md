@@ -40,7 +40,7 @@ Receive a success message once your credentials have been validated.
 
 An SMS will also be sent to your mobile number.
 
-![Test SMS - check that your senderID is correctly reflected.](../../.gitbook/assets/phone-cred-valid.jpg)
+![Test SMS - check that your Sender ID is correctly reflected.](../../.gitbook/assets/phone-cred-valid.jpg)
 
 #### Congratulations! At this step, you have completed the set-up.
 

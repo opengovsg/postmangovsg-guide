@@ -47,7 +47,7 @@ Save your `secret key` - <mark style="color:red;">**remember, once you lose this
 This is the last detail you need to save before proceeding to Postman.
 
 {% hint style="info" %}
-Note: we used to ask users to purchase a US phone number at USD$1.15. This will enable a one-way messaging ability (from you to recipient). With the implementation of the senderID regime by IMDA, this is no longer required - _only if you are sending ONLY to Singapore numbers._
+Note: we used to ask users to purchase a US phone number at USD$1.15. This will enable a one-way messaging ability (from you to recipient). With the implementation of the Sender ID regime by IMDA, this is no longer required - _only if you are sending ONLY to Singapore numbers._
 
 **However, if you are sending SMSes to foreign numbers,** you will still need to purchase a phone number. Otherwise, your messages will not be delivered. Find out how to purchase a phone number [here](what-if-i-need-to-buy-a-phone-number.md), and follow these [steps](what-if-i-need-to-buy-a-phone-number.md) to set up your messaging service ID. You can ignore the steps below if you are purchasing a phone number.
 
@@ -68,17 +68,17 @@ Name your messaging service and indicate the purpose. This will help you better 
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Fill in the required details</p></figcaption></figure>
 
-#### Set up your alphanumeric senderID
+#### Set up your alphanumeric Sender ID
 
-Configure your alphanumeric senderID by selecting `Alpha Sender` under `Add Senders > Sender Type.`
+Configure your alphanumeric Sender ID by selecting `Alpha Sender` under `Add Senders > Sender Type.`
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Select "Alpha Sender"</p></figcaption></figure>
 
 Click Continue. _You may ignore the notification indicating that Alphanumeric Sender is not enabled for this account._
 
-<mark style="color:red;">**Specify the Alphanumeric Sender ID you want to use in the text box. It is best to align this with the SenderID that you registered with SGNIC.**</mark>
+<mark style="color:red;">**Specify the Alphanumeric Sender ID you want to use in the text box. It is best to align this with the Sender ID that you registered with SGNIC.**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Add in your SenderID</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Add in your Sender ID</p></figcaption></figure>
 
 **If the Alphanumeric Sender ID you chose is protected,** you will notice either of the two things below.
 

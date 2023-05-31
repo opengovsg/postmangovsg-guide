@@ -34,7 +34,7 @@ Name your messaging service and indicate the purpose. This will help you better 
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Set it up</p></figcaption></figure>
 
-Add your `Sender Pool`. Sender Pool is where you configure the sender details such as the phone number you bought, and input your alphanumeric SenderID.
+Add your `Sender Pool`. Sender Pool is where you configure the sender details such as the phone number you bought, and input your alphanumeric Sender ID.
 
 Click `Add Senders.`
 
@@ -50,4 +50,4 @@ Select the number you want to associate with this messaging service (if you have
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Number selected successfully</p></figcaption></figure>
 
-Then, go back [here](https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-4-configure-your-twilio-account#set-up-your-alphanumeric-senderid) to continue the set-up of your alphanumeric senderID.
+Then, go back [here](https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-4-configure-your-twilio-account#set-up-your-alphanumeric-Sender ID) to continue the set-up of your alphanumeric Sender ID.
