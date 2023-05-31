@@ -1,12 +1,10 @@
 ---
 description: >-
-  Now that you've decided to use Postman for your SMS campaigns, check out this
-  onboarding overview - the steps you need to get going.
+  Now that you've decided to use Postman for your SMS campaigns, first ensure
+  your desired senderID is registered under the Full SSIR Regime.
 ---
 
 # Step 1: SenderID Registration
-
-### 1. Register your desired senderID under the Full SSIR Regime
 
 As part of national scam prevention efforts to filter out non-legitimate SMSes to citizens, IMDA has necessitated the registration of SMS SenderIDs for all organisations in Singapore on the SMS Sender ID Registry (SSIR), including public agencies, from 31 January 2023. You can read more about this new policy [here](https://www.imda.gov.sg/Content-and-News/Press-Releases-and-Speeches/Press-Releases/2022/Full-SMS-Sender-ID-Registration-to-be-required-by-January-2023). The SenderID refers to the name that you see at the top of an SMS sent to you by an officially-registered organisation.
 
