@@ -27,7 +27,6 @@
   * [Step 2: Onboarding Form](campaign-guide/onboarding-overview/onboarding-step-2-onboarding-form.md)
   * [Step 3a: Receive Your Account Invitation](campaign-guide/sms-onboarding-overview/step-3a-receive-your-account-invitation.md)
   * [Step 3b: Set Up Your Twilio Account](campaign-guide/sms-onboarding-overview/step-3b-set-up-your-twilio-account.md)
-  * [Step 3c: Set Up Your Billing Details](campaign-guide/sms-onboarding-overview/step-3c-set-up-your-billing-details.md)
   * [Step 4: Configure Your Twilio Account](campaign-guide/sms-onboarding-overview/step-4-configure-your-twilio-account/README.md)
     * [What if I need to buy a phone number?](campaign-guide/sms-onboarding-overview/step-4-configure-your-twilio-account/what-if-i-need-to-buy-a-phone-number.md)
   * [Step 5: Send a Test Message](campaign-guide/sms-onboarding-overview/step-5-send-a-test-message.md)
