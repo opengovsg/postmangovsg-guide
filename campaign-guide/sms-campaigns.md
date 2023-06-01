@@ -27,5 +27,5 @@ We understand that setting up your Twilio account to obtain the credentials to i
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-30 at 3.29.44 PM.png" alt=""><figcaption><p>For new Postman users</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-30 at 3.28.37 PM (1).png" alt=""><figcaption><p>Dashboard view for Postman users with existing campaigns</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-30 at 3.28.37 PM.png" alt=""><figcaption><p>Dashboard view for Postman users with existing campaigns</p></figcaption></figure>
 

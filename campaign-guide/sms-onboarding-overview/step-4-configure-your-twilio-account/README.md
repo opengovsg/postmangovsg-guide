@@ -12,7 +12,7 @@ description: >-
 1. account SID
 2. API key SID
 3. your secret key (_this is unretrievable once you proceed beyond this step, so make sure you have saved somewhere, or you will need to redo the set-up process to generate new keys_).
-4. messaging service ID&#x20;
+4. messaging service ID
 
 ### 1. Your Account SID
 
@@ -36,7 +36,7 @@ Create a `friendly name` for your API key so you can easily identify it in the f
 
 ### 3. Your Secret Key
 
-Save your `secret key` - <mark style="color:red;">**remember, once you lose this or if you do not save it, you will NOT be able to retrieve it again after moving on to the next step!**</mark>&#x20;
+Save your `secret key` - <mark style="color:red;">**remember, once you lose this or if you do not save it, you will NOT be able to retrieve it again after moving on to the next step!**</mark>
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Save the API key SID and Secret Key somewhere safe!</p></figcaption></figure>
 
@@ -50,8 +50,6 @@ This is the last detail you need to save before proceeding to Postman.
 Note: we used to ask users to purchase a US phone number at USD$1.15. This will enable a one-way messaging ability (from you to recipient). With the implementation of the Sender ID regime by IMDA, this is no longer required - _only if you are sending ONLY to Singapore numbers._
 
 **However, if you are sending SMSes to foreign numbers,** you will still need to purchase a phone number. Otherwise, your messages will not be delivered. Find out how to purchase a phone number [here](what-if-i-need-to-buy-a-phone-number.md), and follow these [steps](what-if-i-need-to-buy-a-phone-number.md) to set up your messaging service ID. You can ignore the steps below if you are purchasing a phone number.
-
-
 {% endhint %}
 
 **If you don't have a need to purchase a phone number, follow these steps to obtain your messaging service SID.**
@@ -94,3 +92,7 @@ Once you have completed the step above, you may click the `Skip Setup` button be
 After clicking "Skip setup" in the step above, you should be brought to the Properties page of this Messaging Service. On this page, you should be able to find the **Messaging Service ID**.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>This is your messaging service SID</p></figcaption></figure>
+
+#### Or, watch this video for a visual learning experience!
+
+{% embed url="https://youtu.be/Ez5pfGgmFEA" %}

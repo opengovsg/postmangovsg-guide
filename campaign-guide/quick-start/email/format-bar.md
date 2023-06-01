@@ -35,3 +35,7 @@ Copy the shortened link into a new browser window. Copy the `file.go.gov.sg` lin
 Then, in your campaign template, click on the image icon and paste your `file.go.gov.sg` link or `file.for.edu.sg` or`file.for.sg` link into the "Source" field, then click "insert". Your image will then appear in the template box, and you can resize it by 50%, 75% or 100%.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-14 at 4.20.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+#### Or, watch this video for a visual learning experience!
+
+{% embed url="https://youtu.be/DhwSli5YjSA" %}

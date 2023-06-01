@@ -4,10 +4,6 @@ description: Send high sensitivity emails using the password-protected email fea
 
 # 🔐 Sending Password-Protected Emails
 
-{% hint style="info" %}
-You can watch the video on Postman's [workplace group](https://onepublicservice.workplace.com/groups/postman.gov.sg/permalink/2722032748065759/) to go through the set-up.
-{% endhint %}
-
 To access the new feature, ensure that the password-protected checkbox is checked.
 
 ![](../../../.gitbook/assets/screencapture-postman-gov-sg-campaigns-2020-07-28-18\_11\_47.png)
@@ -45,3 +41,7 @@ To open the link from the test message, you need to know the password for the fi
 ### Step 4. Once you are happy with the generic and private message, click send campaign
 
 Now you are done!
+
+#### Or, watch this video for a visual learning experience!
+
+{% embed url="https://youtu.be/Vqp5uub3shE" %}
