@@ -10,4 +10,4 @@ Once you have saved your Twilio SMS credentials under settings, you can choose t
 
 Some large agencies do this, especially when a shared email address is used for log-in, and users require different credentials for different campaigns for accountability and governance purposes.
 
-![](../../.gitbook/assets/postman-sms-cred.jpg)
+![](../../../.gitbook/assets/postman-sms-cred.jpg)

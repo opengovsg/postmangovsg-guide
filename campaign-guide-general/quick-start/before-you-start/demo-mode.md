@@ -24,7 +24,7 @@ Once you are familiar with the flow, you can follow our video guide for the step
 
 You can now access the demo mode for SMS & Telegram on the upper left-hand corner in Postman once you sign-in.
 
-![](<../../.gitbook/assets/demo banner.jpg>)
+![](<../../../.gitbook/assets/demo banner.jpg>)
 
 ## Guide on Setting up SMS & Telegram
 
