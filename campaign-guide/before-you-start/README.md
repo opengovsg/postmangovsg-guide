@@ -26,19 +26,19 @@ Similar to FormSG and Go.gov.sg, **no registration is required to use Postman**.
 
 Simply enter your .gov.sg email. You will receive an OTP in your inbox for log in.
 
-![](../../../.gitbook/assets/SignIn-Filled.png)
+![](../../.gitbook/assets/SignIn-Filled.png)
 
 ## Start creating your first campaign
 
 Postman is a multi-channel messaging service that allows you to send messages through 3 channels:
 
-* [Email](../../../campaign-guide-email/email/)
-* [SMS](../../../campaign-guide-sms/sms/)
-* [Telegram](../../../campaign-guide-telegram/telegram-bot/)
+* [Email](../quick-start/email/)
+* [SMS](../sms/)
+* [Telegram](../quick-start/telegram-bot/)
 
 However, do note that each channel has its own setup so do navigate to the specific section to find out more.
 
 * Try out the different channel using our [Demo mode](demo-mode.md).
-* Jump straight to creating your first campaign [here](../).
+* Jump straight to creating your first campaign [here](../quick-start/).
 
 ##

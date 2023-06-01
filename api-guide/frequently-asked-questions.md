@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# 🎓 Frequently Asked Questions
 
 ## What is the the cost of using Postman's Programmatic Email API?
 
@@ -28,7 +28,7 @@ Currently, the API is designed to send one email per API call. As long as the us
 
 We currently do not have this feature but are actively exploring it. For more information, check out [this section](programmatic-email-api/send-email-api/email-tagging-and-classification.md#email-tagging) of the guide.
 
-## Are there any limitations on the design of the emails?&#x20;
+## Are there any limitations on the design of the emails?
 
 Our API is designed to accommodate a range of use cases. However, we do limit the size of the email body and apply HTML sanitisation. For more information, [see this](programmatic-email-api/send-email-api/email-body/).
 
@@ -40,7 +40,7 @@ If you would like to try out the API integration straightaway, you can generate 
 
 ## What is Postman Programmatic Email API's product roadmap?
 
-We are currently working to launch our API in Q3 2023, following which we will publish our product roadmap. In the meantime, you can find [our feature list here](./programmatic-email-api/README.md).
+We are currently working to launch our API in Q3 2023, following which we will publish our product roadmap. In the meantime, you can find [our feature list here](programmatic-email-api/).
 
 ## Does my agency need to set up a custom from address?
 

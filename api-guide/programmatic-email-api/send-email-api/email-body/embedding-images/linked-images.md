@@ -10,7 +10,7 @@ An example linked image is: `<img src="`[`https://file.go.gov.sg/ogp-logo.png`](
 
 If you are using the same set of images across multiple emails, an easy way to use linked images in your email is to upload the image to a service like GoGovSG and reuse the same `img` tags in your emails.
 
-For step-by-step instructions on how to upload images to GoGovSG, [see this](../../../../../campaign-guide-email/email/format-bar.md#embedding-an-image-in-email).
+For step-by-step instructions on how to upload images to GoGovSG, [see this](../../../../../campaign-guide/quick-start/email/format-bar.md#embedding-an-image-in-email).
 
 ## Unique Image for Each Email
 

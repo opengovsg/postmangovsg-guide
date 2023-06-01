@@ -1,4 +1,4 @@
-# 🤖 Telegram Bot
+# 🤖 Telegram Campaigns - Basics
 
 ## The basics
 

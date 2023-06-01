@@ -1,4 +1,4 @@
-# Overview
+# 📖 Overview
 
 ## Programmatic APIs
 
@@ -12,7 +12,7 @@ We provide a **modern, cost-effective, and compliant PaaS** for to send programm
 
 We will launch our programmatic email API officially in Q3 2023. Interested users can reach out to us via [this form](https://go.gov.sg/postmanp-api-wogict).
 
-For more info, [see here](../programmatic-email-api/README.md).
+For more info, [see here](../programmatic-email-api/).
 
 ### Programmatic SMS API
 

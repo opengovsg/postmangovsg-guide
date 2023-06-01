@@ -1,4 +1,4 @@
-# Programmatic Email API
+# 📨 Programmatic Email API
 
 We provide a **modern, cost-effective, and compliant PaaS** for to send programmatic emails.
 

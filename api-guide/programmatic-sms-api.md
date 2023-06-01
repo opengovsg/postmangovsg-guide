@@ -1,4 +1,4 @@
-# Programmatic SMS API
+# 🤳 Programmatic SMS API
 
 If you would like to use our programmatic SMS API, do note that a one-time set-up will need to be done. Follow the steps [here](broken-reference) to do so.
 

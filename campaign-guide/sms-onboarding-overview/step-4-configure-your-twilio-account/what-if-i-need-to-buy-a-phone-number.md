@@ -20,7 +20,7 @@ Select the phone number that you prefer.
 
 ### How to set up messaging service ID with phone number?
 
-You need to create a messaging service and tie the phone number that you bought to this messaging service before you can send SMSes.&#x20;
+You need to create a messaging service and tie the phone number that you bought to this messaging service before you can send SMSes.
 
 Go back to your Twilio home page, and select`Set up a Messaging Service`.
 
@@ -50,4 +50,4 @@ Select the number you want to associate with this messaging service (if you have
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Number selected successfully</p></figcaption></figure>
 
-Then, go back [here](https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-4-configure-your-twilio-account#set-up-your-alphanumeric-Sender ID) to continue the set-up of your alphanumeric Sender ID.
+Then, go back \[here]\(https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-4-configure-your-twilio-account#set-up-your-alphanumeric-Sender ID) to continue the set-up of your alphanumeric Sender ID.
