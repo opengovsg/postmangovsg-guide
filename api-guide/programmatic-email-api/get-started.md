@@ -44,7 +44,7 @@ This step is optional, and only needed if you chose to send from your own email 
 
 Setting up custom sender email typically takes agencies up to 2 weeks to complete so make sure you buffer in time for this process. You may refer to [this page](custom-from-address.md) for more details.
 
-### **Step 3: Generate API Key on** [**Postman.gov.sg**](http://postman.gov.sg)
+### **Step 4: Generate API Key on** [**Postman.gov.sg**](http://postman.gov.sg)
 
 Log in to [Postman.gov.sg](http://postman.gov.sg) using the sender email address identified in [**Step 1**](get-started.md#step-1-decide-on-a-sender-name-and-from-email-address) and generate the API Key. This API key will be used to authenticate your requests. You may follow the steps outlined here.
 
@@ -52,7 +52,7 @@ Log in to [Postman.gov.sg](http://postman.gov.sg) using the sender email address
 The API key should be generated from the email account that you will be sending the emails from
 {% endhint %}
 
-### **Step 4: Start sending your test emails**
+### **Step 5: Start sending your test emails**
 
 Refer to the [steps here](send-email-api/) on how you can start sending your first email. Note the specific instructions on the [email body](send-email-api/email-body/), [attachments](send-email-api/attachments.md) and [tagging](send-email-api/email-tagging-and-classification.md).
 
@@ -61,11 +61,11 @@ As you are testing the API, there are a few key things to take note:
 * [List of API response formats to help you understands the success or error codes you see](../overview/api-response-formats.md)
 * [Tracking the status](tracking-email-status.md) of the emails and error you encounter to understand is the error you receive.
 
-### **Step 5: Communicate go live date with Postman Team**
+### **Step 6: Communicate go live date with Postman Team**
 
 Make sure that you have communicated to the Postman team in advance on your expected go live date, we will ensure that the team is around to render any support you may require. If you have reached this step independently, do give us a heads up through [this form](https://go.gov.sg/postmanp-api-wogict) before you go live.&#x20;
 
-### **Step 6: Tell us how your experience was**
+### **Step 7: Tell us how your experience was**
 
 We always strive to improve your user experience and it would mean a lot to us if you could take a few minutes to let us know how your experience was by filling in this [form](https://go.gov.sg/postman-api-feedback).&#x20;
 
