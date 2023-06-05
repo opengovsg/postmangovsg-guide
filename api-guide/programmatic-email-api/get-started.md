@@ -7,11 +7,12 @@ description: >-
 
 # Get Started
 
-If you’re not sure what Postman API is but is keen to explore Postman, make sure that you have read the following sections before proceeding:
+If you’re not sure what Postman API is but is keen to explore Postman, make sure that you have noted the following before proceeding:
 
 * [Comparison with AMR](comparison-with-amr.md): to assess whether Postman API fits your use case
 * [IM8 Policies](../overview/im8-policies.md): to make sure that your system can connect to Postman API
 * [Connecting your intranet application](../overview/connecting-your-intranet-application.md): to make sure that you understand if your systems is suitable to be using our Programmatic API.
+* If your system is sending emails via SMTP, do let us know through [this form](https://go.gov.sg/postmanp-api-wogict).
 
 If you still have questions, you may reach out to us through [this form](https://go.gov.sg/postmanp-api-wogict).
 
