@@ -28,7 +28,15 @@ Add in your Twilio credentials - you should have saved the 4 components needed, 
 
 Note that the _credential label_ is just a friendly name for your to keep a record of these credentials.
 
-![Key in the credentials you obtained in step 4](../../.gitbook/assets/accounts-enter-cred.jpg)
+Find your account SID [here](https://guide.postman.gov.sg/campaign-guide-sms/onboarding-overview/step-4-configure-your-twilio-account#1.-your-account-sid).
+
+Find your API key SID [here](https://guide.postman.gov.sg/campaign-guide-sms/onboarding-overview/step-4-configure-your-twilio-account#2.-your-api-key-sid).
+
+Find your API Secret key where you [stored](https://guide.postman.gov.sg/campaign-guide-sms/onboarding-overview/step-4-configure-your-twilio-account#3.-your-secret-key) it. Do note that this is no longer available on your Twilio console once you have completed the Twilio account set-up. As reminded earlier, you should have saved the secret key somewhere safe, where you can access for this set up in Postman.
+
+Find your messaging service ID [here](https://guide.postman.gov.sg/campaign-guide-sms/onboarding-overview/step-4-configure-your-twilio-account#4.-your-messaging-service-sid-without-buying-a-phone-number).
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-05 at 6.07.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 Then, key in your phone number to validate your credentials.
 
