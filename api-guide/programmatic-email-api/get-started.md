@@ -49,7 +49,7 @@ Setting up custom sender email typically takes agencies up to 2 weeks to complet
 Log in to [Postman.gov.sg](http://postman.gov.sg) using the sender email address identified in [**Step 1**](get-started.md#step-1-decide-on-a-sender-name-and-from-email-address) and generate the API Key. This API key will be used to authenticate your requests. You may follow the steps outlined here.
 
 {% hint style="warning" %}
-Make sure that you use the right email account to generate your API key.&#x20;
+The API key should be generated from the email account that you will be sending the emails from
 {% endhint %}
 
 ### **Step 4: Start sending your test emails**
