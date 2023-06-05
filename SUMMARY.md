@@ -69,7 +69,7 @@
   * [Generate your API Key](api-guide/api-key-management/generate-your-api-key.md)
   * [Rotate your API Key](api-guide/api-key-management/rotate-your-api-key.md)
 * [📨 Programmatic Email API](api-guide/programmatic-email-api/README.md)
-  * [Get Started](api-guide/programmatic-email-api/get-started.md)
+  * [Getting Started](api-guide/programmatic-email-api/getting-started.md)
   * [Comparison with AMR](api-guide/programmatic-email-api/comparison-with-amr.md)
   * [SG-Mail Whitelisting](api-guide/programmatic-email-api/sg-mail-whitelisting.md)
   * [Custom From Address](api-guide/programmatic-email-api/custom-from-address.md)
