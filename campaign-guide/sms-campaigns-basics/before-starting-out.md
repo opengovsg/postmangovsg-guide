@@ -10,6 +10,7 @@ description: What else do I need to know about Twilio/Postman, before I commit?
 * **SMS character** [**limit**](https://www.twilio.com/docs/glossary/what-sms-character-limit)**:** each message segment is capped at 160 characters. Beyond this character limit, the single SMS will consist of 2 or more message segments, depending on the length of your SMS. You will be charged at a per-message-segment rate.
 * **Resources**: each agency/department will need its own Twilio account set up before SMSes can be sent via Postman. This is for billing and governance purposes. Not to worry - we will guide you through the set up of this account!
 * **Maximum number of SMSes:** there is no limit to how many SMSes or recipients you can send using Postman's interface. Our record is 144,000 SMSes sent in 1 batch by a government agency.
+* **1-way SMS:** currently, sending SMSes on Postman is one-way only. What this means is that agencies can send mass SMSes to recipients using Postman, but there is currently no functionality on Postman for you to receive any responses that your recipients might send.
 
 ### Billing and Costs
 
