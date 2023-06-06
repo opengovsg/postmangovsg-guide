@@ -15,7 +15,7 @@
   * [Scheduled Sending](campaign-guide/quick-start/email/scheduled-sending.md)
   * [Bounced Emails and Halted Campaigns](campaign-guide/quick-start/email/halting-of-email-campaigns.md)
   * [Email Statistics](campaign-guide/quick-start/email/statistics.md)
-  * [Formatting and Images](campaign-guide/quick-start/email/format-bar.md)
+  * [Formatting your Message Template](campaign-guide/quick-start/email/format-bar.md)
   * [Attachments](campaign-guide-email/email/attachments.md)
   * [Variable Fields](campaign-guide/quick-start/email/variable-fields.md)
   * [Unique URL Link per Recipient](campaign-guide/quick-start/email/unique-url-link-per-recipient.md)
