@@ -11,7 +11,7 @@ Once you are logged in, click on **Create new campaign** button, and you will be
 Postman is a multi-channel messaging service that allows you to send messages through 3 channels:
 
 * [Email](email/)
-* [SMS](../sms/)
+* [SMS](../sms-campaigns.md)
 * [Telegram](telegram-bot/)
 
 However, do not that each channel has its own setup so do navigate to the specific section to find out more.
