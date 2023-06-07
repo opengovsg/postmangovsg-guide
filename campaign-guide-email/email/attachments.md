@@ -10,7 +10,7 @@ description: >-
 #### What do I need to know?
 
 * images and files uploaded are directly stored and served in the Postman backend server.
-* .png, .jpg, .jpeg, and .gif file types will be embedded as images in the email content.
+* .png, .jpg, .jpeg, and .gif file types will be embedded as images in the email content by clicking the image icon.
 * files embedded as download links can be in any format.
 * the total size of all your attachments must be equal to or less than 50MB.
 
