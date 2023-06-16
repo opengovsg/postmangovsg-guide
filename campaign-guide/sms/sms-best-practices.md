@@ -11,11 +11,11 @@ description: >-
 3. Straightforward and direct content works most effectively, as they provide a sense of officiality.
 4. You are not advised to use language that implies urgency or induce panic.
 
-#### What kind of links can I include in my SMSes? (you can also refer to Circular Minute 05/2022)
+#### What kind of links can I include in my SMSes?
 
 If you must include links in your SMS, please note the following points:
 
-1. all links must be a .gov.sg link (or edu.sg. for educational institutions).
+1. all links must be a .gov.sg link (or edu.sg for educational institutions/for.sg for healthcare institutions).
 2. if you need to use a link shortener, use only [GoGovSG](https://go.gov.sg/#/).&#x20;
 3. do not send links, including QR codes, that ask for user credentials or that direct to log-in pages.
 4. do not include links which are not integral to the message (e.g. if it is a generic website link).
