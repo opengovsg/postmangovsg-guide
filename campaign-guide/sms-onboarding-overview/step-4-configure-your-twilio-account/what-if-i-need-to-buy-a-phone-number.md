@@ -50,4 +50,4 @@ Select the number you want to associate with this messaging service (if you have
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Number selected successfully</p></figcaption></figure>
 
-Then, go back \[here]\(https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-4-configure-your-twilio-account#set-up-your-alphanumeric-Sender ID) to continue the set-up of your alphanumeric Sender ID.
+Then, go back [here](https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-4-configure-your-twilio-account#set-up-your-alphanumeric-senderid) to continue the set-up of your alphanumeric Sender ID.

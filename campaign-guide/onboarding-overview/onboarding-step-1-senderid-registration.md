@@ -18,4 +18,4 @@ You will need to register via the SSIR portal [here](https://smsregistry.sg/web/
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-05-30 at 3.51.34 PM.png" alt=""><figcaption><p>SSIR portal</p></figcaption></figure>
 
-Want to know more about Sender IDs? We have compiled commonly-asked questions by agency users like yourself [here](https://guide.postman.gov.sg/campaign-guide/sms/more-about-Sender ID-registration).
+Want to know more about Sender IDs? We have compiled commonly-asked questions by agency users like yourself [here](https://guide.postman.gov.sg/campaign-guide/sms/more-about-senderid-registration).

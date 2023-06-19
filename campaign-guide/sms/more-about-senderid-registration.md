@@ -4,7 +4,7 @@ description: What else do I need to know?
 
 # More about Sender ID registration
 
-Necessary registration information has already been provided to you [here](https://guide.postman.gov.sg/campaign-guide/onboarding-overview/step-1-Sender ID-registration). In this section, we include commonly-asked questions by agencies that have onboarded onto Postman and gone through the Sender ID registration process themselves. We hope this will be useful to you!
+Necessary registration information has already been provided to you [here](../onboarding-overview/README.md). In this section, we include commonly-asked questions by agencies that have onboarded onto Postman and gone through the Sender ID registration process themselves. We hope this will be useful to you!
 
 #### Do I really need to register for a Sender ID?
 
