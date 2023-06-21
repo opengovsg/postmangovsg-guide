@@ -28,6 +28,10 @@ Go to `Account > General settings > Account details > Account name.`
 
 3. **Set up your billing details.**
 
+{% hint style="warning" %}
+Setting up your billing details is necessary so that your tagged Sender ID will reflect correctly on your SMSes. Otherwise, your SMSes will continue to show "Likely-scam".
+{% endhint %}
+
 {% hint style="info" %}
 **Information about Twilio billing**
 
