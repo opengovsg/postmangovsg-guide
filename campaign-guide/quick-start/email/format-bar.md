@@ -16,7 +16,6 @@ We support
 
 {% hint style="info" %}
 You can use [GoGovSG](https://go.gov.sg/#/) or [ForEduSG](https://for.edu.sg/#/) or [ForSG](https://for.sg/#/) (this depends on your agency - see point 7 above) to upload your image file and add it to the content of your email using the image icon. Remember to copy the `https://file.go.gov.sg/image_name.png` or `https://file.for.sg/image_name.jpeg` links and not the `https://go.gov.sg/image_name` `https://for.sg/image_name` links
-
 {% endhint %}
 
 ![](<../../../.gitbook/assets/Screenshot 2021-02-09 at 3.58.47 PM (1).png>)
@@ -37,6 +36,3 @@ Then, in your campaign template, click on the image icon and paste your `file.go
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-14 at 4.20.13 PM.png" alt=""><figcaption></figcaption></figure>
 
-#### Or, watch this video for a visual learning experience
-
-{% embed url="<https://youtu.be/DhwSli5YjSA>" %}
