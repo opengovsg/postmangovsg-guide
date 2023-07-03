@@ -46,12 +46,8 @@ Here are some tips in building and maintaining your mailing list:
 Do not collect emails through Zoom registration forms. We know from experience that people do not put in their real emails in these forms.
 {% endhint %}
 
-## Commercial tool to clean your mailing list
+## Suspect that your list might need cleaning up?
 
 {% hint style="info" %}
-You can consider using [Debounce.io](https://debounce.io/) to validate your mailing list.\
-\
-We have used Debounce.io's service for testing our mailing list. We found that [Debounce.io](https://debounce.io/) had \~62% for sensitivity and 97% for specificity for identifying invalid emails. It is a good service to consider if you know that you have an unclean mailing list.\
-\
-They are [GDPR](https://debounce.io/gdpr/) compliant and you can delete the contact list easily in their console. Write to your CIO to get approval and state the reason why you need to use this service. You can use the materials on this site to justify the need to maintain and clean your mailing list.
+If your lists are from some time ago, or you know that it hasn't been maintained in some time, we would advise you to use this [Bulk Email Checker](https://bulk.email-checker.net/) to clean your list before uploading it in Postman. This helps you ensure that your campaigns will not be halted, especially if they are urgent campaigns.
 {% endhint %}
