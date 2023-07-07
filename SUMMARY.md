@@ -60,7 +60,7 @@
 
 ## Campaign Guide - Gov.sg WhatsApp
 
-* [The official Gov.sg WhatsApp channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
+* [📞 The official Gov.sg WhatsApp channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
 
 ## API Guide
 
