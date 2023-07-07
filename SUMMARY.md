@@ -58,6 +58,10 @@
   * [Telegram Formatting](campaign-guide/quick-start/telegram-bot/telegram-formatting.md)
   * [Telegram Bot Statistics](campaign-guide/quick-start/telegram-bot/telegram-bot-statistics.md)
 
+## Campaign Guide - Gov.sg WhatsApp
+
+* [The official Gov.sg WhatsApp channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
+
 ## API Guide
 
 * [📖 Overview](api-guide/overview/README.md)
@@ -107,7 +111,3 @@
 
 * [Contact Us](contact-us.md)
 * [GitHub](https://github.com/opengovsg/postmangovsg/)
-
-## Campaign Guide - Gov.sg WhatsApp
-
-* [The official Gov.sg WhatsApp channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
