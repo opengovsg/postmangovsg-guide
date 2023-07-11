@@ -6,7 +6,7 @@ description: What else do I need to know about Twilio/Postman, before I commit?
 
 ### Useful Information
 
-* [**Send rate**](https://support.twilio.com/hc/en-us/articles/115002943027-Understanding-Twilio-Rate-Limits-and-Message-Queues)**:** SMSes are sent by Twilio at a default of 10 messages per second. If you would like to increase this rate, you will need to liaise with Twilio to configure this, and then configure it in your Postman dashboard. More on how to do so [here](../sms/sms-send-rate.md).
+* [**Send rate**](https://support.twilio.com/hc/en-us/articles/115002943027-Understanding-Twilio-Rate-Limits-and-Message-Queues)**:** SMSes are sent by Twilio at a default of 10 messages per second. If you would like to increase this rate, you will need to liaise with Twilio to configure this, and then configure it in your Postman dashboard. More on how to do so [here](../../../campaign-guide/sms/sms-send-rate.md).
 * **SMS character** [**limit**](https://www.twilio.com/docs/glossary/what-sms-character-limit)**:** each message segment is capped at 160 characters. Beyond this character limit, the single SMS will consist of 2 or more message segments, depending on the length of your SMS. You will be charged at a per-message-segment rate.
 * **Resources**: each agency/department will need its own Twilio account set up before SMSes can be sent via Postman. This is for billing and governance purposes. Not to worry - we will guide you through the set up of this account!
 * **Maximum number of SMSes:** there is no limit to how many SMSes or recipients you can send using Postman's interface. Our record is 144,000 SMSes sent in 1 batch by a government agency.
