@@ -16,13 +16,13 @@ We wish to note that the from name can be changed without changing the from addr
 
 <figure><img src="../../.gitbook/assets/from-name-and-address.png" alt="" width="375"><figcaption></figcaption></figure>
 
-In the example below, the from name is `New Product`, whereas the from address is `<test-admin@postman.gov.sg>`.&#x20;
+In the example below, the from name is `New Product`, whereas the from address is `<test-admin@postman.gov.sg>`.
 
 <figure><img src="../../.gitbook/assets/custom-domain.png" alt="" width="375"><figcaption><p>(1) From Name and (2) From Address</p></figcaption></figure>
 
 For more information, [see here](send-email-api/from-name-and-from-address.md).
 
-As such, for agencies that do not wish to go through the hassle of setting up custom from addresses, an intermediate solution might be to change the from name.&#x20;
+As such, for agencies that do not wish to go through the hassle of setting up custom from addresses, an intermediate solution might be to change the from name.
 
 Second, you wish to send emails with attachments. Currently, we only allow sending of attachments using custom sender email. For more information, [see here](send-email-api/attachments.md).
 
@@ -40,7 +40,7 @@ _Do buffer in some time before you embark on this or let us know ahead of time i
 
 ### Step 1 - [Contact the Postman team](https://go.gov.sg/postman-contact-us)
 
-Please include the following information in your request:
+Fill in this [form](https://form.gov.sg/6465d6db09cbc8001286a8d8). Please include the following information in your request:
 
 * Your use case (if you have not shared with Postman team previously)
 * The sender **email address** that you intend to send your email out from (e.g. `<no-reply@agency.gov.sg>`).
