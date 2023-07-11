@@ -9,7 +9,7 @@ description: >-
 
 Gov.SG Whatsapp is a channel the Singapore government has established to ensure secure communication between the Government and citizens. On Postman, as a government agency user, you can use this feature to send an official message ahead of time to let residents know about your upcoming call directly via the Gov.sg Whatsapp, so that they will know who you are and why you are calling.
 
-Interested in using this channel? Indicate your interest [here](https://go.gov.sg/sgc-interest-form) and we will be in touch to onboard you after August 2023.
+Interested in using this channel to send your **pre-call notifications**? Indicate your interest [here](https://go.gov.sg/sgc-interest-form) and we will be in touch to onboard you after August 2023. **Do note that this channel is not currently available for use cases such as sending marketing information, notifications on agency-specific transactions like bill payments, or answering MoP enquiries.**
 
 To read up more about onboarding to and using the Gov.sg WhatsApp channel on Postman, log in to the Singapore Government Developer Portal [here](https://docs.developer.tech.gov.sg/docs/postman-sgdp-guide/).
 
