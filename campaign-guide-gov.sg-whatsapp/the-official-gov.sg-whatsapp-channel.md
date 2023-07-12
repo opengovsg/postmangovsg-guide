@@ -11,7 +11,9 @@ Gov.SG Whatsapp is a channel the Singapore government has established to ensure 
 
 Interested in using this channel to send your **pre-call notifications**? Indicate your interest [here](https://go.gov.sg/sgc-interest-form) and we will be in touch to onboard you after August 2023. **Do note that this channel is not currently available for use cases such as sending marketing information, notifications on agency-specific transactions like bill payments, or answering MoP enquiries.**
 
-To read up more about onboarding to and using the Gov.sg WhatsApp channel on Postman, log in to the Singapore Government Developer Portal [here](https://docs.developer.tech.gov.sg/docs/postman-sgdp-guide/).
+To read up more about onboarding to and using the Gov.sg WhatsApp channel on Postman, log in to the Singapore Government Developer Portal (SGDP) [here](https://docs.developer.tech.gov.sg/docs/postman-sgdp-guide/).
+
+(_Note that only users with .gov.sg email domains can log into the SGDP. For vendors engaged by agencies, please reach out to your government agency contact to get your email address whitelisted for login access to the SGDP.)_
 
 {% hint style="info" %}
 Postman is the platform through which agencies can use the Gov.sg WhatsApp channel to send messages that verify the identity of Government officers.&#x20;
