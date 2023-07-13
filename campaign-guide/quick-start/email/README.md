@@ -10,7 +10,7 @@ description: >-
 
 * **Send rate**: 150 emails per second
 * **Shared resource:** The email service is shared by WoG
-* **Record thus far**: 20k emails in one batch for production use case
+* **Max number of emails per campaign:** No limit
 * **Max number of recipient**: No limit
 * **Daily cap:** 4.5 million emails per day
 
