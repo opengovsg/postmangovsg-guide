@@ -17,7 +17,7 @@ The response is a JSON object with the following fields:
 
 ### Limit
 
-You can specify the number of emails to return per page using the `limit` query parameter. The default value is 10, the minimum value is 1, and the maximum value is 100.
+You can specify the number of emails to return per page using the `limit` query parameter. The default value is 10, the minimum value is 1, and the maximum value is 1000.
 
 ### Offset
 
@@ -28,6 +28,7 @@ You can specify the number of emails to skip using the `offset` query parameter.
 We currently support the following filters:
 
 - `status`: return emails with the specified status. For a list of possible values, see [this section](./tracking-email-status.md#email-status)
+- `tag`: return emails with the specified tag. This is a user-defined tag that is created when the email is sent. For more information, see [this section](./send-email-api/email-tagging-and-classification.md/#email-tagging)
 - `created_at`: return emails created within the specified time range; this roughly corresponds to the time when the API call to send the email was made.
 
 For `created_at`, the timestamp should be specified in valid [ISO 8601 format](https://en.wikipedia.org/wiki/ISO_8601). The list of supported operators are:

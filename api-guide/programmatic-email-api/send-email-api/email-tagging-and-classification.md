@@ -20,6 +20,8 @@ An example JSON payload making use of this `tag` field:
 
 In this example, the `tag` field is wholly defined by the API user. When the API user queries for the email using the [email status API endpoint](../get-email-by-id-api.md) (`/transactional/email/{id}`), the `tag` field will be returned as part of the JSON object.
 
+In the [List Emails API](../list-emails-api.md), the API user can query for emails with a specific tag using the `tag` query parameter. For example, `GET /transactional/email?tag=Greetings%20v2` will return all emails with the tag `Greetings v2`.
+
 To make this feature more useful, we are considering generating monthly reports of the different emails based on these user-defined tags. If you have ideas for how this feature might be useful to you, please [contact us](https://go.gov.sg/postman-contact-us).
 
 ## Email Classification
