@@ -16,7 +16,7 @@ Otherwise, the credentials will not be saved, and you will need to key them in e
 
 #### How do I set up?
 
-First, log into your [Postman](http://localhost:5000/s/qQYf99nZtDsAL7kqovkU/) account using your official government email address.
+First, log into your [Postman](http://127.0.0.1:5000/s/qQYf99nZtDsAL7kqovkU/) account using your official government email address.
 
 _(If you prefer to watch a video on how to set up, scroll to the bottom of this page)_
 

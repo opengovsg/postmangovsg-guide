@@ -28,8 +28,8 @@
 ## Campaign Guide - SMS
 
 * [📲 SMS Campaigns - Basics](campaign-guide/sms-campaigns.md)
-  * [Before Starting Out](campaign-guide-sms/sms-campaigns/before-starting-out/README.md)
-    * [Summary of Costs](campaign-guide-sms/sms-campaigns/before-starting-out/summary-of-costs.md)
+  * [Before Starting Out](campaign-guide-sms/sms-campaigns/before-starting-out.md)
+  * [Summary of Costs](campaign-guide-sms/sms-campaigns/summary-of-costs.md)
 * [🪜 SMS Onboarding Overview](campaign-guide/onboarding-overview/README.md)
   * [Step 1: Sender ID Registration](campaign-guide/onboarding-overview/onboarding-step-1-senderid-registration.md)
   * [Step 2: Onboarding Form](campaign-guide/onboarding-overview/onboarding-step-2-onboarding-form.md)
