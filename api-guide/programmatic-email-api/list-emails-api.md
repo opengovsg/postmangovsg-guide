@@ -11,7 +11,7 @@ This API allows you to retrieve previously sent emails.
 The response is a JSON object with the following fields:
 
 - `has_more`: a boolean indicating whether there are more emails to retrieve
-- `data`: an array of JSON email objects. You can find an example of a single JSON email object [here](./get-email-by-id-api.md#example-response).
+- `data`: an array of JSON email objects. You can find an example of a single JSON email object [here](./get-email-by-id-api.md#example-response). We support excluding the `params` field from the response object, see [this section](#excluding-params-field-from-response) for more information.
 
 ## Supported Query Parameters
 
@@ -50,6 +50,12 @@ We currently support the following sorting options:
 We support both ascending and descending order.
 
 To specify the order, add the prefix `+` for ascending order and `-` for descending order. For example, `+created_at` will sort by `created_at` in ascending order, and `-updated_at` will sort by `updated_at` in descending order. If the prefix is omitted, descending order will be used.
+
+### Excluding `params` Field from Response
+
+Depending on the email `body`, the `params` field could be fairly large and unnecessary to users who are calling this API to retrieve the latest status.
+
+As such, we support an optional `exclude_params` field that allows you to exclude the `params` field from the response. To do so, set `exclude_params` to `true` in the query parameters, i.e. `GET /transactional/email?exclude_params=true`. If `exclude_params` is not specified, the `params` field will be included in the response.
 
 ## Example Queries
 
