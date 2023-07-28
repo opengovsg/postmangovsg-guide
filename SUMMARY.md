@@ -81,6 +81,7 @@
   * [Tracking Email Status](api-guide/programmatic-email-api/tracking-email-status.md)
   * [Send Email API](api-guide/programmatic-email-api/send-email-api/README.md)
     * [From Name and From Address](api-guide/programmatic-email-api/send-email-api/from-name-and-from-address.md)
+    * [CC and BCC](api-guide/programmatic-email-api/send-email-api/cc-and-bcc.md)
     * [Recipient Blacklist](api-guide/programmatic-email-api/send-email-api/recipient-blacklist.md)
     * [Email Tagging and Classification](api-guide/programmatic-email-api/send-email-api/email-tagging-and-classification.md)
     * [Email Body](api-guide/programmatic-email-api/send-email-api/email-body/README.md)

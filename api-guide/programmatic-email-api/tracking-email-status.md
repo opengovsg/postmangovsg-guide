@@ -10,6 +10,8 @@ We rely on Amazon SES's event tracking to update the status of emails sent via o
 
 You can get the status of each email sent sent using [this API endpoint](./get-email-by-id-api.md).
 
+For [CC and BCC recipients](./send-email-api/cc-and-bcc.md), email statuses are not tracked.
+
 We currently do not support pushing webhooks to your server when the status of an email changes. We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](./send-email-api/email-tagging-and-classification.md).
 
 For a list of statuses supported by our API, please refer to the table below.
@@ -48,3 +50,5 @@ For the error codes above, you can find more information by checking the `errorS
 To track open rates of emails, a 1 pixel by 1 pixel transparent GIF image is inserted in each email sent through Amazon SES and includes a unique reference to this image file; when the image is downloaded, SES can tell exactly which message was opened and by whom. In general, the addition of this tracking pixel does not change the appearance of your email. However, for Intranet recipients, this tracking pixel might be blocked and show up as a red cross. Currently, we do not support opting out of this tracking pixel.
 
 For more information, you can refer to [this page](https://docs.aws.amazon.com/ses/latest/dg/faqs-metrics.html).
+
+Please note that for emails with CC and BCC recipients, the tracking pixel is not accurate as it will be triggered when any of the recipients open the email. This is an inherent limitation of the tracking pixel as the content of the email is identical for all recipients.
