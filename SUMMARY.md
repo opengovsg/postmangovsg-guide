@@ -92,6 +92,13 @@
     * [Rate Limit](api-guide/programmatic-email-api/send-email-api/rate-limit.md)
   * [Get Email by ID API](api-guide/programmatic-email-api/get-email-by-id-api.md)
   * [List Emails API](api-guide/programmatic-email-api/list-emails-api.md)
+* [📨 Programmatic GovSG WhatsApp API](api-guide/programmatic-email-api-1/README.md)
+  * [Getting Started](api-guide/programmatic-email-api-1/getting-started.md)
+  * [Tracking Message Status](api-guide/programmatic-email-api-1/tracking-email-status.md)
+  * [Get Available Templates API](api-guide/programmatic-email-api-1/send-email-api.md)
+  * [Send Message API](api-guide/programmatic-email-api-1/send-email-api-1.md)
+  * [Get Message by ID API](api-guide/programmatic-email-api-1/get-email-by-id-api.md)
+  * [List Messages API](api-guide/programmatic-email-api-1/list-emails-api.md)
 * [🤳 Programmatic SMS API](api-guide/programmatic-sms-api.md)
 * [🎓 Frequently Asked Questions](api-guide/frequently-asked-questions.md)
 
