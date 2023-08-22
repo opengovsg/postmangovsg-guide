@@ -8,8 +8,8 @@
 
 ## Response format
 
-- `has_more`: a boolean indicating whether there are more emails to retrieve
-- `data`: an array of JSON email objects. You can find an example of a single JSON message object [here](./get-message-by-id-api.md).
+* `has_more`: a boolean indicating whether there are more WhatsApp messages to retrieve.
+* `data`: an array of JSON email objects. You can find an example of a single JSON message object [here](get-message-by-id-api.md).
 
 ### Example response
 
