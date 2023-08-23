@@ -80,3 +80,32 @@ curl --location --request POST 'https://api.postman.gov.sg/v1/transactional/emai
 --form 'subject="Test email"'
 --form 'from="user@agency.gov.sg"'
 ```
+
+## Sample code
+
+### JavaScript
+
+```
+const data = new FormData();
+data.append("recipient", "recipient@agency.gov.sg");
+data.append("subject", "Test email");
+data.append("body", "<p>Hello <b>there</b></p>");
+data.append("from", "user@agency.gov.sg");
+data.append("attachments", "/your/local/path-to-file-1");
+data.append("attachments", "/your/local/path-to-file-2");
+
+const xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
+
+xhr.addEventListener("readystatechange", function () {
+  if (this.readyState === this.DONE) {
+    console.log(this.responseText);
+  }
+});
+
+xhr.open("POST", "https://api.postman.gov.sg/v1/transactional/email/send");
+xhr.setRequestHeader("Authorization", "Bearer your_api_key");
+
+xhr.send(data);
+```
+
