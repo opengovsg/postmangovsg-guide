@@ -14,4 +14,6 @@ Type your message and click send to check if you receive the SMS and if the Send
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Send a test SMS</p></figcaption></figure>
 
-**If you don't receive your test SMS**, it is likely that this Sender ID has been taken by another agency. You should use another Alphanumeric Sender ID. Otherwise, reach out to us [here](../../contact-us.md) so that we can link you up with our Twilio account manager.
+**If you encounter an error with sending a test SMS**, it is likely that the Sender ID has yet to be mapped to Twilio. You may reach out to us [here](../../contact-us.md) so that we can link you up with our Twilio account manager.&#x20;
+
+**If you don't receive your test SMS**, it is likely that this Sender ID has been taken by another agency. You should use the Alphanumeric Sender ID that you have registered with SGNIC in this field.
