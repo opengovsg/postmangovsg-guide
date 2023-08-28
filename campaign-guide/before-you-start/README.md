@@ -26,6 +26,8 @@ Similar to FormSG and Go.gov.sg, **no registration is required to use Postman**.
 
 Simply enter your .gov.sg email. You will receive an OTP in your inbox for log in.
 
+Since login OTP emails are sent to your WOG email address, you can follow the steps [here](https://docs.developer.tech.gov.sg/docs/postman-sgdp-guide/login-on-the-go) to use SGMail’s Postmaster feature to forward the OTP email to your phone number. You will then receive the OTP via SMS.
+
 ![](../../.gitbook/assets/SignIn-Filled.png)
 
 ## Start creating your first campaign
