@@ -18,7 +18,6 @@ These channels are available:\
 1\. SMS\
 2\. Email\
 3\. Password protected email (for sensitive info)\
-4\. Telegram bot
 
 ## Why am I receiving messages from Postman?
 
