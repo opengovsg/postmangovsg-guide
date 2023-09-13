@@ -17,8 +17,7 @@ Postman is a multichannel mass messaging service for the Singapore government.
 These channels are available:\
 1\. SMS\
 2\. Email\
-3\. Password protected email (for sensitive info)\
-4\. Telegram bot
+3\. Password protected email (for sensitive info)
 
 ## Why am I receiving messages from Postman?
 
