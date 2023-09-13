@@ -8,17 +8,16 @@ description: This page will teach you how to use Postman.
 
 Once you are logged in, click on **Create new campaign** button, and you will be prompted with the following screen to choose your channel and fill in a campaign name.
 
-Postman is a multi-channel messaging service that allows you to send messages through 3 channels:
+Postman is a multi-channel messaging service that allows you to send messages through 2 channels:
 
 * [Email](email/)
 * [SMS](../sms-campaigns.md)
-* [Telegram](telegram-bot/)
 
 However, do not that each channel has its own setup so do navigate to the specific section to find out more.
 
 _**Campaign name** is simply for your own record purposes, it does not appear in the email you send to the public._
 
-![](<../../.gitbook/assets/Screenshot 2022-05-17 at 5.22.53 PM.png>)
+![\*Postman no longer supports the addition of new Telegram credentials as of 12-09-2023](<../../.gitbook/assets/Screenshot 2022-05-17 at 5.22.53 PM.png>)
 
 Once you've chosen your channel, please follow the following steps:
 

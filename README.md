@@ -11,7 +11,6 @@ Start using Postman by logging in with your `@agency.gov.sg` email address!
 * **Easily customize messages to reach a wide audience**: Create a message template, upload a file containing customization parameters, and we will handle the rest for you.
 * **Mass send emails**: Just click `Send campaign` and Postman will send those messages out to your intended audience via email.
 * **Mass send SMSes**: Enter your Twilio credentials under `Settings`, and Postman will send those messages via SMS. No integration with Twilio is needed.
-* **Mass send Telegram messages through a bot**: Get your recipients to subscribe to your Telegram bot and use Postman to send Telegram messages to the subscribers by uploading the subscriber's contact list.
 * **View stats**: Keep track of your campaign's progress as it is sending and check back when it is completed.
 * **Scheduled sending**: Create your campaign but send it out at a later **time**.
 
@@ -31,9 +30,9 @@ The Postman web app can be accessed on GSIBs that allows Secure Internet Surfing
 
 We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligible)** data. For more information, you may refer to the section of our guide on [IM8 Policies](api-guide/overview/im8-policies.md) (`.gov.sg` login required).
 
-| Normal email/SMS/Telegram | Non-sensitive to sensitivity low-normal | <ul><li>Transaction</li><li>Notification</li><li>Information broadcast</li><li>Receipts</li><li>Reminders</li></ul> |
-| ------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Password-protected email  | Sensitivity high/restricted             | <ul><li>COVID-19 test result</li><li>Blood test result</li><li>Exam test result</li></ul>                           |
+| Normal email/SMS         | Non-sensitive to sensitivity low-normal | <ul><li>Transaction</li><li>Notification</li><li>Information broadcast</li><li>Receipts</li><li>Reminders</li></ul> |
+| ------------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Password-protected email | Sensitivity high/restricted             | <ul><li>COVID-19 test result</li><li>Blood test result</li><li>Exam test result</li></ul>                           |
 
 ## Difference between the Web App and Programmatic APIs
 

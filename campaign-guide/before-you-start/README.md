@@ -36,7 +36,6 @@ Postman is a multi-channel messaging service that allows you to send messages th
 
 * [Email](../quick-start/email/)
 * [SMS](../sms/)
-* [Telegram](../quick-start/telegram-bot/)
 
 However, do note that each channel has its own setup so do navigate to the specific section to find out more.
 
