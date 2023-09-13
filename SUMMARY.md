@@ -49,16 +49,6 @@
   * [Useful Twilio Links](campaign-guide/sms/useful-twilio-links.md)
   * [Postman's SMS API](campaign-guide/sms/postmans-sms-api.md)
 
-## Campaign Guide - Telegram
-
-* [🤖 Telegram Campaigns - Basics](campaign-guide-telegram/telegram-bot/README.md)
-  * [How do I set up Telegram to send my campaigns?](campaign-guide-telegram/telegram-bot/how-do-i-set-up-telegram-to-send-my-campaigns.md)
-  * [Add Telegram Bot Token in Postman](campaign-guide-telegram/telegram-bot/add-telegram-bot-token-in-postman.md)
-  * [Instructions for Recipient Onboarding](campaign-guide-telegram/telegram-bot/instructions-recipient-telegram.md)
-  * [Use the Bot in the Campaign](campaign-guide-telegram/telegram-bot/use-the-bot-in-the-campaign.md)
-  * [Telegram Formatting](campaign-guide-telegram/telegram-bot/telegram-formatting.md)
-  * [Telegram Bot Statistics](campaign-guide-telegram/telegram-bot/telegram-bot-statistics.md)
-
 ## Campaign Guide - Gov.sg WhatsApp
 
 * [📞 The official Gov.sg WhatsApp channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
@@ -99,7 +89,6 @@
   * [Send Message API](api-guide/programmatic-govsg-api/send-message-api.md)
   * [Get Message by ID API](api-guide/programmatic-govsg-api/get-message-by-id-api.md)
   * [List Messages API](api-guide/programmatic-govsg-api/list-messages-api.md)
-* [🤳 Programmatic SMS API](api-guide/programmatic-sms-api.md)
 * [🎓 Frequently Asked Questions](api-guide/frequently-asked-questions.md)
 
 ## FAQ
