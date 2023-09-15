@@ -16,13 +16,13 @@ Tell your subscriber to go to
 2. Talk to your bot with `/start`(see example figure on the right)
 3. Send the bot his or her phone number by clicking on the **button**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Do not type your phone number. Postman will receive only the subscriber's phone number when the button is clicked.
 {% endhint %}
 
 Once the subscribers have subscribed to your bot, you can upload their phone number as a contact list in Postman in order to send messages to them.
 
-![This is an example bot set up by the Postman team.](../../../.gitbook/assets/telegram-bot-recipient-onboarding.png)
+![This is an example bot set up by the Postman team.](../../.gitbook/assets/telegram-bot-recipient-onboarding.png)
 
 ## How do I send the Telegram bot link out to the recipient?
 
