@@ -1,6 +1,6 @@
 # 🤖 Telegram Campaigns - Basics
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Updated 12 September 2023:** Postman no longer supports the addition of new Telegram credentials; this portion of the guide is only for existing users of Telegram.
 {% endhint %}
 
