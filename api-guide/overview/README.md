@@ -1,5 +1,9 @@
 # 📖 Overview
 
+{% hint style="warning" %}
+**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
+{% endhint %}
+
 ## Programmatic APIs
 
 Our programmatic APIs allow you to send messages programmatically. Messages are sent to one recipient at a time.
@@ -9,8 +13,6 @@ You can use our programmatic API to send emails typically related to application
 ### Programmatic Email API
 
 We provide a **modern, cost-effective, and compliant PaaS** for to send programmatic emails.
-
-We are working on launching our programmatic email API. Interested users can reach out to us via [this form](https://go.gov.sg/postmanp-api-wogict).
 
 For more info, [see here](../programmatic-email-api/).
 

@@ -34,13 +34,19 @@ Our API is designed to accommodate a range of use cases. However, we do limit th
 
 ## What is the onboarding process?
 
-If you are interested in exploring our API and want to see if your use case is suitable, feel free to reach out to the Postman team via this [form](https://form.gov.sg/#!/62b19812ff209e00126f2c47) so that we can arrange a chat with you.
+{% hint style="warning" %}
+**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
+{% endhint %}
 
 If you would like to try out the API integration straightaway, you can generate your own API key by logging into your Postman account. Steps to do so are available [here](https://guide.postman.gov.sg/\~/changes/pv1f3DWM1ORa7R0uNLij/api-guide/api-key-management/generate-your-api-key) and our Swagger docs are [available here](https://api.postman.gov.sg/docs/#/). We recommend that you test your integration directly in the production version of Postman to ensure that your integration works as expected.
 
 ## What is Postman Programmatic Email API's product roadmap?
 
-We are currently working to launch our API in Q3 2023, following which we will publish our product roadmap. In the meantime, you can find [our feature list here](programmatic-email-api/).
+{% hint style="warning" %}
+**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
+{% endhint %}
+
+We are currently working on our new programmatic email API and will not be onboarding new users till further notice, following which we will publish our product roadmap. In the meantime, you can find [our feature list here](programmatic-email-api/).
 
 ## Does my agency need to set up a custom from address?
 
