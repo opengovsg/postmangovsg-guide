@@ -59,7 +59,7 @@
   * [Telegram Formatting](campaign-guide-telegram/telegram-bot/telegram-formatting.md)
   * [Telegram Bot Statistics](campaign-guide-telegram/telegram-bot/telegram-bot-statistics.md)
 
-## Campaign Guide - Gov.sg WhatsApp
+## Campaign Guide - Gov.sg
 
 * [📞 The official Gov.sg channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
   * [Overview of Gov.sg channel](overview-of-gov.sg-channel.md)
