@@ -62,8 +62,8 @@
 ## Campaign Guide - Gov.sg
 
 * [📞 The official Gov.sg channel](campaign-guide-gov.sg-whatsapp/the-official-gov.sg-whatsapp-channel.md)
-  * [Overview of Gov.sg channel](overview-of-gov.sg-channel.md)
-  * [CheckWho (officer verification) feature](checkwho.md)
+  * [Overview of Gov.sg channel](campaign-guide-gov.sg/the-official-gov.sg-whatsapp-channel/overview-of-gov.sg-channel.md)
+  * [CheckWho (officer verification) feature](campaign-guide-gov.sg/the-official-gov.sg-whatsapp-channel/checkwho-officer-verification-feature.md)
 
 ## API Guide
 
