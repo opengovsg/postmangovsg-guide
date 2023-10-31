@@ -6,6 +6,10 @@ description: >-
 
 # Getting Started
 
+{% hint style="warning" %}
+**Updated 25 October 2023** We have stopped onboarding new agencies to the Gov.sg WhatsApp channel
+{% endhint %}
+
 ### **Step 1: Request for access**
 
 As Gov.sg WhatsApp channel is currently available on an invite-only basis, you have to send in a request via [this form](https://go.gov.sg/sgc-interest-form). Please also tell us about your use-case so we can make the appropriate templates available for your account.
@@ -18,7 +22,7 @@ Log in to Postman.gov.sg using the whitelisted email address identified in **Ste
 
 ### **Step 3: Start sendng test messages and integration**
 
-Retrieve ID of the message template that you need using [this endpoint](./get-templates-api.md) and send out test messages using [the sending endpoint](./send-message-api.md).
+Retrieve ID of the message template that you need using [this endpoint](get-templates-api.md) and send out test messages using [the sending endpoint](send-message-api.md).
 
 ### **Step 4: Communicate go-live date to the Postman team**
 

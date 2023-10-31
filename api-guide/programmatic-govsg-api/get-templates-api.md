@@ -2,6 +2,10 @@
 
 ## Overview
 
+{% hint style="warning" %}
+**Updated 25 October 2023** We have stopped onboarding new agencies to the Gov.sg WhatsApp channel
+{% endhint %}
+
 This endpoint returns information about the available message templates for your account that can be used to send out Gov.sg WhatsApp messages.
 
 {% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/govsg/templates" method="get" %}
@@ -62,5 +66,5 @@ For general information about our API response formats, [see here](../../overvie
 ```
 
 {% hint style="info" %}
-The`id` and `languageCode` fields will be used in the [sending endpoint]() later to indicate the specific template and lingual variation that you want to send your message out using.
+The`id` and `languageCode` fields will be used in the [sending endpoint](get-templates-api.md) later to indicate the specific template and lingual variation that you want to send your message out using.
 {% endhint %}

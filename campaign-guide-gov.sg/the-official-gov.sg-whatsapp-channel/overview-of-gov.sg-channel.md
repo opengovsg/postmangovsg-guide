@@ -11,7 +11,7 @@ Postman is the platform through which agencies can use the Gov.sg channel to
 
 #### Onboarding onto the Gov.sg channel
 
-To read up more about onboarding to and using the Gov.sg channel on Postman, log in to the Singapore Government Developer Portal (SGDP) \[here]
+To read up more about onboarding to and using the Gov.sg channel on Postman, log in to the Singapore Government Developer Portal (SGDP) [here](https://docs.developer.tech.gov.sg/docs/postman-sgdp-guide/what-is-sgc).
 
 {% hint style="info" %}
 **Logging into SGDP** is only available for users with .gov.sg email domains.\
