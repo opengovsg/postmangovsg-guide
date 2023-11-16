@@ -53,7 +53,7 @@ For general information about our API response formats, [see here](../../overvie
 In the event of a successful request, the response status code will be `201 Created`.
 
 {% hint style="info" %}
-Sending emails is an asynchronous process. After receiving your API call, Postman will attempt to send the email via our email service provider. As such, a successful API request simply means the request has been made successfully. To return a response to each API call promptly, there is not enough time to ensure that your message has been sent or delivered successfully. To check on the status of your email, you should call [this endpoint](../../../api-guide/programmatic-email-api/programmatic-email-api/get-email-by-id-api.md).
+Sending emails is an asynchronous process. After receiving your API call, Postman will attempt to send the email via our email service provider. As such, a successful API request simply means the request has been made successfully. To return a response to each API call promptly, there is not enough time to ensure that your message has been sent or delivered successfully. To check on the status of your email, you should call [this endpoint](../programmatic-email-api/get-email-by-id-api.md).
 {% endhint %}
 
 For unsuccessful requests, we will provide an appropriate status code and error message to indicate the reason for the failure.

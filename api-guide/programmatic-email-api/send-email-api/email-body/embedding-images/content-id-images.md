@@ -8,8 +8,8 @@ Content-ID images work by attaching the image to the email you send and then usi
 
 If you are using the same set of images across multiple emails, we advise you to look into using linked images for the following reasons:
 
-- As the same images are being used, attaching the same image to each email is inefficient and bad for the environment
-- Content-ID images are larger in size as the image is attached to the email. This slows down your API calls and increases costs.
+* As the same images are being used, attaching the same image to each email is inefficient and bad for the environment
+* Content-ID images are larger in size as the image is attached to the email. This slows down your API calls and increases costs.
 
 For more information, [see here](linked-images.md).
 
@@ -59,4 +59,5 @@ curl --request POST \
 ```
 
 The resulting email:
+
 <figure><img src="../../../../../.gitbook/assets/cid-email.png" alt="" width="335"><figcaption></figcaption></figure>

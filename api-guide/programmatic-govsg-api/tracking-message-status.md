@@ -4,7 +4,7 @@ API users can track the status of messages sent via our API.
 
 ## Gov.sg WhatsApp Message Status
 
-You can get the status of each email sent sent using [this API endpoint]().
+You can get the status of each email sent sent using [this API endpoint](tracking-message-status.md).
 
 We currently do not support pushing webhooks to your server when the status of a message changes.
 
@@ -21,13 +21,13 @@ For a list of statuses supported by our API, please refer to the table below.
 
 ## Error Codes and Error Description
 
-The `error_code` and `error_description` fields in the JSON object returned [by our API]() supplement the email status and provide additional information.
+The `error_code` and `error_description` fields in the JSON object returned [by our API](tracking-message-status.md) supplement the email status and provide additional information.
 
 You can find a non-exhaustive list of error codes below.
 
 ### Error code while attempting to send messages
 
-- `invalid_recipient`: This error is returned when the recipient number provided is either not a valid phone number or doesn't have any WhatsApp account associated with it. Under this scenario, no message will be sent out.
+* `invalid_recipient`: This error is returned when the recipient number provided is either not a valid phone number or doesn't have any WhatsApp account associated with it. Under this scenario, no message will be sent out.
 
 ### Error code after a message has been sent
 

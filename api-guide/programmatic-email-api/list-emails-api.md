@@ -10,8 +10,8 @@ This API allows you to retrieve previously sent emails.
 
 The response is a JSON object with the following fields:
 
-- `has_more`: a boolean indicating whether there are more emails to retrieve
-- `data`: an array of JSON email objects. You can find an example of a single JSON email object [here](./get-email-by-id-api.md#example-response). We support excluding the `params` field from the response object, see [this section](#excluding-params-field-from-response) for more information.
+* `has_more`: a boolean indicating whether there are more emails to retrieve
+* `data`: an array of JSON email objects. You can find an example of a single JSON email object [here](get-email-by-id-api.md#example-response). We support excluding the `params` field from the response object, see [this section](list-emails-api.md#excluding-params-field-from-response) for more information.
 
 ## Supported Query Parameters
 
@@ -27,16 +27,16 @@ You can specify the number of emails to skip using the `offset` query parameter.
 
 We currently support the following filters:
 
-- `status`: return emails with the specified status. For a list of possible values, see [this section](./tracking-email-status.md#email-status)
-- `tag`: return emails with the specified tag. This is a user-defined tag that is created when the email is sent. For more information, see [this section](./send-email-api/email-tagging-and-classification.md/#email-tagging)
-- `created_at`: return emails created within the specified time range; this roughly corresponds to the time when the API call to send the email was made.
+* `status`: return emails with the specified status. For a list of possible values, see [this section](tracking-email-status.md#email-status)
+* `tag`: return emails with the specified tag. This is a user-defined tag that is created when the email is sent. For more information, see [this section](send-email-api/email-tagging-and-classification.md#email-tagging)
+* `created_at`: return emails created within the specified time range; this roughly corresponds to the time when the API call to send the email was made.
 
-For `created_at`, the timestamp should be specified in valid [ISO 8601 format](https://en.wikipedia.org/wiki/ISO_8601). The list of supported operators are:
+For `created_at`, the timestamp should be specified in valid [ISO 8601 format](https://en.wikipedia.org/wiki/ISO\_8601). The list of supported operators are:
 
-- `gt`: greater than
-- `gte`: greater than or equal to
-- `lt`: less than
-- `lte`: less than or equal to
+* `gt`: greater than
+* `gte`: greater than or equal to
+* `lt`: less than
+* `lte`: less than or equal to
 
 ### Sorting
 
@@ -44,8 +44,8 @@ The default sorting option is `created_at`, descending.
 
 We currently support the following sorting options:
 
-- `created_at`: sort by the time when the email was created; this roughly corresponds to the time when the API call to send the email was made
-- `updated_at`: sort by the time when the email was last updated
+* `created_at`: sort by the time when the email was created; this roughly corresponds to the time when the API call to send the email was made
+* `updated_at`: sort by the time when the email was last updated
 
 We support both ascending and descending order.
 

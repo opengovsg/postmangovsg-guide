@@ -5,7 +5,7 @@ This API allows you to retrieve metadata about a specific email sent via our API
 ## How It Works
 
 {% hint style="info" %}
-To use this API, you must save the `id` field in the response returned when making an API call to send the email. For more information, see [this section](./send-email-api/README.md#response-json-object).
+To use this API, you must save the `id` field in the response returned when making an API call to send the email. For more information, see [this section](send-email-api/#response-json-object).
 {% endhint %}
 
 {% swagger src="https://api.postman.gov.sg/openapi.yaml" path="/transactional/email/{emailId}" method="get" %}
@@ -48,4 +48,4 @@ To use this API, you must save the `id` field in the response returned when maki
 
 ## Limitations
 
-We currently do not support pushing webhooks to your server when the status of an email changes. We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](./send-email-api/email-tagging-and-classification.md).
+We currently do not support pushing webhooks to your server when the status of an email changes. We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](send-email-api/email-tagging-and-classification.md).

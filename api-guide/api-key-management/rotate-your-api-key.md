@@ -4,7 +4,7 @@
 
 Postman's API keys are designed to expire automatically and require regular rotation. An expired key will not be able to access Postman's APIs. To support key rotation, users can create multiple valid API keys per account.
 
-* API keys that had been created prior to our multiple API key feature will expire on **21 April 2024, 08:00 GMT+8**.&#x20;
+* API keys that had been created prior to our multiple API key feature will expire on **21 April 2024, 08:00 GMT+8**.
 * Newly created API keys will expire **6 months after creation**.
 
 We encourage users to rotate API keys even more frequently if possible.
@@ -23,7 +23,7 @@ Follow these steps to rotate your API key:
 
 1. Create a new API key. See [this page](generate-your-api-key.md) for step-by-step instructions.
 2. Update the API key used in your system to the new one and, if necessary, restart your system to load the new value.
-3. Remove the old API key from your account by clicking the corresponding delete button in Postman's `Settings` page.&#x20;
+3. Remove the old API key from your account by clicking the corresponding delete button in Postman's `Settings` page.
 
 <figure><img src="../../.gitbook/assets/delete-api-key.png" alt=""><figcaption><p>Please ensure that you are deleting the correct API key.</p></figcaption></figure>
 

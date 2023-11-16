@@ -28,7 +28,7 @@ The Postman web app can be accessed on GSIBs that allows Secure Internet Surfing
 
 ## What data can Postman handle?
 
-We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligible)** data. For more information, you may refer to the section of our guide on [IM8 Policies](email-api-guide/overview/im8-policies.md) (`.gov.sg` login required).
+We use cloud infrastructure so we can handle up to **Confidential (Cloud-Eligible)** data. For more information, you may refer to the section of our guide on [IM8 Policies](api-guide/overview/im8-policies.md) (`.gov.sg` login required).
 
 | Normal email/SMS         | Non-sensitive to sensitivity low-normal | <ul><li>Transaction</li><li>Notification</li><li>Information broadcast</li><li>Receipts</li><li>Reminders</li></ul> |
 | ------------------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |

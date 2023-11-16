@@ -8,11 +8,11 @@ We rely on Amazon SES's event tracking to update the status of emails sent via o
 
 ## Email Status
 
-You can get the status of each email sent sent using [this API endpoint](./get-email-by-id-api.md).
+You can get the status of each email sent sent using [this API endpoint](get-email-by-id-api.md).
 
-For [CC and BCC recipients](./send-email-api/cc-and-bcc.md), email statuses are not tracked.
+For [CC and BCC recipients](send-email-api/cc-and-bcc.md), email statuses are not tracked.
 
-We currently do not support pushing webhooks to your server when the status of an email changes. We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](./send-email-api/email-tagging-and-classification.md).
+We currently do not support pushing webhooks to your server when the status of an email changes. We are exploring the possibility of providing more email analytics, such as monthly reports aggregating statistics about email deliverability grouped based on user-defined tags. For more information, see [this section](send-email-api/email-tagging-and-classification.md).
 
 For a list of statuses supported by our API, please refer to the table below.
 
@@ -27,7 +27,7 @@ For a list of statuses supported by our API, please refer to the table below.
 
 ## Error Codes and Error Subtype
 
-The `errorCode` and `errorSubType` fields in the JSON object returned [by our API](./get-email-by-id-api.md) supplement the email status and provide additional information.
+The `errorCode` and `errorSubType` fields in the JSON object returned [by our API](get-email-by-id-api.md) supplement the email status and provide additional information.
 
 You can find a non-exhaustive list of error codes below.
 
@@ -35,7 +35,7 @@ You can find a non-exhaustive list of error codes below.
 
 1. Invalid from address: the user has entered a from address that is neither their own (the email address used to log into Postman) nor `<donotreply@mail.postman.gov.sg>`.
 2. From address has not been verified: the user should contact the Postman team to verify their from address.
-3. Blacklisted recipient: the recipient's email address is on our blacklist. For more information, see [this section](./send-email-api/recipient-blacklist.md).
+3. Blacklisted recipient: the recipient's email address is on our blacklist. For more information, see [this section](send-email-api/recipient-blacklist.md).
 
 ### Error code after an email has been sent
 
