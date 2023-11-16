@@ -43,7 +43,7 @@ For Internet users:
 ## Express interest and FAQs
 
 {% hint style="warning" %}
-**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
+**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic email API user till further notice.
 {% endhint %}
 
 If you have any queries, you can check out this [API FAQ page](../frequently-asked-questions.md).

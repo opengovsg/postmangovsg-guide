@@ -1,5 +1,4 @@
 ---
-
 description: Handling responses from the Postman API
 ---
 
@@ -14,7 +13,7 @@ Postman uses conventional API Responses Codes to indicate the success or failure
 | 200 - OK                     | Everything worked as expected                                                                                                                                                                     |
 | 201 - Created                | Resource created. The message is being sent.                                                                                                                                                      |
 | 202 - Accepted               | We have accepted the request, but processing has not been completed. This is usually used for long-running processes like handling uploads of recipient lists to generate messages for campaigns. |
-| 400 - Bad Request            | The request was rejected. This is likely caused by missing required parameters or parameters supplied in an incorrect format.                                                                             |
+| 400 - Bad Request            | The request was rejected. This is likely caused by missing required parameters or parameters supplied in an incorrect format.                                                                     |
 | 401 - Unauthenticated        | Invalid API key provided.                                                                                                                                                                         |
 | 403 - Forbidden              | User doesn't have permission to perform the request, could be due to resources are in an invalid state for the operation.                                                                         |
 | 404 - Not Found              | The requested resource doesn't exist.                                                                                                                                                             |
@@ -28,10 +27,10 @@ Postman uses conventional API Responses Codes to indicate the success or failure
 All responses to successful requests to the Postman API will be returned in JSON format with a HTTP status code in the `2xx` range. The response will contain information about the resources that are being acted on (e.g. creation, retrieval).
 
 {% hint style="info" %}
-Sending messages is an asynchronous process. As such, a successful API request to our message sending endpoints simply mean the request has been made successfully. It does not mean that your message has been sent or delivered successfully. To check this, you should call the respective endpoints ([email](../programmatic-email-api/get-email-by-id-api.md), [SMS](../programmatic-sms-api.md)) to check the status of your message.
+Sending messages is an asynchronous process. As such, a successful API request to our message sending endpoints simply mean the request has been made successfully. It does not mean that your message has been sent or delivered successfully. To check this, you should call the respective endpoints ([email](../programmatic-email-api/get-email-by-id-api.md), [SMS](broken-reference)) to check the status of your message.
 {% endhint %}
 
-The following is an example of a JSON object received after sending an email via the [this endpoint](../programmatic-email-api/send-email-api/README.md) of our [programmatic email API](../programmatic-email-api/):
+The following is an example of a JSON object received after sending an email via the [this endpoint](../programmatic-email-api/send-email-api/) of our [programmatic email API](../programmatic-email-api/):
 
 ```json
 {
@@ -67,7 +66,7 @@ The following is an example of a JSON object received after sending an email via
 
 ## Format of Error Responses
 
-For error responses (with non-`2xx` codes),  the response will be in JSON format with these fields
+For error responses (with non-`2xx` codes), the response will be in JSON format with these fields
 
 ```json
 {

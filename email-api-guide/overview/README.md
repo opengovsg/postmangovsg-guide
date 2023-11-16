@@ -4,11 +4,11 @@
 **Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
 {% endhint %}
 
-## Programmatic APIs
+## Programmatic Email APIs
 
-Our programmatic APIs allow you to send messages programmatically. Messages are sent to one recipient at a time.
+Our programmatic email APIs allow you to send messages programmatically. Messages are sent to one recipient at a time.
 
-You can use our programmatic API to send emails typically related to application approvals, OTPs, email receipts, reminders etc.
+You can use our programmatic email API to send emails typically related to application approvals, OTPs, email receipts, reminders etc.
 
 ### Programmatic Email API
 

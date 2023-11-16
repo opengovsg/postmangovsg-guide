@@ -16,7 +16,7 @@ If you’re unsure if Postman Programmatic Email API is a good fit, get started 
 ## Ready to onboard?
 
 {% hint style="warning" %}
-**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
+**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic email API user till further notice.
 {% endhint %}
 
 Here are the following steps to take note to help you onboard more smoothly.
