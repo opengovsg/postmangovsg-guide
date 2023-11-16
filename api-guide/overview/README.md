@@ -1,7 +1,7 @@
 # 📖 Overview
 
 {% hint style="warning" %}
-**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic API user till further notice.
+**Updated 26 September 2023:** Postman will no longer be onboarding any new programmatic email API user till further notice.
 {% endhint %}
 
 ## Programmatic Email APIs
